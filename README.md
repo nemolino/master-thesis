@@ -1,1 +1,1 @@
-# MODELS AND ALGORITHMS FOR THE OPTIMAL ALLOCATION OF SERVICES IN VEHICLE-TO-CLOUD ARCHITECTURES
+# Models and Algorithms for the Optimal Allocation of Services in Vehicle-to-Cloud Architectures
