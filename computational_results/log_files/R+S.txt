@@ -1,0 +1,747 @@
+0 2 apps,DATASET_2/networks/network_030_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0000.dat
+GAP_STOP 3 410.27598322566024 0.181
+rounding_subMIPing 0.118 (0.0016591548919677734,'OPTIMAL',1.0,429.0,None)
+
+1 2 apps,DATASET_2/networks/network_030_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0001.dat
+GAP_STOP 6 570.2159775190687 0.196
+rounding_subMIPing 0.053 (0.001583099365234375,'OPTIMAL',1.0,573.0,None)
+
+2 2 apps,DATASET_2/networks/network_030_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0002.dat
+GAP_STOP 8 940.6254739034483 0.646
+rounding_subMIPing 0.250 (0.039224863052368164,'OPTIMAL',1.0,966.0,None)
+
+3 3 apps,DATASET_2/networks/network_030_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0003.dat
+GAP_STOP 6 695.2447040450787 0.637
+rounding_subMIPing 0.197 (0.00209808349609375,'OPTIMAL',0.0,707.0,None)
+
+4 3 apps,DATASET_2/networks/network_030_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0004.dat
+GAP_STOP 3 804.392432864131 0.272
+rounding_subMIPing 0.131 (0.009111166000366211,'OPTIMAL',1.0,808.0,None)
+
+5 3 apps,DATASET_2/networks/network_030_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0005.dat
+GAP_STOP 8 957.993672909767 1.697
+rounding_subMIPing 0.384 (0.015197038650512695,'OPTIMAL',1.0,982.0,None)
+
+6 4 apps,DATASET_2/networks/network_030_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0006.dat
+GAP_STOP 12 1373.4126999511518 3.080
+rounding_subMIPing 1.297 (0.0653531551361084,'OPTIMAL',1.0,1420.0,None)
+
+7 4 apps,DATASET_2/networks/network_030_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0007.dat
+GAP_STOP 8 1084.5926812886041 0.886
+rounding_subMIPing 0.260 (0.008177995681762695,'OPTIMAL',1.0,1104.0,None)
+
+8 4 apps,DATASET_2/networks/network_030_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0008.dat
+GAP_STOP 14 1645.137137862996 4.426
+rounding_subMIPing 2.442 (0.14340901374816895,'OPTIMAL',258.0,1694.0,None)
+
+9 5 apps,DATASET_2/networks/network_030_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0009.dat
+GAP_STOP 19 1960.4730401295872 4.689
+rounding_subMIPing 1.605 (0.05345797538757324,'OPTIMAL',1.0,2014.0,None)
+
+10 5 apps,DATASET_2/networks/network_030_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0010.dat
+GAP_STOP 15 1728.0944454958621 4.057
+rounding_subMIPing 0.707 (0.03638720512390137,'OPTIMAL',1.0,1809.0,None)
+
+11 5 apps,DATASET_2/networks/network_030_d_rp_0.dat DATASET_2/apps_merged_FINAL/id_0011.dat
+GAP_STOP 31 2330.0750369417715 23.147
+rounding_subMIPing 7.650 (0.4581019878387451,'INFEASIBLE',565.0,None,None)
+
+12 6 apps,DATASET_2/networks/network_030_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0012.dat
+GAP_STOP 15 2019.7383296787862 10.385
+rounding_subMIPing 10.947 (0.010529041290283203,'INFEASIBLE',0.0,None,None)
+
+13 6 apps,DATASET_2/networks/network_030_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0013.dat
+GAP_STOP 20 3042.8689242534006 12.483
+rounding_subMIPing 9.098 (0.006227016448974609,'INFEASIBLE',0.0,None,None)
+
+14 6 apps,DATASET_2/networks/network_030_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0014.dat
+GAP_STOP 16 1844.7524396335468 3.548
+rounding_subMIPing 1.558 (0.2664320468902588,'OPTIMAL',33.0,1901.0,None)
+
+15 7 apps,DATASET_2/networks/network_030_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0015.dat
+GAP_STOP 19 2206.187160778566 11.106
+rounding_subMIPing 3.414 (0.48778796195983887,'OPTIMAL',70.0,2366.0,None)
+
+16 7 apps,DATASET_2/networks/network_030_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0016.dat
+GAP_STOP 21 2630.501907320367 18.837
+rounding_subMIPing 6.495 (0.024033069610595703,'INFEASIBLE',1.0,None,None)
+
+17 7 apps,DATASET_2/networks/network_030_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0017.dat
+GAP_STOP 31 3463.0717765016625 14.485
+rounding_subMIPing 7.185 (0.01994490623474121,'INFEASIBLE',1.0,None,None)
+
+20 8 apps,DATASET_2/networks/network_030_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0020.dat
+GAP_STOP 17 2268.9444632963996 7.443
+rounding_subMIPing 3.107 (0.1997208595275879,'OPTIMAL',1.0,2412.0,None)
+
+87 2 apps,DATASET_2/networks/network_040_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0087.dat
+GAP_STOP 4 805.4532934131737 0.626
+rounding_subMIPing 0.225 (0.010206937789916992,'OPTIMAL',1.0,828.0,None)
+
+88 2 apps,DATASET_2/networks/network_040_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0088.dat
+GAP_STOP 3 753.0660458358102 0.550
+rounding_subMIPing 0.215 (0.02629995346069336,'OPTIMAL',1.0,758.0,None)
+
+89 2 apps,DATASET_2/networks/network_040_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0089.dat
+GAP_STOP 3 785.2717424995218 1.211
+rounding_subMIPing 1.205 (0.026163101196289062,'OPTIMAL',1.0,797.0,None)
+
+90 3 apps,DATASET_2/networks/network_040_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0090.dat
+GAP_STOP 9 1094.4407228041732 1.776
+rounding_subMIPing 0.650 (0.023636817932128906,'OPTIMAL',1.0,1137.0,None)
+
+91 3 apps,DATASET_2/networks/network_040_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0091.dat
+GAP_STOP 10 1479.1644856782088 3.645
+rounding_subMIPing 1.944 (0.08379197120666504,'OPTIMAL',1.0,1535.0,None)
+
+92 3 apps,DATASET_2/networks/network_040_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0092.dat
+GAP_STOP 8 1173.2103989989998 3.600
+rounding_subMIPing 1.347 (0.08744096755981445,'OPTIMAL',1.0,1214.0,None)
+
+93 4 apps,DATASET_2/networks/network_040_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0093.dat
+GAP_STOP 31 1429.2973235580414 12.112
+rounding_subMIPing 1.207 (0.07321500778198242,'OPTIMAL',1.0,1481.0,None)
+
+94 4 apps,DATASET_2/networks/network_040_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0094.dat
+GAP_STOP 9 1387.1685495720628 3.880
+rounding_subMIPing 1.683 (0.14595293998718262,'OPTIMAL',1.0,1415.0,None)
+
+95 4 apps,DATASET_2/networks/network_040_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0095.dat
+GAP_STOP 17 1649.9588942314433 6.587
+rounding_subMIPing 1.920 (0.5165660381317139,'OPTIMAL',191.0,1730.0,None)
+
+96 5 apps,DATASET_2/networks/network_040_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0096.dat
+GAP_STOP 20 1819.8642462351686 6.349
+rounding_subMIPing 2.108 (0.12819385528564453,'OPTIMAL',1.0,1888.0,None)
+
+97 5 apps,DATASET_2/networks/network_040_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0097.dat
+GAP_STOP 24 2533.132662079463 20.257
+rounding_subMIPing 5.423 (0.04227280616760254,'INFEASIBLE',1.0,None,None)
+
+98 5 apps,DATASET_2/networks/network_040_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0098.dat
+GAP_STOP 25 2669.4298745905653 16.733
+rounding_subMIPing 7.173 (0.07519412040710449,'OPTIMAL',1.0,2805.0,None)
+
+99 6 apps,DATASET_2/networks/network_040_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0099.dat
+GAP_STOP 14 2126.9654029387857 6.813
+rounding_subMIPing 4.964 (0.29601192474365234,'OPTIMAL',52.0,2202.0,None)
+
+100 6 apps,DATASET_2/networks/network_040_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0100.dat
+GAP_STOP 21 2470.171063182332 17.907
+rounding_subMIPing 10.260 (0.6436598300933838,'OPTIMAL',15.0,2583.0,None)
+
+101 6 apps,DATASET_2/networks/network_040_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0101.dat
+GAP_STOP 20 2489.7534805135633 12.317
+rounding_subMIPing 5.392 (0.45958590507507324,'OPTIMAL',131.0,2572.0,None)
+
+104 7 apps,DATASET_2/networks/network_040_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0104.dat
+GAP_STOP 21 2364.438822234855 12.500
+rounding_subMIPing 5.180 (0.14266490936279297,'OPTIMAL',25.0,2510.0,None)
+
+105 8 apps,DATASET_2/networks/network_040_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0105.dat
+GAP_STOP 24 3415.8566146541734 15.499
+rounding_subMIPing 10.171 (1.8271069526672363,'OPTIMAL',1068.0,3489.0,None)
+
+106 8 apps,DATASET_2/networks/network_040_c_rp_2.dat DATASET_2/apps_merged_FINAL/id_0106.dat
+GAP_STOP 19 2751.8063162349827 13.311
+rounding_subMIPing 3.050 (0.2570970058441162,'OPTIMAL',12.0,2859.0,None)
+
+107 8 apps,DATASET_2/networks/network_040_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0107.dat
+GAP_STOP 19 2506.331327584507 23.612
+rounding_subMIPing 15.841 (0.3831040859222412,'INFEASIBLE',3.0,None,None)
+
+108 9 apps,DATASET_2/networks/network_040_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0108.dat
+GAP_STOP 28 3833.445018846976 38.575
+rounding_subMIPing 22.267 (0.01214289665222168,'INFEASIBLE',0.0,None,None)
+
+109 9 apps,DATASET_2/networks/network_040_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0109.dat
+GAP_STOP 28 3787.191583685128 60.574
+rounding_subMIPing 50.259 (0.3928539752960205,'INFEASIBLE',1.0,None,None)
+
+111 10 apps,DATASET_2/networks/network_040_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0111.dat
+GAP_STOP 30 3819.7643056432307 42.138
+rounding_subMIPing 35.389 (0.05794787406921387,'INFEASIBLE',1.0,None,None)
+
+112 10 apps,DATASET_2/networks/network_040_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0112.dat
+GAP_STOP 16 3191.36171354584 16.721
+rounding_subMIPing 13.037 (0.018345117568969727,'INFEASIBLE',1.0,None,None)
+
+113 10 apps,DATASET_2/networks/network_040_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0113.dat
+GAP_STOP 21 3558.393106253555 31.736
+rounding_subMIPing 22.978 (10.560755968093872,'OPTIMAL',9016.0,3960.0,None)
+
+115 11 apps,DATASET_2/networks/network_040_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0115.dat
+GAP_STOP 22 3357.978934575384 15.789
+rounding_subMIPing 10.732 (0.028237104415893555,'INFEASIBLE',1.0,None,None)
+
+117 12 apps,DATASET_2/networks/network_040_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0117.dat
+GAP_STOP 29 4477.13088973835 83.465
+rounding_subMIPing 52.684 (0.6255319118499756,'INFEASIBLE',1.0,None,None)
+
+118 12 apps,DATASET_2/networks/network_040_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0118.dat
+GAP_STOP 30 4541.135797338436 69.591
+rounding_subMIPing 43.917 (0.8050360679626465,'INFEASIBLE',1.0,None,None)
+
+119 12 apps,DATASET_2/networks/network_040_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0119.dat
+GAP_STOP 18 3637.0042143033397 45.286
+rounding_subMIPing 31.430 (0.20839500427246094,'INFEASIBLE',1.0,None,None)
+
+122 13 apps,DATASET_2/networks/network_040_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0122.dat
+GAP_STOP 24 4307.78231167934 62.103
+rounding_subMIPing 98.800 (65.5446400642395,'INFEASIBLE',16997.0,None,None)
+
+176 2 apps,DATASET_2/networks/network_050_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0176.dat
+GAP_STOP 2 704.1021505376344 0.587
+rounding_subMIPing 0.282 (0.013718128204345703,'OPTIMAL',1.0,707.0,None)
+
+177 3 apps,DATASET_2/networks/network_050_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0177.dat
+GAP_STOP 5 727.1496963551717 1.341
+rounding_subMIPing 0.613 (0.0787649154663086,'OPTIMAL',1.0,763.0,None)
+
+178 3 apps,DATASET_2/networks/network_050_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0178.dat
+GAP_STOP 21 1855.7517958240978 14.451
+rounding_subMIPing 8.099 (0.22049999237060547,'OPTIMAL',1.0,1918.0,None)
+
+179 3 apps,DATASET_2/networks/network_050_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0179.dat
+GAP_STOP 5 1173.5793437804186 2.343
+rounding_subMIPing 0.698 (0.09567999839782715,'OPTIMAL',1.0,1180.0,None)
+
+180 4 apps,DATASET_2/networks/network_050_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0180.dat
+GAP_STOP 13 1290.720746046931 6.664
+rounding_subMIPing 2.221 (0.09542202949523926,'OPTIMAL',1.0,1324.0,None)
+
+181 4 apps,DATASET_2/networks/network_050_d_rp_0.dat DATASET_2/apps_merged_FINAL/id_0181.dat
+GAP_STOP 7 1207.9810325306182 1.433
+rounding_subMIPing 0.423 (0.013807058334350586,'OPTIMAL',1.0,1229.0,None)
+
+182 4 apps,DATASET_2/networks/network_050_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0182.dat
+GAP_STOP 6 1295.8151577307826 1.960
+rounding_subMIPing 1.135 (0.08196592330932617,'OPTIMAL',1.0,1308.0,None)
+
+183 5 apps,DATASET_2/networks/network_050_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0183.dat
+GAP_STOP 3 913.7767287784678 1.156
+rounding_subMIPing 0.659 (0.045371055603027344,'OPTIMAL',1.0,934.0,None)
+
+184 5 apps,DATASET_2/networks/network_050_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0184.dat
+GAP_STOP 17 2135.420109584479 13.814
+rounding_subMIPing 7.340 (0.35707998275756836,'OPTIMAL',1.0,2183.0,None)
+
+185 5 apps,DATASET_2/networks/network_050_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0185.dat
+GAP_STOP 11 1836.4468622311708 6.633
+rounding_subMIPing 4.949 (0.8414578437805176,'OPTIMAL',176.0,1895.0,None)
+
+186 6 apps,DATASET_2/networks/network_050_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0186.dat
+GAP_STOP 12 1334.6962189104236 8.937
+rounding_subMIPing 3.263 (0.7206640243530273,'OPTIMAL',140.0,1389.0,None)
+
+187 6 apps,DATASET_2/networks/network_050_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0187.dat
+GAP_STOP 16 2381.4360092800434 16.314
+rounding_subMIPing 11.827 (0.36069512367248535,'OPTIMAL',205.0,2491.0,None)
+
+188 6 apps,DATASET_2/networks/network_050_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0188.dat
+GAP_STOP 26 2718.726041895125 28.233
+rounding_subMIPing 9.357 (1.4554250240325928,'OPTIMAL',1887.0,2790.0,None)
+
+189 7 apps,DATASET_2/networks/network_050_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0189.dat
+GAP_STOP 18 2394.9902403966175 22.818
+rounding_subMIPing 5.811 (0.3048989772796631,'OPTIMAL',1.0,2472.0,None)
+
+190 7 apps,DATASET_2/networks/network_050_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0190.dat
+GAP_STOP 14 2268.3185074447324 13.071
+rounding_subMIPing 4.496 (0.1892848014831543,'OPTIMAL',1.0,2304.0,None)
+
+191 7 apps,DATASET_2/networks/network_050_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0191.dat
+GAP_STOP 17 2595.53294908218 25.537
+rounding_subMIPing 14.297 (0.6641089916229248,'OPTIMAL',1.0,2662.0,None)
+
+192 8 apps,DATASET_2/networks/network_050_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0192.dat
+GAP_STOP 16 2240.453139166055 19.370
+rounding_subMIPing 7.147 (1.292391061782837,'OPTIMAL',227.0,2316.0,None)
+
+193 8 apps,DATASET_2/networks/network_050_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0193.dat
+GAP_STOP 10 2224.560855705719 6.556
+rounding_subMIPing 3.518 (0.5757770538330078,'OPTIMAL',33.0,2275.0,None)
+
+194 8 apps,DATASET_2/networks/network_050_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0194.dat
+GAP_STOP 12 2134.180405910369 9.371
+rounding_subMIPing 5.424 (1.1850330829620361,'OPTIMAL',364.0,2198.0,None)
+
+195 9 apps,DATASET_2/networks/network_050_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0195.dat
+GAP_STOP 20 3783.732930151362 34.938
+rounding_subMIPing 17.083 (3.2546870708465576,'OPTIMAL',1948.0,3868.0,None)
+
+196 9 apps,DATASET_2/networks/network_050_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0196.dat
+GAP_STOP 16 2576.785541771252 12.671
+rounding_subMIPing 4.717 (0.22425580024719238,'OPTIMAL',1.0,2652.0,None)
+
+197 9 apps,DATASET_2/networks/network_050_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0197.dat
+GAP_STOP 31 4191.315936635968 57.220
+rounding_subMIPing 36.080 (4.093506813049316,'OPTIMAL',2647.0,4353.0,None)
+
+198 10 apps,DATASET_2/networks/network_050_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0198.dat
+GAP_STOP 15 2994.8830008294403 33.333
+rounding_subMIPing 17.093 (5.430546045303345,'OPTIMAL',2972.0,3102.0,None)
+
+199 10 apps,DATASET_2/networks/network_050_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0199.dat
+GAP_STOP 20 3704.9979720700085 24.249
+rounding_subMIPing 15.940 (0.9910261631011963,'OPTIMAL',54.0,3806.0,None)
+
+200 10 apps,DATASET_2/networks/network_050_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0200.dat
+GAP_STOP 29 4584.062085976388 90.991
+rounding_subMIPing 179.982 (124.97573900222778,'OPTIMAL',34435.0,4799.0,None)
+
+201 11 apps,DATASET_2/networks/network_050_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0201.dat
+GAP_STOP 38 5443.629435326656 177.992
+rounding_subMIPing 138.476 (0.45439696311950684,'INFEASIBLE',1.0,None,None)
+
+202 11 apps,DATASET_2/networks/network_050_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0202.dat
+GAP_STOP 14 2909.4808737340854 15.610
+rounding_subMIPing 9.714 (1.2457001209259033,'OPTIMAL',24.0,2974.0,None)
+
+204 12 apps,DATASET_2/networks/network_050_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0204.dat
+GAP_STOP 25 4463.661030207747 52.980
+rounding_subMIPing 47.454 (12.32250714302063,'OPTIMAL',6820.0,4600.0,None)
+
+205 12 apps,DATASET_2/networks/network_050_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0205.dat
+GAP_STOP 26 3836.800210751333 66.804
+rounding_subMIPing 150.305 (127.65744113922119,'OPTIMAL',44566.0,3956.0,None)
+
+206 12 apps,DATASET_2/networks/network_050_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0206.dat
+GAP_STOP 20 4309.87780633929 43.690
+rounding_subMIPing 24.919 (7.692586183547974,'OPTIMAL',5009.0,4437.0,None)
+
+208 13 apps,DATASET_2/networks/network_050_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0208.dat
+GAP_STOP 26 4352.339212921581 59.230
+rounding_subMIPing 36.087 (2.513542890548706,'OPTIMAL',1196.0,4575.0,None)
+
+209 13 apps,DATASET_2/networks/network_050_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0209.dat
+GAP_STOP 28 4412.497345342744 86.834
+rounding_subMIPing 64.175 (15.972097873687744,'OPTIMAL',8980.0,4532.0,None)
+
+210 14 apps,DATASET_2/networks/network_050_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0210.dat
+GAP_STOP 30 5278.14231063727 82.666
+rounding_subMIPing 115.370 INF_dummy
+
+212 14 apps,DATASET_2/networks/network_050_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0212.dat
+GAP_STOP 27 5150.416215332153 113.766
+rounding_subMIPing 102.879 (0.9183800220489502,'INFEASIBLE',1.0,None,None)
+
+213 15 apps,DATASET_2/networks/network_050_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0213.dat
+GAP_STOP 32 6624.943187422117 135.143
+rounding_subMIPing 90.378 (0.8774430751800537,'INFEASIBLE',1.0,None,None)
+
+215 15 apps,DATASET_2/networks/network_050_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0215.dat
+GAP_STOP 27 5664.746295411747 95.727
+rounding_subMIPing 55.542 (0.5937650203704834,'INFEASIBLE',1.0,None,None)
+
+216 16 apps,DATASET_2/networks/network_050_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0216.dat
+GAP_STOP 26 6336.424811026516 111.912
+rounding_subMIPing 98.564 (3.8613719940185547,'INFEASIBLE',3.0,None,None)
+
+221 17 apps,DATASET_2/networks/network_050_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0221.dat
+GAP_STOP 23 5462.2369119685645 75.556
+rounding_subMIPing 670.610 (600.0296292304993,'TIME_LIMIT_>10min',102348.0,5865.0,5677.0)
+
+263 2 apps,DATASET_2/networks/network_060_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0263.dat
+GAP_STOP 6 927.9008027767889 2.196
+rounding_subMIPing 0.540 (0.027991056442260742,'OPTIMAL',1.0,933.0,None)
+
+264 3 apps,DATASET_2/networks/network_060_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0264.dat
+GAP_STOP 10 866.6305669219635 6.718
+rounding_subMIPing 1.543 (0.016228914260864258,'OPTIMAL',1.0,893.0,None)
+
+265 3 apps,DATASET_2/networks/network_060_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0265.dat
+GAP_STOP 20 1960.0157182863882 17.129
+rounding_subMIPing 11.835 (0.0071179866790771484,'INFEASIBLE',0.0,None,None)
+
+266 3 apps,DATASET_2/networks/network_060_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0266.dat
+GAP_STOP 13 1186.6345101868858 9.264
+rounding_subMIPing 2.904 (0.06322216987609863,'OPTIMAL',1.0,1215.0,None)
+
+267 4 apps,DATASET_2/networks/network_060_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0267.dat
+GAP_STOP 4 895.6334173602853 3.337
+rounding_subMIPing 1.606 (0.19390606880187988,'OPTIMAL',1.0,905.0,None)
+
+268 4 apps,DATASET_2/networks/network_060_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0268.dat
+GAP_STOP 10 1481.26146569064 6.001
+rounding_subMIPing 2.244 (0.22711396217346191,'OPTIMAL',1.0,1502.0,None)
+
+269 4 apps,DATASET_2/networks/network_060_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0269.dat
+GAP_STOP 14 1645.634699456053 5.897
+rounding_subMIPing 2.065 (0.14286208152770996,'OPTIMAL',1.0,1692.0,None)
+
+270 5 apps,DATASET_2/networks/network_060_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0270.dat
+GAP_STOP 10 1225.5753950766646 7.089
+rounding_subMIPing 3.818 (0.18229889869689941,'OPTIMAL',1.0,1260.0,None)
+
+271 5 apps,DATASET_2/networks/network_060_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0271.dat
+GAP_STOP 11 1344.4563831194932 6.684
+rounding_subMIPing 2.889 (0.5981440544128418,'OPTIMAL',1.0,1375.0,None)
+
+272 5 apps,DATASET_2/networks/network_060_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0272.dat
+GAP_STOP 11 1816.4111991949708 5.942
+rounding_subMIPing 3.555 (0.14604616165161133,'OPTIMAL',1.0,1850.0,None)
+
+273 6 apps,DATASET_2/networks/network_060_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0273.dat
+GAP_STOP 19 2413.1990438557336 24.895
+rounding_subMIPing 10.408 (0.6327149868011475,'OPTIMAL',262.0,2476.0,None)
+
+274 6 apps,DATASET_2/networks/network_060_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0274.dat
+GAP_STOP 8 1561.2561986520177 5.524
+rounding_subMIPing 2.623 (0.0855860710144043,'OPTIMAL',1.0,1596.0,None)
+
+275 6 apps,DATASET_2/networks/network_060_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0275.dat
+GAP_STOP 21 2399.8027972123446 25.593
+rounding_subMIPing 8.466 (0.26186585426330566,'OPTIMAL',109.0,2471.0,None)
+
+276 7 apps,DATASET_2/networks/network_060_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0276.dat
+GAP_STOP 10 1856.9670275871567 9.568
+rounding_subMIPing 4.323 (0.3275468349456787,'OPTIMAL',1.0,1891.0,None)
+
+277 7 apps,DATASET_2/networks/network_060_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0277.dat
+GAP_STOP 22 2796.147502394661 23.729
+rounding_subMIPing 10.045 (2.135125160217285,'OPTIMAL',913.0,2853.0,None)
+
+278 7 apps,DATASET_2/networks/network_060_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0278.dat
+GAP_STOP 13 2257.07844190425 12.702
+rounding_subMIPing 5.614 (0.7147619724273682,'OPTIMAL',1.0,2311.0,None)
+
+279 8 apps,DATASET_2/networks/network_060_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0279.dat
+GAP_STOP 25 3275.5048319870416 52.945
+rounding_subMIPing 17.780 (2.716214895248413,'OPTIMAL',626.0,3349.0,None)
+
+280 8 apps,DATASET_2/networks/network_060_c_rp_2.dat DATASET_2/apps_merged_FINAL/id_0280.dat
+GAP_STOP 13 1896.6303506131835 14.145
+rounding_subMIPing 5.476 (0.43738412857055664,'OPTIMAL',1.0,1938.0,None)
+
+281 8 apps,DATASET_2/networks/network_060_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0281.dat
+GAP_STOP 18 2791.171841567331 21.785
+rounding_subMIPing 13.867 (1.6198880672454834,'OPTIMAL',1.0,2857.0,None)
+
+282 9 apps,DATASET_2/networks/network_060_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0282.dat
+GAP_STOP 25 4499.978435700711 50.939
+rounding_subMIPing 22.877 (2.582414150238037,'OPTIMAL',918.0,4566.0,None)
+
+283 9 apps,DATASET_2/networks/network_060_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0283.dat
+GAP_STOP 13 2495.7744216614674 18.530
+rounding_subMIPing 10.195 (0.39150094985961914,'OPTIMAL',1.0,2554.0,None)
+
+284 9 apps,DATASET_2/networks/network_060_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0284.dat
+GAP_STOP 23 3784.832514718607 71.315
+rounding_subMIPing 60.273 (7.418184041976929,'OPTIMAL',1900.0,3884.0,None)
+
+285 10 apps,DATASET_2/networks/network_060_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0285.dat
+GAP_STOP 13 2482.065160305599 25.630
+rounding_subMIPing 10.927 (0.33695101737976074,'OPTIMAL',1.0,2553.0,None)
+
+286 10 apps,DATASET_2/networks/network_060_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0286.dat
+GAP_STOP 38 5267.652950120363 122.334
+rounding_subMIPing 183.975 (143.42218399047852,'OPTIMAL',28272.0,5378.0,None)
+
+287 10 apps,DATASET_2/networks/network_060_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0287.dat
+GAP_STOP 35 5072.113478514869 97.465
+rounding_subMIPing 59.028 (3.5276308059692383,'OPTIMAL',868.0,5245.0,None)
+
+288 11 apps,DATASET_2/networks/network_060_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0288.dat
+GAP_STOP 24 4903.749329952639 68.143
+rounding_subMIPing 38.156 (5.25437593460083,'OPTIMAL',3150.0,5087.0,None)
+
+289 11 apps,DATASET_2/networks/network_060_d_rp_0.dat DATASET_2/apps_merged_FINAL/id_0289.dat
+GAP_STOP 11 3203.0450921133497 20.102
+rounding_subMIPing 11.776 (0.808056116104126,'OPTIMAL',1.0,3281.0,None)
+
+290 11 apps,DATASET_2/networks/network_060_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0290.dat
+GAP_STOP 33 5212.9160778709675 93.735
+rounding_subMIPing 66.221 (11.034659147262573,'OPTIMAL',5941.0,5362.0,None)
+
+291 12 apps,DATASET_2/networks/network_060_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0291.dat
+GAP_STOP 27 4815.425396578672 132.079
+rounding_subMIPing 553.820 (512.5354981422424,'OPTIMAL',61182.0,4938.0,None)
+
+292 12 apps,DATASET_2/networks/network_060_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0292.dat
+GAP_STOP 21 4442.544678092528 68.673
+rounding_subMIPing 39.905 (1.0038130283355713,'OPTIMAL',557.0,4987.0,None)
+
+293 12 apps,DATASET_2/networks/network_060_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0293.dat
+GAP_STOP 22 3960.8371572351734 78.760
+rounding_subMIPing 39.479 (1.9546759128570557,'OPTIMAL',117.0,4059.0,None)
+
+294 13 apps,DATASET_2/networks/network_060_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0294.dat
+GAP_STOP 27 5205.2405416753745 61.756
+rounding_subMIPing 53.617 (18.59394097328186,'OPTIMAL',6848.0,5339.0,None)
+
+295 13 apps,DATASET_2/networks/network_060_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0295.dat
+GAP_STOP 22 4377.299065220954 53.238
+rounding_subMIPing 43.612 (15.72679615020752,'OPTIMAL',6719.0,4490.0,None)
+
+296 13 apps,DATASET_2/networks/network_060_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0296.dat
+GAP_STOP 31 5479.738603132062 160.965
+rounding_subMIPing 126.325 (36.107698917388916,'OPTIMAL',6990.0,5753.0,None)
+
+297 14 apps,DATASET_2/networks/network_060_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0297.dat
+GAP_STOP 20 4612.503964652511 74.550
+rounding_subMIPing 41.157 (0.020266056060791016,'INFEASIBLE',0.0,None,None)
+
+298 14 apps,DATASET_2/networks/network_060_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0298.dat
+GAP_STOP 36 6276.89534068234 156.861
+rounding_subMIPing 697.389 (600.0235619544983,'TIME_LIMIT_>10min',34570.0,6499.0,6452.0)
+
+299 14 apps,DATASET_2/networks/network_060_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0299.dat
+GAP_STOP 29 5073.09160506136 162.140
+rounding_subMIPing 680.367 (600.0333831310272,'TIME_LIMIT_>10min',39867.0,5305.0,5201.0)
+
+300 15 apps,DATASET_2/networks/network_060_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0300.dat
+GAP_STOP 21 4288.211396601814 41.141
+rounding_subMIPing 18.473 (3.8409719467163086,'OPTIMAL',1664.0,4449.0,None)
+
+301 15 apps,DATASET_2/networks/network_060_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0301.dat
+GAP_STOP 38 6538.20541802893 233.705
+rounding_subMIPing 132.251 (9.318729877471924,'INFEASIBLE',1138.0,None,None)
+
+302 15 apps,DATASET_2/networks/network_060_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0302.dat
+GAP_STOP 38 6781.500857638137 371.995
+rounding_subMIPing 355.037 (0.893017053604126,'INFEASIBLE',1.0,None,None)
+
+303 16 apps,DATASET_2/networks/network_060_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0303.dat
+GAP_STOP 36 6400.007041698767 175.752
+rounding_subMIPing 150.488 (0.978154182434082,'INFEASIBLE',1.0,None,None)
+
+307 17 apps,DATASET_2/networks/network_060_d_rp_0.dat DATASET_2/apps_merged_FINAL/id_0307.dat
+GAP_STOP 26 5605.725724603295 127.663
+rounding_subMIPing 668.420 (600.0339438915253,'TIME_LIMIT_>10min',55709.0,5741.0,5713.0)
+
+308 17 apps,DATASET_2/networks/network_060_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0308.dat
+GAP_STOP 27 5716.290918221993 146.962
+rounding_subMIPing 86.869 (0.11530685424804688,'INFEASIBLE',1.0,None,None)
+
+312 19 apps,DATASET_2/networks/network_060_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0312.dat
+GAP_STOP 23 5356.872130924109 98.814
+rounding_subMIPing 198.899 (134.82282900810242,'OPTIMAL',15274.0,5501.0,None)
+
+322 22 apps,DATASET_2/networks/network_060_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0322.dat
+GAP_STOP 32 7526.719580810544 220.945
+rounding_subMIPing 308.920 (1.0080640316009521,'INFEASIBLE',1.0,None,None)
+
+349 2 apps,DATASET_2/networks/network_070_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0349.dat
+GAP_STOP 2 352.7241379310345 0.918
+rounding_subMIPing 0.434 (0.02651500701904297,'OPTIMAL',1.0,353.0,None)
+
+350 2 apps,DATASET_2/networks/network_070_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0350.dat
+GAP_STOP 6 859.0405394854448 2.127
+rounding_subMIPing 0.699 (0.014250993728637695,'OPTIMAL',1.0,869.0,None)
+
+351 3 apps,DATASET_2/networks/network_070_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0351.dat
+GAP_STOP 6 746.3758023651435 3.528
+rounding_subMIPing 1.513 (0.07386088371276855,'OPTIMAL',1.0,770.0,None)
+
+352 3 apps,DATASET_2/networks/network_070_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0352.dat
+GAP_STOP 4 713.654864553792 1.389
+rounding_subMIPing 0.560 (0.02312493324279785,'OPTIMAL',1.0,724.0,None)
+
+353 3 apps,DATASET_2/networks/network_070_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0353.dat
+GAP_STOP 9 889.5768742118668 5.959
+rounding_subMIPing 3.277 (0.14783000946044922,'OPTIMAL',1.0,904.0,None)
+
+354 4 apps,DATASET_2/networks/network_070_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0354.dat
+GAP_STOP 17 1696.0085650596359 20.479
+rounding_subMIPing 4.999 (0.25032806396484375,'OPTIMAL',1.0,1724.0,None)
+
+355 4 apps,DATASET_2/networks/network_070_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0355.dat
+GAP_STOP 17 2079.2801227570894 61.589
+rounding_subMIPing 29.272 (2.6475861072540283,'OPTIMAL',250.0,2144.0,None)
+
+356 4 apps,DATASET_2/networks/network_070_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0356.dat
+GAP_STOP 7 1205.0973023533168 6.143
+rounding_subMIPing 4.424 (0.08552813529968262,'OPTIMAL',1.0,1231.0,None)
+
+357 5 apps,DATASET_2/networks/network_070_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0357.dat
+GAP_STOP 7 1217.2014531590585 7.956
+rounding_subMIPing 2.945 (0.5926499366760254,'OPTIMAL',1.0,1245.0,None)
+
+358 5 apps,DATASET_2/networks/network_070_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0358.dat
+GAP_STOP 17 1758.8199048558552 20.665
+rounding_subMIPing 8.184 (0.5199110507965088,'OPTIMAL',23.0,1804.0,None)
+
+359 5 apps,DATASET_2/networks/network_070_c_rp_2.dat DATASET_2/apps_merged_FINAL/id_0359.dat
+GAP_STOP 12 1586.9023156171154 11.160
+rounding_subMIPing 6.930 (0.3550732135772705,'OPTIMAL',1.0,1633.0,None)
+
+360 6 apps,DATASET_2/networks/network_070_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0360.dat
+GAP_STOP 12 1643.214699619436 15.984
+rounding_subMIPing 7.308 (1.1177799701690674,'OPTIMAL',240.0,1711.0,None)
+
+361 6 apps,DATASET_2/networks/network_070_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0361.dat
+GAP_STOP 14 1661.7771212122793 16.904
+rounding_subMIPing 12.125 (0.7145309448242188,'OPTIMAL',76.0,1713.0,None)
+
+362 6 apps,DATASET_2/networks/network_070_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0362.dat
+GAP_STOP 9 1691.8275777789581 13.564
+rounding_subMIPing 7.230 (0.3653829097747803,'OPTIMAL',1.0,1736.0,None)
+
+363 7 apps,DATASET_2/networks/network_070_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0363.dat
+GAP_STOP 20 2956.1516659083736 37.515
+rounding_subMIPing 17.994 (1.0093510150909424,'OPTIMAL',160.0,3031.0,None)
+
+364 7 apps,DATASET_2/networks/network_070_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0364.dat
+GAP_STOP 14 2346.9614619843633 32.764
+rounding_subMIPing 9.763 (0.6063089370727539,'OPTIMAL',1.0,2392.0,None)
+
+365 7 apps,DATASET_2/networks/network_070_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0365.dat
+GAP_STOP 10 1358.1231311332585 11.314
+rounding_subMIPing 4.252 (0.23869705200195312,'OPTIMAL',1.0,1391.0,None)
+
+366 8 apps,DATASET_2/networks/network_070_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0366.dat
+GAP_STOP 17 2903.588170305711 43.643
+rounding_subMIPing 19.488 (1.7683601379394531,'OPTIMAL',1155.0,3005.0,None)
+
+367 8 apps,DATASET_2/networks/network_070_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0367.dat
+GAP_STOP 7 1903.0848082046675 8.061
+rounding_subMIPing 7.281 (0.3128650188446045,'OPTIMAL',1.0,1941.0,None)
+
+368 8 apps,DATASET_2/networks/network_070_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0368.dat
+GAP_STOP 12 2376.6420095813 21.911
+rounding_subMIPing 16.883 (1.5065369606018066,'OPTIMAL',39.0,2458.0,None)
+
+369 9 apps,DATASET_2/networks/network_070_d_rp_0.dat DATASET_2/apps_merged_FINAL/id_0369.dat
+GAP_STOP 17 3115.2398251442696 43.958
+rounding_subMIPing 36.240 (3.5648820400238037,'OPTIMAL',1625.0,3195.0,None)
+
+370 9 apps,DATASET_2/networks/network_070_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0370.dat
+GAP_STOP 15 2221.8221734370422 34.509
+rounding_subMIPing 15.297 (2.6267459392547607,'OPTIMAL',542.0,2285.0,None)
+
+371 9 apps,DATASET_2/networks/network_070_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0371.dat
+GAP_STOP 14 2541.4151599471816 28.104
+rounding_subMIPing 9.857 (0.5279059410095215,'OPTIMAL',1.0,2625.0,None)
+
+372 10 apps,DATASET_2/networks/network_070_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0372.dat
+GAP_STOP 21 3890.1588177044086 72.417
+rounding_subMIPing 40.044 (3.6598360538482666,'OPTIMAL',2068.0,3976.0,None)
+
+373 10 apps,DATASET_2/networks/network_070_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0373.dat
+GAP_STOP 22 3935.5604213100955 71.838
+rounding_subMIPing 47.801 (2.9873340129852295,'OPTIMAL',535.0,4034.0,None)
+
+374 10 apps,DATASET_2/networks/network_070_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0374.dat
+GAP_STOP 26 3880.971056534051 82.472
+rounding_subMIPing 90.552 (52.8200159072876,'OPTIMAL',9049.0,3977.0,None)
+
+375 11 apps,DATASET_2/networks/network_070_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0375.dat
+GAP_STOP 24 4140.156489407105 75.920
+rounding_subMIPing 53.695 (3.1144700050354004,'OPTIMAL',1304.0,4261.0,None)
+
+376 11 apps,DATASET_2/networks/network_070_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0376.dat
+GAP_STOP 25 3786.2863986783614 94.847
+rounding_subMIPing 76.957 (10.693397998809814,'OPTIMAL',4349.0,3929.0,None)
+
+377 11 apps,DATASET_2/networks/network_070_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0377.dat
+GAP_STOP 28 4989.737232838321 90.383
+rounding_subMIPing 56.292 (8.306840896606445,'OPTIMAL',2775.0,5152.0,None)
+
+378 12 apps,DATASET_2/networks/network_070_c_rp_2.dat DATASET_2/apps_merged_FINAL/id_0378.dat
+GAP_STOP 19 4550.113253614603 70.910
+rounding_subMIPing 45.300 (1.3750579357147217,'OPTIMAL',1.0,4627.0,None)
+
+379 12 apps,DATASET_2/networks/network_070_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0379.dat
+GAP_STOP 26 4098.195278266117 149.245
+rounding_subMIPing 95.792 (66.0284571647644,'OPTIMAL',10356.0,4245.0,None)
+
+380 12 apps,DATASET_2/networks/network_070_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0380.dat
+GAP_STOP 30 5577.361753169348 150.092
+rounding_subMIPing 150.887 (44.30311918258667,'OPTIMAL',7453.0,5684.0,None)
+
+381 13 apps,DATASET_2/networks/network_070_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0381.dat
+GAP_STOP 27 4874.12166269662 140.553
+rounding_subMIPing 310.778 (253.6951642036438,'OPTIMAL',39621.0,4982.0,None)
+
+382 13 apps,DATASET_2/networks/network_070_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0382.dat
+GAP_STOP 23 4589.477881682681 127.294
+rounding_subMIPing 83.689 (7.99974513053894,'OPTIMAL',2235.0,4716.0,None)
+
+383 13 apps,DATASET_2/networks/network_070_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0383.dat
+GAP_STOP 25 5023.3236662303625 146.419
+rounding_subMIPing 219.955 (97.37971591949463,'OPTIMAL',15738.0,5118.0,None)
+
+384 14 apps,DATASET_2/networks/network_070_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0384.dat
+GAP_STOP 25 5005.217370222624 169.367
+rounding_subMIPing 163.914 (35.0118350982666,'OPTIMAL',7559.0,5283.0,None)
+
+385 14 apps,DATASET_2/networks/network_070_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0385.dat
+GAP_STOP 27 5395.509210449649 141.157
+rounding_subMIPing 657.309 (600.0372800827026,'TIME_LIMIT_>10min',45663.0,5524.0,5504.0)
+
+386 14 apps,DATASET_2/networks/network_070_d_rp_0.dat DATASET_2/apps_merged_FINAL/id_0386.dat
+GAP_STOP 27 5798.959463563948 139.613
+rounding_subMIPing 681.492 (600.0257561206818,'TIME_LIMIT_>10min',29722.0,5892.0,5872.0)
+
+387 15 apps,DATASET_2/networks/network_070_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0387.dat
+GAP_STOP 30 6424.583137322859 173.673
+rounding_subMIPing 716.612 (600.0232360363007,'TIME_LIMIT_>10min',31306.0,6691.0,6575.0)
+
+388 15 apps,DATASET_2/networks/network_070_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0388.dat
+GAP_STOP 47 7804.627870383123 539.225
+rounding_subMIPing 428.235 (3.079892158508301,'INFEASIBLE',1.0,None,None)
+
+389 15 apps,DATASET_2/networks/network_070_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0389.dat
+GAP_STOP 27 5653.322362365893 134.640
+rounding_subMIPing 254.464 (186.98045206069946,'OPTIMAL',35244.0,5815.0,None)
+
+390 16 apps,DATASET_2/networks/network_070_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0390.dat
+GAP_STOP 31 6198.1373896288615 221.146
+rounding_subMIPing 722.676 (600.0273568630219,'TIME_LIMIT_>10min',33601.0,6351.0,6329.0)
+
+391 16 apps,DATASET_2/networks/network_070_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0391.dat
+GAP_STOP 36 7401.109866254298 301.185
+rounding_subMIPing 266.486 (0.4457268714904785,'INFEASIBLE',1.0,None,None)
+
+392 16 apps,DATASET_2/networks/network_070_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0392.dat
+GAP_STOP 29 6003.160578819687 241.604
+rounding_subMIPing 318.656 (139.1085810661316,'OPTIMAL',23506.0,6328.0,None)
+
+393 17 apps,DATASET_2/networks/network_070_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0393.dat
+GAP_STOP 31 6479.424400573494 147.385
+rounding_subMIPing 117.918 (0.3160879611968994,'INFEASIBLE',1.0,None,None)
+
+394 17 apps,DATASET_2/networks/network_070_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0394.dat
+GAP_STOP 36 7058.196616510299 245.444
+rounding_subMIPing 154.616 (5.133955001831055,'INFEASIBLE',47.0,None,None)
+
+395 17 apps,DATASET_2/networks/network_070_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0395.dat
+GAP_STOP 36 6835.619126884899 224.109
+rounding_subMIPing 146.500 (0.70119309425354,'INFEASIBLE',1.0,None,None)
+
+399 19 apps,DATASET_2/networks/network_070_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0399.dat
+GAP_STOP 32 6971.166708134162 211.260
+rounding_subMIPing 194.307 (0.752953052520752,'INFEASIBLE',1.0,None,None)
+
+400 19 apps,DATASET_2/networks/network_070_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0400.dat
+GAP_STOP 40 8510.789187469296 380.239
+rounding_subMIPing 823.860 (600.0133190155029,'TIME_LIMIT_>10min',12456.0,"inf",9079.0)
+
+401 19 apps,DATASET_2/networks/network_070_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0401.dat
+GAP_STOP 33 7695.505243842909 268.700
+rounding_subMIPing 287.365 (1.2686669826507568,'INFEASIBLE',1.0,None,None)
+
+403 20 apps,DATASET_2/networks/network_070_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0403.dat
+GAP_STOP 37 8081.567003991358 425.862
+rounding_subMIPing 432.501 INF_dummy
+
+406 21 apps,DATASET_2/networks/network_070_d_rp_0.dat DATASET_2/apps_merged_FINAL/id_0406.dat
+GAP_STOP 28 7734.237575768988 257.252
+rounding_subMIPing 730.767 (600.0203008651733,'TIME_LIMIT_>10min',7848.0,8068.0,7839.0)
+
+407 21 apps,DATASET_2/networks/network_070_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0407.dat
+GAP_STOP 37 7904.026076476462 675.284
+rounding_subMIPing 640.376 (0.8718709945678711,'INFEASIBLE',1.0,None,None)
+
+408 22 apps,DATASET_2/networks/network_070_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0408.dat
+GAP_STOP 33 7977.50408310758 316.560
+rounding_subMIPing 213.362 (4.056755781173706,'INFEASIBLE',1.0,None,None)
+
+412 23 apps,DATASET_2/networks/network_070_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0412.dat
+GAP_STOP 31 8230.472770686993 329.762
+rounding_subMIPing 364.831 (3.585020065307617,'INFEASIBLE',1.0,None,None)
+
+416 24 apps,DATASET_2/networks/network_070_c_rp_2.dat DATASET_2/apps_merged_FINAL/id_0416.dat
+GAP_STOP 31 8044.693510129224 330.650
+rounding_subMIPing 300.068 (3.543682098388672,'INFEASIBLE',1.0,None,None)

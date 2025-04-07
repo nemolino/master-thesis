@@ -1,0 +1,602 @@
+0 2 apps, DATASET_2/networks/network_030_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0000.dat
+GAP 3 410.27598322566024 0.297
+
+1 2 apps, DATASET_2/networks/network_030_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0001.dat
+GAP 5 570.2159775190687 0.153
+
+2 2 apps, DATASET_2/networks/network_030_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0002.dat
+GAP 9 940.6547141406234 0.627
+
+3 3 apps, DATASET_2/networks/network_030_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0003.dat
+GAP 5 695.4639580893459 0.447
+
+4 3 apps, DATASET_2/networks/network_030_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0004.dat
+GAP 4 804.392432864131 0.357
+
+5 3 apps, DATASET_2/networks/network_030_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0005.dat
+GAP 8 957.993672909767 1.805
+
+6 4 apps, DATASET_2/networks/network_030_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0006.dat
+GAP 15 1373.2581381690313 3.803
+
+7 4 apps, DATASET_2/networks/network_030_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0007.dat
+GAP 11 1084.5926812886041 1.308
+
+8 4 apps, DATASET_2/networks/network_030_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0008.dat
+GAP 15 1645.962632890552 4.389
+
+9 5 apps, DATASET_2/networks/network_030_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0009.dat
+GAP 19 1960.2397229349517 4.695
+
+10 5 apps, DATASET_2/networks/network_030_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0010.dat
+GAP 14 1728.229162134068 3.319
+
+11 5 apps, DATASET_2/networks/network_030_d_rp_0.dat DATASET_2/apps_merged_FINAL/id_0011.dat
+GAP 27 2329.3715443728934 21.642
+
+12 6 apps, DATASET_2/networks/network_030_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0012.dat
+GAP 15 2019.855135749751 8.954
+
+13 6 apps, DATASET_2/networks/network_030_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0013.dat
+GAP 20 3042.915781570299 12.010
+
+14 6 apps, DATASET_2/networks/network_030_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0014.dat
+GAP 15 1844.308003212108 3.376
+
+15 7 apps, DATASET_2/networks/network_030_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0015.dat
+GAP 21 2205.5135270102974 12.544
+
+16 7 apps, DATASET_2/networks/network_030_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0016.dat
+GAP 18 2629.2726348980177 14.659
+
+17 7 apps, DATASET_2/networks/network_030_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0017.dat
+GAP 27 3464.1265371061545 13.279
+
+20 8 apps, DATASET_2/networks/network_030_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0020.dat
+GAP 13 2268.567386870699 5.186
+
+87 2 apps, DATASET_2/networks/network_040_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0087.dat
+GAP 4 805.4532934131737 0.622
+
+88 2 apps, DATASET_2/networks/network_040_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0088.dat
+GAP 4 753.06604583581 0.495
+
+89 2 apps, DATASET_2/networks/network_040_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0089.dat
+GAP 3 785.2717424995218 1.254
+
+90 3 apps, DATASET_2/networks/network_040_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0090.dat
+GAP 6 1095.2425637125607 1.204
+
+91 3 apps, DATASET_2/networks/network_040_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0091.dat
+GAP 10 1478.894479939768 3.088
+
+92 3 apps, DATASET_2/networks/network_040_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0092.dat
+GAP 8 1172.9859778530665 3.123
+
+93 4 apps, DATASET_2/networks/network_040_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0093.dat
+GAP 26 1429.758337152061 10.345
+
+94 4 apps, DATASET_2/networks/network_040_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0094.dat
+GAP 11 1387.1685495720626 4.597
+
+95 4 apps, DATASET_2/networks/network_040_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0095.dat
+GAP 16 1650.0259060552996 6.050
+
+96 5 apps, DATASET_2/networks/network_040_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0096.dat
+GAP 15 1819.2489970776396 4.498
+
+97 5 apps, DATASET_2/networks/network_040_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0097.dat
+GAP 21 2532.0522955596252 17.074
+
+98 5 apps, DATASET_2/networks/network_040_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0098.dat
+GAP 25 2670.51477944855 16.244
+
+99 6 apps, DATASET_2/networks/network_040_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0099.dat
+GAP 14 2127.4287261185673 6.811
+
+100 6 apps, DATASET_2/networks/network_040_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0100.dat
+GAP 19 2469.8607418607808 15.068
+
+101 6 apps, DATASET_2/networks/network_040_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0101.dat
+GAP 19 2489.1898067224206 9.893
+
+102 7 apps, DATASET_2/networks/network_040_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0102.dat
+INF_pricing
+
+104 7 apps, DATASET_2/networks/network_040_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0104.dat
+GAP 16 2363.2047864226324 8.730
+
+105 8 apps, DATASET_2/networks/network_040_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0105.dat
+GAP 21 3415.573028238407 13.495
+
+106 8 apps, DATASET_2/networks/network_040_c_rp_2.dat DATASET_2/apps_merged_FINAL/id_0106.dat
+GAP 17 2751.520618767639 11.149
+
+107 8 apps, DATASET_2/networks/network_040_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0107.dat
+GAP 19 2506.333301002146 21.992
+
+108 9 apps, DATASET_2/networks/network_040_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0108.dat
+GAP 29 3835.3635189058446 39.195
+
+109 9 apps, DATASET_2/networks/network_040_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0109.dat
+GAP 26 3787.218484003437 54.379
+
+110 9 apps, DATASET_2/networks/network_040_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0110.dat
+INF_dummy 50 218.765
+
+111 10 apps, DATASET_2/networks/network_040_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0111.dat
+GAP 27 3820.2981155913467 36.664
+
+112 10 apps, DATASET_2/networks/network_040_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0112.dat
+GAP 15 3190.0702852644436 15.693
+
+113 10 apps, DATASET_2/networks/network_040_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0113.dat
+GAP 23 3559.7270857279154 34.150
+
+115 11 apps, DATASET_2/networks/network_040_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0115.dat
+GAP 20 3358.3814844794724 15.426
+
+117 12 apps, DATASET_2/networks/network_040_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0117.dat
+GAP 27 4478.894603319525 78.749
+
+118 12 apps, DATASET_2/networks/network_040_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0118.dat
+GAP 28 4543.289141296239 64.575
+
+119 12 apps, DATASET_2/networks/network_040_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0119.dat
+GAP 16 3637.263886925157 39.021
+
+120 13 apps, DATASET_2/networks/network_040_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0120.dat
+INF_dummy 36 124.915
+
+122 13 apps, DATASET_2/networks/network_040_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0122.dat
+GAP 18 4307.5791253800435 43.048
+
+174 2 apps, DATASET_2/networks/network_050_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0174.dat
+GAP 1 667.0 0.614 667.0
+
+175 2 apps, DATASET_2/networks/network_050_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0175.dat
+GAP 1 394.0 0.162 394.0
+
+176 2 apps, DATASET_2/networks/network_050_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0176.dat
+GAP 2 704.1021505376344 0.588
+
+177 3 apps, DATASET_2/networks/network_050_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0177.dat
+GAP 4 727.4043733577558 1.067
+
+178 3 apps, DATASET_2/networks/network_050_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0178.dat
+GAP 21 1855.285125995364 13.986
+
+179 3 apps, DATASET_2/networks/network_050_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0179.dat
+GAP 5 1173.5793437804184 1.903
+
+180 4 apps, DATASET_2/networks/network_050_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0180.dat
+GAP 13 1290.5073220838592 6.278
+
+181 4 apps, DATASET_2/networks/network_050_d_rp_0.dat DATASET_2/apps_merged_FINAL/id_0181.dat
+GAP 6 1207.8494961423398 1.281
+
+182 4 apps, DATASET_2/networks/network_050_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0182.dat
+GAP 6 1295.8151577307826 1.713
+
+183 5 apps, DATASET_2/networks/network_050_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0183.dat
+GAP 4 913.7767287784678 1.474
+
+184 5 apps, DATASET_2/networks/network_050_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0184.dat
+GAP 19 2135.523666634408 13.229
+
+185 5 apps, DATASET_2/networks/network_050_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0185.dat
+GAP 12 1836.8852088519848 7.409
+
+186 6 apps, DATASET_2/networks/network_050_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0186.dat
+GAP 11 1335.141273400873 7.558
+
+187 6 apps, DATASET_2/networks/network_050_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0187.dat
+GAP 16 2382.100696943388 15.391
+
+188 6 apps, DATASET_2/networks/network_050_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0188.dat
+GAP 24 2717.7641037784215 22.925
+
+189 7 apps, DATASET_2/networks/network_050_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0189.dat
+GAP 20 2396.8297291588783 22.699
+
+190 7 apps, DATASET_2/networks/network_050_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0190.dat
+GAP 14 2267.7989225704537 11.280
+
+191 7 apps, DATASET_2/networks/network_050_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0191.dat
+GAP 20 2595.4775182727244 29.256
+
+192 8 apps, DATASET_2/networks/network_050_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0192.dat
+GAP 17 2240.0345464252305 19.569
+
+193 8 apps, DATASET_2/networks/network_050_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0193.dat
+GAP 8 2224.54494993338 4.902
+
+194 8 apps, DATASET_2/networks/network_050_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0194.dat
+GAP 10 2133.702169821174 8.728
+
+195 9 apps, DATASET_2/networks/network_050_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0195.dat
+GAP 18 3782.5345532130546 30.622
+
+196 9 apps, DATASET_2/networks/network_050_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0196.dat
+GAP 14 2577.3331667352986 10.748
+
+197 9 apps, DATASET_2/networks/network_050_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0197.dat
+GAP 29 4192.606129010649 52.166
+
+198 10 apps, DATASET_2/networks/network_050_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0198.dat
+GAP 15 2995.446597216649 31.951
+
+199 10 apps, DATASET_2/networks/network_050_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0199.dat
+GAP 17 3704.837113849668 21.534
+
+200 10 apps, DATASET_2/networks/network_050_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0200.dat
+GAP 27 4583.569253760642 82.216
+
+201 11 apps, DATASET_2/networks/network_050_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0201.dat
+GAP 38 5443.339953123058 180.112
+
+202 11 apps, DATASET_2/networks/network_050_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0202.dat
+GAP 14 2911.0025909713727 13.677
+
+203 11 apps, DATASET_2/networks/network_050_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0203.dat
+INF_dummy 32 59.206
+
+204 12 apps, DATASET_2/networks/network_050_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0204.dat
+GAP 21 4461.630193660253 46.776
+
+205 12 apps, DATASET_2/networks/network_050_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0205.dat
+GAP 23 3836.638898019664 56.813
+
+206 12 apps, DATASET_2/networks/network_050_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0206.dat
+GAP 18 4307.68611471041 36.333
+
+207 13 apps, DATASET_2/networks/network_050_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0207.dat
+INF_dummy 37 113.555
+
+208 13 apps, DATASET_2/networks/network_050_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0208.dat
+GAP 23 4352.369534133091 47.844
+
+209 13 apps, DATASET_2/networks/network_050_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0209.dat
+GAP 28 4411.702459122365 84.762
+
+210 14 apps, DATASET_2/networks/network_050_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0210.dat
+GAP 26 5277.1311193791025 66.279
+
+212 14 apps, DATASET_2/networks/network_050_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0212.dat
+GAP 29 5150.567682230187 114.307
+
+213 15 apps, DATASET_2/networks/network_050_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0213.dat
+GAP 34 6624.008043741531 143.401
+
+215 15 apps, DATASET_2/networks/network_050_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0215.dat
+GAP 25 5666.258239390606 88.002
+
+216 16 apps, DATASET_2/networks/network_050_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0216.dat
+GAP 28 6335.576782605618 120.602
+
+221 17 apps, DATASET_2/networks/network_050_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0221.dat
+GAP 20 5464.284064218899 63.328
+
+223 18 apps, DATASET_2/networks/network_050_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0223.dat
+INF_dummy 34 132.865
+
+261 2 apps, DATASET_2/networks/network_060_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0261.dat
+GAP 1 474.0 0.918 474.0
+
+262 2 apps, DATASET_2/networks/network_060_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0262.dat
+GAP 1 251.0 0.422 251.0
+
+263 2 apps, DATASET_2/networks/network_060_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0263.dat
+GAP 8 927.8522436756075 2.471
+
+264 3 apps, DATASET_2/networks/network_060_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0264.dat
+GAP 6 866.7803231018386 4.335
+
+265 3 apps, DATASET_2/networks/network_060_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0265.dat
+GAP 20 1960.0157182863882 16.765
+
+266 3 apps, DATASET_2/networks/network_060_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0266.dat
+GAP 18 1185.8168146941457 11.542
+
+267 4 apps, DATASET_2/networks/network_060_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0267.dat
+GAP 5 895.6334173602853 3.710
+
+268 4 apps, DATASET_2/networks/network_060_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0268.dat
+GAP 12 1480.8987473766886 6.171
+
+269 4 apps, DATASET_2/networks/network_060_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0269.dat
+GAP 17 1645.0670570762632 6.817
+
+270 5 apps, DATASET_2/networks/network_060_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0270.dat
+GAP 9 1226.2491764490499 5.890
+
+271 5 apps, DATASET_2/networks/network_060_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0271.dat
+GAP 8 1344.8229107215093 4.908
+
+272 5 apps, DATASET_2/networks/network_060_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0272.dat
+GAP 13 1816.1524344116656 6.824
+
+273 6 apps, DATASET_2/networks/network_060_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0273.dat
+GAP 22 2413.9983368971366 27.273
+
+274 6 apps, DATASET_2/networks/network_060_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0274.dat
+GAP 7 1560.8292868201752 4.372
+
+275 6 apps, DATASET_2/networks/network_060_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0275.dat
+GAP 17 2400.03051727419 17.851
+
+276 7 apps, DATASET_2/networks/network_060_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0276.dat
+GAP 11 1857.8946351117825 9.981
+
+277 7 apps, DATASET_2/networks/network_060_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0277.dat
+GAP 23 2795.5247413228585 22.945
+
+278 7 apps, DATASET_2/networks/network_060_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0278.dat
+GAP 12 2255.6942591855177 10.687
+
+279 8 apps, DATASET_2/networks/network_060_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0279.dat
+GAP 21 3274.5596622733747 40.601
+
+280 8 apps, DATASET_2/networks/network_060_c_rp_2.dat DATASET_2/apps_merged_FINAL/id_0280.dat
+GAP 11 1896.1942512061012 11.275
+
+281 8 apps, DATASET_2/networks/network_060_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0281.dat
+GAP 15 2791.5953873653802 17.673
+
+282 9 apps, DATASET_2/networks/network_060_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0282.dat
+GAP 29 4500.271786480236 53.838
+
+283 9 apps, DATASET_2/networks/network_060_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0283.dat
+GAP 11 2495.936352161943 16.018
+
+284 9 apps, DATASET_2/networks/network_060_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0284.dat
+GAP 21 3784.197232281803 61.171
+
+285 10 apps, DATASET_2/networks/network_060_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0285.dat
+GAP 12 2481.736029935569 23.613
+
+286 10 apps, DATASET_2/networks/network_060_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0286.dat
+GAP 38 5267.335366187072 120.654
+
+287 10 apps, DATASET_2/networks/network_060_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0287.dat
+GAP 32 5070.959564768363 86.952
+
+288 11 apps, DATASET_2/networks/network_060_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0288.dat
+GAP 25 4904.32279268936 68.653
+
+289 11 apps, DATASET_2/networks/network_060_d_rp_0.dat DATASET_2/apps_merged_FINAL/id_0289.dat
+GAP 11 3201.8791603782424 18.111
+
+290 11 apps, DATASET_2/networks/network_060_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0290.dat
+GAP 31 5214.26350754584 83.349
+
+291 12 apps, DATASET_2/networks/network_060_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0291.dat
+GAP 31 4815.997110900479 146.494
+
+292 12 apps, DATASET_2/networks/network_060_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0292.dat
+GAP 21 4441.170453748965 67.434
+
+293 12 apps, DATASET_2/networks/network_060_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0293.dat
+GAP 23 3960.12891467151 77.469
+
+294 13 apps, DATASET_2/networks/network_060_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0294.dat
+GAP 23 5206.8052014255745 53.570
+
+295 13 apps, DATASET_2/networks/network_060_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0295.dat
+GAP 20 4378.420783167846 49.064
+
+296 13 apps, DATASET_2/networks/network_060_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0296.dat
+GAP 29 5479.533424870465 143.200
+
+297 14 apps, DATASET_2/networks/network_060_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0297.dat
+GAP 18 4614.428510927626 66.109
+
+298 14 apps, DATASET_2/networks/network_060_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0298.dat
+GAP 35 6276.662123950986 153.316
+
+299 14 apps, DATASET_2/networks/network_060_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0299.dat
+GAP 25 5072.559538975643 136.312
+
+300 15 apps, DATASET_2/networks/network_060_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0300.dat
+GAP 21 4288.1876814250445 39.897
+
+301 15 apps, DATASET_2/networks/network_060_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0301.dat
+GAP 34 6538.443593788965 192.846
+
+302 15 apps, DATASET_2/networks/network_060_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0302.dat
+GAP 36 6780.049942563817 324.863
+
+303 16 apps, DATASET_2/networks/network_060_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0303.dat
+GAP 34 6400.124432892116 160.722
+
+307 17 apps, DATASET_2/networks/network_060_d_rp_0.dat DATASET_2/apps_merged_FINAL/id_0307.dat
+GAP 24 5606.230319654554 113.936
+
+308 17 apps, DATASET_2/networks/network_060_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0308.dat
+GAP 26 5718.891019266349 139.133
+
+312 19 apps, DATASET_2/networks/network_060_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0312.dat
+GAP 19 5354.661005840993 77.048
+
+322 22 apps, DATASET_2/networks/network_060_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0322.dat
+GAP 26 7527.212369626723 174.876
+
+348 2 apps, DATASET_2/networks/network_070_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0348.dat
+GAP 1 460.0 0.440 460.0
+
+349 2 apps, DATASET_2/networks/network_070_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0349.dat
+GAP 3 352.7241379310345 0.878
+
+350 2 apps, DATASET_2/networks/network_070_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0350.dat
+GAP 7 858.4915258279843 2.061
+
+351 3 apps, DATASET_2/networks/network_070_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0351.dat
+GAP 6 746.4327213918826 2.765
+
+352 3 apps, DATASET_2/networks/network_070_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0352.dat
+GAP 5 713.654864553792 1.303
+
+353 3 apps, DATASET_2/networks/network_070_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0353.dat
+GAP 8 889.7003917880918 4.286
+
+354 4 apps, DATASET_2/networks/network_070_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0354.dat
+GAP 17 1696.5684665974613 18.504
+
+355 4 apps, DATASET_2/networks/network_070_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0355.dat
+GAP 18 2079.207090230322 57.479
+
+356 4 apps, DATASET_2/networks/network_070_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0356.dat
+GAP 8 1204.8132618567024 5.374
+
+357 5 apps, DATASET_2/networks/network_070_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0357.dat
+GAP 8 1217.2014531590585 7.635
+
+358 5 apps, DATASET_2/networks/network_070_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0358.dat
+GAP 15 1759.3454248924313 15.928
+
+359 5 apps, DATASET_2/networks/network_070_c_rp_2.dat DATASET_2/apps_merged_FINAL/id_0359.dat
+GAP 11 1586.1614785597533 9.368
+
+360 6 apps, DATASET_2/networks/network_070_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0360.dat
+GAP 13 1644.5032358334079 14.169
+
+361 6 apps, DATASET_2/networks/network_070_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0361.dat
+GAP 13 1661.3199824572025 14.473
+
+362 6 apps, DATASET_2/networks/network_070_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0362.dat
+GAP 8 1690.9576044836144 10.978
+
+363 7 apps, DATASET_2/networks/network_070_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0363.dat
+GAP 19 2955.4553821375107 30.735
+
+364 7 apps, DATASET_2/networks/network_070_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0364.dat
+GAP 14 2346.7544049293297 26.428
+
+365 7 apps, DATASET_2/networks/network_070_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0365.dat
+GAP 9 1358.3225060743368 9.544
+
+366 8 apps, DATASET_2/networks/network_070_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0366.dat
+GAP 15 2904.750191775213 36.883
+
+367 8 apps, DATASET_2/networks/network_070_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0367.dat
+GAP 6 1904.0520562259053 7.167
+
+368 8 apps, DATASET_2/networks/network_070_d_rp_2.dat DATASET_2/apps_merged_FINAL/id_0368.dat
+GAP 12 2375.926793246159 21.990
+
+369 9 apps, DATASET_2/networks/network_070_d_rp_0.dat DATASET_2/apps_merged_FINAL/id_0369.dat
+GAP 16 3115.2004587973993 41.566
+
+370 9 apps, DATASET_2/networks/network_070_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0370.dat
+GAP 15 2221.6956086069754 31.787
+
+371 9 apps, DATASET_2/networks/network_070_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0371.dat
+GAP 15 2542.2782725090315 29.371
+
+372 10 apps, DATASET_2/networks/network_070_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0372.dat
+GAP 17 3889.733466292806 53.132
+
+373 10 apps, DATASET_2/networks/network_070_a_rp_0.dat DATASET_2/apps_merged_FINAL/id_0373.dat
+GAP 22 3936.276914788075 69.878
+
+374 10 apps, DATASET_2/networks/network_070_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0374.dat
+GAP 25 3881.7368061552024 76.696
+
+375 11 apps, DATASET_2/networks/network_070_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0375.dat
+GAP 20 4139.570815989926 58.607
+
+376 11 apps, DATASET_2/networks/network_070_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0376.dat
+GAP 25 3786.7778348444394 91.183
+
+377 11 apps, DATASET_2/networks/network_070_d_rp_1.dat DATASET_2/apps_merged_FINAL/id_0377.dat
+GAP 29 4988.9339709371725 84.727
+
+378 12 apps, DATASET_2/networks/network_070_c_rp_2.dat DATASET_2/apps_merged_FINAL/id_0378.dat
+GAP 17 4550.294459679656 54.279
+
+379 12 apps, DATASET_2/networks/network_070_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0379.dat
+GAP 26 4098.8150693317275 133.333
+
+380 12 apps, DATASET_2/networks/network_070_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0380.dat
+GAP 25 5576.0702966817535 118.157
+
+381 13 apps, DATASET_2/networks/network_070_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0381.dat
+GAP 23 4874.647070652766 106.382
+
+382 13 apps, DATASET_2/networks/network_070_c_rp_3.dat DATASET_2/apps_merged_FINAL/id_0382.dat
+GAP 21 4590.03479496414 92.030
+
+383 13 apps, DATASET_2/networks/network_070_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0383.dat
+GAP 22 5024.548784043936 133.094
+
+384 14 apps, DATASET_2/networks/network_070_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0384.dat
+GAP 25 5005.572948223168 154.348
+
+385 14 apps, DATASET_2/networks/network_070_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0385.dat
+GAP 27 5395.588268545841 123.309
+
+386 14 apps, DATASET_2/networks/network_070_d_rp_0.dat DATASET_2/apps_merged_FINAL/id_0386.dat
+GAP 24 5796.888735824891 117.474
+
+387 15 apps, DATASET_2/networks/network_070_b_rp_4.dat DATASET_2/apps_merged_FINAL/id_0387.dat
+GAP 28 6427.400940929712 162.415
+
+388 15 apps, DATASET_2/networks/network_070_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0388.dat
+GAP 48 7804.397360337673 538.740
+
+389 15 apps, DATASET_2/networks/network_070_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0389.dat
+GAP 24 5653.376220790865 101.650
+
+390 16 apps, DATASET_2/networks/network_070_b_rp_3.dat DATASET_2/apps_merged_FINAL/id_0390.dat
+GAP 26 6195.945126873984 178.722
+
+391 16 apps, DATASET_2/networks/network_070_d_rp_3.dat DATASET_2/apps_merged_FINAL/id_0391.dat
+GAP 34 7398.962715911476 275.863
+
+392 16 apps, DATASET_2/networks/network_070_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0392.dat
+GAP 21 6000.672917926146 159.777
+
+393 17 apps, DATASET_2/networks/network_070_a_rp_4.dat DATASET_2/apps_merged_FINAL/id_0393.dat
+GAP 25 6479.6701408060135 110.160
+
+394 17 apps, DATASET_2/networks/network_070_a_rp_1.dat DATASET_2/apps_merged_FINAL/id_0394.dat
+GAP 31 7058.341267767891 194.923
+
+395 17 apps, DATASET_2/networks/network_070_d_rp_4.dat DATASET_2/apps_merged_FINAL/id_0395.dat
+GAP 33 6835.710963597849 188.868
+
+396 18 apps, DATASET_2/networks/network_070_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0396.dat
+INF_dummy 56 582.925
+
+399 19 apps, DATASET_2/networks/network_070_c_rp_0.dat DATASET_2/apps_merged_FINAL/id_0399.dat
+GAP 28 6973.964432115039 173.497
+
+400 19 apps, DATASET_2/networks/network_070_a_rp_2.dat DATASET_2/apps_merged_FINAL/id_0400.dat
+GAP 34 8510.556827777562 309.901
+
+401 19 apps, DATASET_2/networks/network_070_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0401.dat
+GAP 28 7696.402017579555 207.743
+
+402 20 apps, DATASET_2/networks/network_070_b_rp_0.dat DATASET_2/apps_merged_FINAL/id_0402.dat
+INF_dummy 45 417.005
+
+403 20 apps, DATASET_2/networks/network_070_c_rp_1.dat DATASET_2/apps_merged_FINAL/id_0403.dat
+GAP 37 8083.122084602714 426.585
+
+406 21 apps, DATASET_2/networks/network_070_d_rp_0.dat DATASET_2/apps_merged_FINAL/id_0406.dat
+GAP 26 7735.8714028401055 214.227
+
+407 21 apps, DATASET_2/networks/network_070_b_rp_2.dat DATASET_2/apps_merged_FINAL/id_0407.dat
+GAP 35 7905.137591451419 631.320
+
+408 22 apps, DATASET_2/networks/network_070_a_rp_3.dat DATASET_2/apps_merged_FINAL/id_0408.dat
+GAP 33 7977.697294224655 298.410
+
+412 23 apps, DATASET_2/networks/network_070_c_rp_4.dat DATASET_2/apps_merged_FINAL/id_0412.dat
+GAP 28 8233.380649284387 287.505
+
+416 24 apps, DATASET_2/networks/network_070_c_rp_2.dat DATASET_2/apps_merged_FINAL/id_0416.dat
+GAP 28 8043.907037527218 290.763
+
+417 25 apps, DATASET_2/networks/network_070_b_rp_1.dat DATASET_2/apps_merged_FINAL/id_0417.dat
+INF_dummy 40 488.056

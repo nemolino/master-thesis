@@ -176,5 +176,4 @@ cython_debug/
 gurobi.lic
 
 O3_NEW_solver/
-O5_computational_results_FINAL/
 .DS_Store
