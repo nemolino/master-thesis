@@ -1,0 +1,14 @@
+core
+382 58 84 87 
+has_camera
+0 0 1 1 
+has_gpu
+0 1 1 1 
+bandwidth
+1,0 116
+2,0 55
+3,0 155
+latency
+1,0 3
+2,0 4
+3,0 3

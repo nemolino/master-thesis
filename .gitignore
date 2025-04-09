@@ -173,6 +173,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-gurobi.lic
-
 .DS_Store
+gurobi.lic
+solver_ignore/

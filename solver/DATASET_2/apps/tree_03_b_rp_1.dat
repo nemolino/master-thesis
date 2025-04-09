@@ -1,0 +1,12 @@
+core
+743 30 218 
+has_camera
+0 0 0 
+has_gpu
+0 0 1 
+bandwidth
+1,0 58
+2,0 102
+latency
+1,0 2
+2,0 2
