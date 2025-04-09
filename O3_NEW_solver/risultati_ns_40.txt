@@ -1,0 +1,3338 @@
+2 apps, DATASET/networks/network_040_c_rp_0.dat DATASET/apps_merged/id_0042.dat
+
+
+CG :
+
+generated 500 feasible columns - time 2.53 s, actually added 93/500 , min_cost = 70 , avg_cost = 180.106
+
+generated 500 feasible columns - time 17.88 s, actually added 320/500 , min_cost = 272 , avg_cost = 567.988
+# iterations : 1
+master obj val : 342.0
+LR dual bound : 342.0
+CG time : 22.018s
+
+application 0
+	pattern    1 : 1.000 [39, 39, 15]
+application 1
+	pattern    1 : 0.829 [39, 8, 39, 39, 39, 39, 15, 39, 7, 15]
+	pattern    3 : 0.171 [39, 7, 39, 39, 39, 39, 15, 39, 8, 8]
+
+discrete RMP : z* = 342.0
+application patterns : [1, 3]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.02 s
+
+dual 342.0 primal 342.0
+
+--------------------------------------------------------------------------------
+
+2 apps, DATASET/networks/network_040_c_rp_4.dat DATASET/apps_merged/id_0043.dat
+
+
+CG :
+
+generated 500 feasible columns - time 47.32 s, actually added 338/500 , min_cost = 540 , avg_cost = 939.1
+
+generated 500 feasible columns - time 6.40 s, actually added 249/500 , min_cost = 149 , avg_cost = 379.914
+# iterations : 4
+master obj val : 692.7004622809743
+LR dual bound : 692.1842587742594
+CG time : 61.607s
+
+application 0
+	pattern    1 : 0.542 [39, 14, 8, 39, 12, 8, 15, 14, 1, 39, 39, 8, 8]
+	pattern    3 : 0.177 [39, 8, 8, 39, 1, 14, 7, 1, 15, 39, 39, 8, 14]
+	pattern    4 : 0.228 [39, 14, 8, 39, 19, 8, 15, 1, 1, 39, 39, 8, 7]
+	pattern    6 : 0.053 [39, 1, 8, 39, 19, 8, 15, 1, 1, 39, 39, 8, 7]
+application 1
+	pattern    2 : 0.474 [39, 39, 39, 19, 8, 39]
+	pattern  253 : 0.526 [39, 39, 39, 19, 14, 39]
+
+discrete RMP : z* = 699.0
+application patterns : [24, 3]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.04 s
+
+dual 692.1842587742594 primal 699.0
+
+--------------------------------------------------------------------------------
+
+2 apps, DATASET/networks/network_040_a_rp_4.dat DATASET/apps_merged/id_0044.dat
+
+
+CG :
+
+generated 500 feasible columns - time 78.14 s, actually added 364/500 , min_cost = 333 , avg_cost = 621.208
+
+generated 500 feasible columns - time 11.61 s, actually added 250/500 , min_cost = 107 , avg_cost = 332.924
+# iterations : 11
+master obj val : 442.8262910798122
+LR dual bound : 442.8262910798122
+CG time : 98.877s
+
+application 0
+	pattern    1 : 0.474 [39, 16, 8, 0, 8, 39, 39, 39, 39, 0, 39]
+	pattern  375 : 0.526 [39, 0, 8, 0, 8, 39, 39, 39, 39, 5, 39]
+application 1
+	pattern    1 : 0.376 [39, 39, 39, 39, 39, 0]
+	pattern  260 : 0.624 [39, 39, 39, 39, 39, 16]
+
+discrete RMP : z* = 445.0
+application patterns : [1, 261]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.04 s
+
+dual 442.8262910798122 primal 445.0
+
+--------------------------------------------------------------------------------
+
+3 apps, DATASET/networks/network_040_d_rp_2.dat DATASET/apps_merged/id_0045.dat
+
+
+CG :
+
+generated 500 feasible columns - time 1.42 s, actually added 212/500 , min_cost = 160 , avg_cost = 283.684
+
+generated 500 feasible columns - time 1.03 s, actually added 31/500 , min_cost = 110 , avg_cost = 193.844
+
+generated 500 feasible columns - time 2.19 s, actually added 242/500 , min_cost = 120 , avg_cost = 265.376
+# iterations : 9
+master obj val : 430.8609939801347
+LR dual bound : 430.8609939801347
+CG time : 7.166s
+
+application 0
+	pattern  217 : 0.365 [39, 7, 4, 0]
+	pattern  220 : 0.635 [39, 0, 4, 0]
+application 1
+	pattern    1 : 0.401 [0, 0, 39]
+	pattern   34 : 0.155 [7, 22, 39]
+	pattern   38 : 0.445 [0, 22, 39]
+application 2
+	pattern    2 : 1.000 [39, 39, 7, 0]
+
+discrete RMP : z* = 437.0
+application patterns : [220, 38, 2]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.02 s
+
+dual 430.8609939801347 primal 437.0
+
+--------------------------------------------------------------------------------
+
+3 apps, DATASET/networks/network_040_b_rp_4.dat DATASET/apps_merged/id_0046.dat
+
+
+CG :
+
+generated 500 feasible columns - time 11.85 s, actually added 250/500 , min_cost = 363 , avg_cost = 672.752
+
+generated 500 feasible columns - time 74.36 s, actually added 252/500 , min_cost = 447 , avg_cost = 777.386
+
+generated 500 feasible columns - time 15.86 s, actually added 500/500 , min_cost = 581 , avg_cost = 947.642
+# iterations : 26
+master obj val : 1303.7808148247595
+LR dual bound : 1303.2335184807926
+CG time : 146.854s
+
+application 0
+	pattern    1 : 0.335 [1, 1, 1, 1, 39, 39, 25, 9, 39, 39]
+	pattern  273 : 0.092 [1, 1, 1, 10, 39, 39, 25, 12, 39, 39]
+	pattern  275 : 0.573 [1, 1, 1, 1, 39, 39, 25, 12, 39, 39]
+application 1
+	pattern    1 : 0.014 [39, 1, 39, 39, 39, 39, 1, 8, 39, 25, 10, 39, 10, 39]
+	pattern    3 : 0.349 [39, 1, 39, 39, 39, 39, 1, 9, 39, 8, 10, 39, 10, 39]
+	pattern  268 : 0.637 [39, 25, 39, 39, 39, 39, 8, 9, 39, 8, 10, 39, 10, 39]
+application 2
+	pattern  516 : 0.115 [39, 12, 25, 39, 39, 39, 10, 39, 39, 25, 39, 8, 9, 39]
+	pattern  523 : 0.315 [39, 12, 25, 39, 39, 39, 10, 39, 39, 25, 39, 15, 9, 39]
+	pattern  525 : 0.346 [39, 12, 25, 39, 39, 39, 8, 39, 39, 1, 39, 7, 9, 39]
+	pattern  526 : 0.224 [39, 12, 25, 39, 39, 39, 25, 39, 39, 1, 39, 5, 9, 39]
+
+discrete RMP : z* = 1359.0
+application patterns : [262, 271, 526]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.10 s
+
+dual 1303.2335184807926 primal 1359.0
+
+--------------------------------------------------------------------------------
+
+3 apps, DATASET/networks/network_040_d_rp_0.dat DATASET/apps_merged/id_0047.dat
+
+
+CG :
+
+generated 500 feasible columns - time 36.80 s, actually added 499/500 , min_cost = 511 , avg_cost = 807.876
+
+generated 500 feasible columns - time 15.66 s, actually added 432/500 , min_cost = 365 , avg_cost = 574.5
+
+generated 500 feasible columns - time 25.31 s, actually added 250/500 , min_cost = 135 , avg_cost = 333.302
+# iterations : 2
+master obj val : 1000.0923421262988
+LR dual bound : 1000.0923421262988
+CG time : 82.677s
+
+application 0
+	pattern    1 : 0.978 [39, 9, 7, 39, 4, 20, 39, 0, 2, 7, 39, 39]
+	pattern  501 : 0.022 [39, 13, 7, 39, 22, 20, 39, 0, 2, 4, 39, 39]
+application 1
+	pattern    1 : 0.044 [39, 7, 26, 39, 20, 13, 13]
+	pattern    2 : 0.292 [39, 4, 26, 39, 20, 13, 13]
+	pattern  434 : 0.664 [39, 13, 26, 39, 20, 2, 13]
+application 2
+	pattern    1 : 1.000 [39, 39, 39, 39, 28, 39]
+
+discrete RMP : z* = 1006.0
+application patterns : [1, 28, 1]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.07 s
+
+dual 1000.0923421262988 primal 1006.0
+
+--------------------------------------------------------------------------------
+
+4 apps, DATASET/networks/network_040_d_rp_1.dat DATASET/apps_merged/id_0048.dat
+
+
+CG :
+
+generated 500 feasible columns - time 19.88 s, actually added 247/500 , min_cost = 140 , avg_cost = 275.762
+
+generated 500 feasible columns - time 34.41 s, actually added 488/500 , min_cost = 513 , avg_cost = 844.69
+
+generated 500 feasible columns - time 9.20 s, actually added 254/500 , min_cost = 182 , avg_cost = 397.028
+
+generated 500 feasible columns - time 81.51 s, actually added 491/500 , min_cost = 313 , avg_cost = 669.842
+# iterations : 8
+master obj val : 1137.6985415299757
+LR dual bound : 1136.9973245571377
+CG time : 172.416s
+
+application 0
+	pattern    1 : 0.258 [39, 0, 13, 39]
+	pattern    2 : 0.615 [39, 7, 2, 39]
+	pattern  251 : 0.127 [39, 2, 2, 39]
+application 1
+	pattern  491 : 0.146 [39, 5, 39, 0, 22, 20, 22, 39, 0, 39, 39, 39, 7]
+	pattern  495 : 0.822 [39, 5, 39, 0, 2, 20, 13, 39, 7, 39, 39, 39, 0]
+	pattern  496 : 0.032 [39, 5, 39, 0, 2, 20, 22, 39, 1, 39, 39, 39, 7]
+application 2
+	pattern  261 : 0.216 [39, 39, 1, 39, 2, 39, 39]
+	pattern  262 : 0.784 [39, 39, 1, 39, 22, 39, 39]
+application 3
+	pattern    1 : 0.188 [39, 6, 39, 39, 39, 39, 0, 2, 39, 39]
+	pattern  494 : 0.812 [39, 22, 39, 39, 39, 39, 0, 6, 39, 39]
+
+discrete RMP : z* = 1157.0
+application patterns : [251, 493, 262, 494]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.10 s
+
+dual 1136.9973245571377 primal 1157.0
+
+--------------------------------------------------------------------------------
+
+4 apps, DATASET/networks/network_040_b_rp_4.dat DATASET/apps_merged/id_0049.dat
+
+
+CG :
+
+generated 500 feasible columns - time 1.63 s, actually added 74/500 , min_cost = 110 , avg_cost = 195.334
+
+generated 500 feasible columns - time 5.81 s, actually added 258/500 , min_cost = 212 , avg_cost = 368.188
+
+generated 500 feasible columns - time 23.04 s, actually added 500/500 , min_cost = 706 , avg_cost = 1076.302
+
+generated 500 feasible columns - time 3.63 s, actually added 251/500 , min_cost = 260 , avg_cost = 437.474
+# iterations : 14
+master obj val : 1194.0285975180484
+LR dual bound : 1193.5602083136082
+CG time : 45.338s
+
+application 0
+	pattern    1 : 1.000 [39, 1, 1]
+application 1
+	pattern    1 : 0.400 [39, 8, 39, 9, 9]
+	pattern    2 : 0.270 [39, 10, 39, 9, 9]
+	pattern    5 : 0.330 [39, 10, 39, 12, 9]
+application 2
+	pattern  505 : 0.212 [39, 39, 39, 10, 39, 39, 9, 39, 25, 8, 10, 25, 12, 39, 12]
+	pattern  509 : 0.026 [39, 39, 39, 15, 39, 39, 9, 39, 25, 8, 8, 25, 10, 39, 12]
+	pattern  510 : 0.317 [39, 39, 39, 15, 39, 39, 12, 39, 25, 8, 8, 25, 1, 39, 12]
+	pattern  512 : 0.019 [39, 39, 39, 15, 39, 39, 1, 39, 25, 8, 8, 1, 12, 39, 12]
+	pattern  513 : 0.310 [39, 39, 39, 15, 39, 39, 9, 39, 25, 8, 8, 1, 12, 39, 12]
+	pattern  514 : 0.116 [39, 39, 39, 15, 39, 39, 1, 39, 25, 8, 8, 25, 12, 39, 9]
+application 3
+	pattern  260 : 0.996 [39, 39, 8, 25, 25, 10]
+	pattern  263 : 0.004 [39, 39, 10, 25, 25, 5]
+
+discrete RMP : z* = 1219.0
+application patterns : [1, 5, 504, 260]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.08 s
+
+dual 1193.5602083136082 primal 1219.0
+
+--------------------------------------------------------------------------------
+
+4 apps, DATASET/networks/network_040_c_rp_1.dat DATASET/apps_merged/id_0050.dat
+
+
+CG :
+
+generated 500 feasible columns - time 93.37 s, actually added 495/500 , min_cost = 606 , avg_cost = 848.12
+
+generated 500 feasible columns - time 8.68 s, actually added 260/500 , min_cost = 170 , avg_cost = 376.62
+
+generated 500 feasible columns - time 41.36 s, actually added 494/500 , min_cost = 631 , avg_cost = 1113.98
+
+generated 500 feasible columns - time 1.81 s, actually added 95/500 , min_cost = 110 , avg_cost = 216.028
+# iterations : 11
+master obj val : 1541.7108636677601
+LR dual bound : 1540.754497488308
+CG time : 170.117s
+
+application 0
+	pattern  498 : 0.541 [39, 15, 39, 23, 39, 15, 7, 12, 11, 14, 1, 7]
+	pattern  504 : 0.416 [39, 14, 39, 23, 39, 14, 19, 12, 11, 14, 1, 19]
+	pattern  506 : 0.043 [39, 14, 39, 23, 39, 14, 7, 12, 11, 14, 1, 7]
+application 1
+	pattern    5 : 0.465 [39, 19, 39, 8, 8]
+	pattern    7 : 0.535 [39, 14, 39, 8, 8]
+application 2
+	pattern  500 : 0.024 [39, 39, 39, 8, 1, 19, 15, 39, 23, 14, 39, 19, 8, 15, 11]
+	pattern  501 : 0.012 [39, 39, 39, 8, 1, 19, 7, 39, 11, 15, 39, 19, 8, 7, 11]
+	pattern  502 : 0.381 [39, 39, 39, 8, 7, 19, 15, 39, 23, 14, 39, 7, 8, 15, 7]
+	pattern  503 : 0.286 [39, 39, 39, 8, 1, 19, 19, 39, 23, 15, 39, 19, 8, 7, 13]
+	pattern  504 : 0.158 [39, 39, 39, 8, 15, 15, 19, 39, 11, 14, 39, 15, 8, 7, 11]
+	pattern  505 : 0.139 [39, 39, 39, 8, 16, 19, 15, 39, 23, 14, 39, 19, 8, 15, 11]
+application 3
+	pattern    1 : 0.041 [15, 8, 39]
+	pattern  103 : 0.811 [19, 1, 39]
+	pattern  104 : 0.148 [15, 1, 39]
+
+discrete RMP : z* = 1622.0
+application patterns : [117, 264, 126, 103]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.27 s
+
+dual 1540.754497488308 primal 1622.0
+
+--------------------------------------------------------------------------------
+
+5 apps, DATASET/networks/network_040_a_rp_2.dat DATASET/apps_merged/id_0051.dat
+
+
+CG :
+
+generated 500 feasible columns - time 27.44 s, actually added 227/500 , min_cost = 169 , avg_cost = 300.236
+
+generated 500 feasible columns - time 1.98 s, actually added 250/500 , min_cost = 144 , avg_cost = 332.234
+
+generated 500 feasible columns - time 26.32 s, actually added 332/500 , min_cost = 592 , avg_cost = 967.964
+
+generated 500 feasible columns - time 13.14 s, actually added 307/500 , min_cost = 424 , avg_cost = 836.19
+
+generated 500 feasible columns - time 52.04 s, actually added 424/500 , min_cost = 567 , avg_cost = 1045.686
+# iterations : 27
+master obj val : 2081.904607190368
+LR dual bound : 2080.252109014982
+CG time : 170.580s
+
+application 0
+	pattern    2 : 0.362 [39, 39, 16, 39, 39, 25]
+	pattern  240 : 0.614 [39, 39, 16, 39, 39, 24]
+	pattern  241 : 0.024 [39, 39, 25, 39, 39, 20]
+application 1
+	pattern  260 : 0.346 [39, 24, 39, 39, 0]
+	pattern  261 : 0.059 [39, 20, 39, 39, 0]
+	pattern  265 : 0.595 [39, 7, 39, 39, 0]
+application 2
+	pattern  351 : 0.476 [16, 16, 16, 16, 16, 13, 5, 5, 39, 6, 39, 39, 39, 39]
+	pattern  354 : 0.461 [0, 0, 0, 5, 5, 25, 16, 25, 39, 20, 39, 39, 39, 39]
+	pattern  359 : 0.063 [16, 16, 16, 16, 16, 25, 5, 5, 39, 7, 39, 39, 39, 39]
+application 3
+	pattern  329 : 0.341 [39, 39, 25, 39, 39, 24, 39, 8, 16, 39, 39, 25, 6, 39]
+	pattern  332 : 0.110 [39, 39, 25, 39, 39, 24, 39, 14, 5, 39, 39, 5, 6, 39]
+	pattern  333 : 0.549 [39, 39, 5, 39, 39, 24, 39, 14, 16, 39, 39, 16, 6, 39]
+application 4
+	pattern  440 : 0.557 [39, 20, 0, 39, 8, 39, 0, 0, 0, 39, 39, 22, 8, 39, 0]
+	pattern  448 : 0.062 [39, 7, 0, 39, 8, 39, 0, 0, 0, 39, 39, 22, 14, 39, 0]
+	pattern  450 : 0.249 [39, 6, 0, 39, 8, 39, 0, 0, 0, 39, 39, 22, 8, 39, 16]
+	pattern  451 : 0.132 [39, 7, 0, 39, 8, 39, 0, 5, 0, 39, 39, 22, 8, 39, 16]
+
+discrete RMP : z* = 2141.0
+application patterns : [235, 259, 51, 324, 451]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.19 s
+
+dual 2080.252109014982 primal 2141.0
+
+--------------------------------------------------------------------------------
+
+5 apps, DATASET/networks/network_040_a_rp_3.dat DATASET/apps_merged/id_0052.dat
+
+
+CG :
+
+generated 500 feasible columns - time 15.78 s, actually added 484/500 , min_cost = 444 , avg_cost = 768.562
+
+generated 500 feasible columns - time 24.66 s, actually added 257/500 , min_cost = 337 , avg_cost = 706.062
+
+generated 500 feasible columns - time 14.97 s, actually added 260/500 , min_cost = 391 , avg_cost = 795.884
+
+generated 500 feasible columns - time 12.34 s, actually added 250/500 , min_cost = 314 , avg_cost = 651.07
+
+generated 500 feasible columns - time 4.04 s, actually added 242/500 , min_cost = 80 , avg_cost = 239.766
+# iterations : 33
+master obj val : 1773.1661314796895
+LR dual bound : 1771.9487592012101
+CG time : 138.965s
+
+application 0
+	pattern  499 : 0.037 [39, 8, 8, 0, 39, 21, 0, 39, 12, 39, 0, 39]
+	pattern  503 : 0.195 [39, 8, 8, 0, 39, 17, 7, 39, 12, 39, 25, 39]
+	pattern  505 : 0.088 [39, 8, 8, 0, 39, 21, 12, 39, 0, 39, 5, 39]
+	pattern  512 : 0.038 [39, 8, 8, 8, 39, 21, 12, 39, 21, 39, 0, 39]
+	pattern  514 : 0.581 [39, 8, 8, 0, 39, 0, 12, 39, 21, 39, 0, 39]
+	pattern  516 : 0.061 [39, 8, 8, 8, 39, 17, 13, 39, 24, 39, 25, 39]
+application 1
+	pattern  277 : 0.109 [39, 24, 8, 39, 17, 39, 39, 0, 39, 8, 39, 39, 39]
+	pattern  282 : 0.203 [39, 24, 8, 39, 8, 39, 39, 0, 39, 8, 39, 39, 39]
+	pattern  284 : 0.338 [39, 17, 8, 39, 8, 39, 39, 0, 39, 8, 39, 39, 39]
+	pattern  288 : 0.250 [39, 17, 8, 39, 0, 39, 39, 0, 39, 8, 39, 39, 39]
+	pattern  289 : 0.100 [39, 17, 8, 39, 8, 39, 39, 8, 39, 8, 39, 39, 39]
+application 2
+	pattern  281 : 0.112 [39, 39, 39, 8, 12, 39, 39, 21, 5, 25, 39, 8, 39]
+	pattern  288 : 0.888 [39, 39, 39, 8, 24, 39, 39, 24, 5, 25, 39, 8, 39]
+application 3
+	pattern  279 : 0.175 [39, 8, 0, 0, 0, 39, 39, 10, 39, 39]
+	pattern  280 : 0.541 [39, 8, 8, 21, 12, 39, 39, 21, 39, 39]
+	pattern  282 : 0.074 [39, 8, 8, 24, 13, 39, 39, 10, 39, 39]
+	pattern  283 : 0.210 [39, 8, 8, 21, 20, 39, 39, 10, 39, 39]
+application 4
+	pattern  247 : 0.700 [39, 39, 5, 39]
+	pattern  248 : 0.300 [39, 39, 25, 39]
+
+discrete RMP : z* = 1868.0
+application patterns : [85, 284, 288, 264, 245]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.25 s
+
+dual 1771.9487592012101 primal 1868.0
+
+--------------------------------------------------------------------------------
+
+5 apps, DATASET/networks/network_040_d_rp_0.dat DATASET/apps_merged/id_0053.dat
+
+
+CG :
+
+generated 500 feasible columns - time 17.51 s, actually added 477/500 , min_cost = 401 , avg_cost = 683.328
+
+generated 500 feasible columns - time 5.43 s, actually added 256/500 , min_cost = 173 , avg_cost = 367.828
+
+generated 500 feasible columns - time 46.12 s, actually added 263/500 , min_cost = 355 , avg_cost = 733.29
+
+generated 500 feasible columns - time 35.57 s, actually added 259/500 , min_cost = 362 , avg_cost = 694.54
+
+generated 500 feasible columns - time 16.67 s, actually added 498/500 , min_cost = 420 , avg_cost = 756.418
+# iterations : 8
+master obj val : 1757.5090624618695
+LR dual bound : 1757.0972977559873
+CG time : 146.986s
+
+application 0
+	pattern    1 : 0.647 [39, 7, 13, 39, 13, 20, 0, 13]
+	pattern    2 : 0.198 [39, 7, 13, 39, 2, 20, 0, 13]
+	pattern  482 : 0.155 [39, 7, 13, 39, 13, 20, 0, 8]
+application 1
+	pattern    1 : 0.241 [39, 39, 7, 26, 39]
+	pattern    4 : 0.390 [39, 39, 20, 11, 39]
+	pattern  262 : 0.370 [39, 39, 4, 26, 39]
+application 2
+	pattern    5 : 0.582 [39, 39, 39, 4, 2, 39, 39, 39, 39, 26, 2, 39]
+	pattern  268 : 0.265 [39, 39, 39, 22, 2, 39, 39, 39, 39, 26, 2, 39]
+	pattern  270 : 0.028 [39, 39, 39, 9, 2, 39, 39, 39, 39, 26, 2, 39]
+	pattern  271 : 0.126 [39, 39, 39, 1, 2, 39, 39, 39, 39, 26, 5, 39]
+application 3
+	pattern  266 : 0.748 [39, 13, 13, 7, 39, 20, 39, 1, 39]
+	pattern  267 : 0.252 [39, 13, 5, 1, 39, 4, 39, 22, 39]
+application 4
+	pattern  504 : 0.152 [39, 20, 39, 20, 13, 39, 39, 20, 11, 20]
+	pattern  505 : 0.375 [39, 20, 39, 20, 0, 39, 39, 20, 11, 20]
+	pattern  506 : 0.473 [39, 4, 39, 7, 0, 39, 39, 7, 5, 20]
+
+discrete RMP : z* = 1831.0
+application patterns : [482, 3, 1, 262, 504]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.28 s
+
+dual 1757.0972977559873 primal 1831.0
+
+--------------------------------------------------------------------------------
+
+6 apps, DATASET/networks/network_040_d_rp_0.dat DATASET/apps_merged/id_0054.dat
+
+
+CG :
+
+generated 500 feasible columns - time 2.13 s, actually added 187/500 , min_cost = 172 , avg_cost = 304.432
+
+generated 500 feasible columns - time 25.50 s, actually added 250/500 , min_cost = 135 , avg_cost = 330.952
+
+generated 500 feasible columns - time 4.96 s, actually added 251/500 , min_cost = 221 , avg_cost = 409.998
+
+generated 500 feasible columns - time 16.32 s, actually added 486/500 , min_cost = 415 , avg_cost = 745.802
+
+generated 500 feasible columns - time 2.91 s, actually added 156/500 , min_cost = 140 , avg_cost = 288.03
+
+generated 500 feasible columns - time 20.38 s, actually added 466/500 , min_cost = 415 , avg_cost = 847.442
+# iterations : 8
+master obj val : 1538.8484590962205
+LR dual bound : 1538.7327566168815
+CG time : 91.897s
+
+application 0
+	pattern    1 : 0.549 [39, 26, 13, 39]
+	pattern    5 : 0.371 [39, 26, 5, 39]
+	pattern  189 : 0.081 [39, 11, 5, 39]
+application 1
+	pattern    1 : 1.000 [39, 39, 39, 39, 28, 39]
+application 2
+	pattern    2 : 0.110 [39, 39, 7, 5, 39, 0]
+	pattern  255 : 0.232 [39, 39, 7, 5, 39, 2]
+	pattern  256 : 0.428 [39, 39, 4, 5, 39, 0]
+	pattern  258 : 0.230 [39, 39, 7, 5, 39, 8]
+application 3
+	pattern    1 : 0.131 [39, 13, 39, 0, 39, 7, 13, 0, 39, 20]
+	pattern  492 : 0.339 [39, 0, 39, 2, 39, 7, 26, 0, 39, 4]
+	pattern  493 : 0.531 [39, 8, 39, 0, 39, 7, 26, 0, 39, 4]
+application 4
+	pattern  160 : 0.235 [39, 2, 8, 39]
+	pattern  162 : 0.765 [39, 13, 2, 39]
+application 5
+	pattern    1 : 0.348 [39, 13, 39, 39, 39, 13, 7, 39, 39, 39, 7, 13, 39]
+	pattern  469 : 0.606 [39, 13, 39, 39, 39, 13, 7, 39, 39, 39, 20, 13, 39]
+	pattern  471 : 0.046 [39, 13, 39, 39, 39, 13, 7, 39, 39, 39, 7, 2, 39]
+
+discrete RMP : z* = 1575.0
+application patterns : [5, 1, 258, 12, 162, 469]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.17 s
+
+dual 1538.7327566168815 primal 1575.0
+
+--------------------------------------------------------------------------------
+
+6 apps, DATASET/networks/network_040_c_rp_1.dat DATASET/apps_merged/id_0055.dat
+
+
+CG :
+
+generated 500 feasible columns - time 27.69 s, actually added 262/500 , min_cost = 378 , avg_cost = 654.914
+
+generated 500 feasible columns - time 4.22 s, actually added 244/500 , min_cost = 172 , avg_cost = 315.45
+
+generated 500 feasible columns - time 35.41 s, actually added 457/500 , min_cost = 547 , avg_cost = 960.65
+
+generated 500 feasible columns - time 85.50 s, actually added 414/500 , min_cost = 355 , avg_cost = 689.618
+
+generated 500 feasible columns - time 15.18 s, actually added 450/500 , min_cost = 418 , avg_cost = 740.044
+
+generated 500 feasible columns - time 2.22 s, actually added 219/500 , min_cost = 120 , avg_cost = 271.914
+# iterations : 34
+master obj val : 2213.3677347941334
+LR dual bound : 2211.457131305343
+CG time : 246.835s
+
+application 0
+	pattern   10 : 0.341 [39, 19, 39, 16, 1, 19, 15, 39, 39, 19]
+	pattern  289 : 0.030 [39, 11, 39, 16, 14, 14, 19, 39, 39, 23]
+	pattern  294 : 0.520 [39, 19, 39, 24, 1, 19, 15, 39, 39, 19]
+	pattern  296 : 0.108 [39, 11, 39, 16, 14, 14, 7, 39, 39, 23]
+application 1
+	pattern  257 : 0.156 [19, 1, 19, 39]
+	pattern  261 : 0.024 [7, 7, 20, 39]
+	pattern  262 : 0.820 [14, 16, 6, 39]
+application 2
+	pattern  482 : 0.121 [39, 24, 8, 39, 39, 6, 8, 39, 15, 15, 39, 8, 23, 12]
+	pattern  484 : 0.044 [39, 12, 16, 39, 39, 7, 8, 39, 15, 15, 39, 8, 11, 1]
+	pattern  485 : 0.026 [39, 24, 8, 39, 39, 7, 8, 39, 15, 15, 39, 8, 21, 12]
+	pattern  486 : 0.424 [39, 12, 8, 39, 39, 7, 8, 39, 15, 15, 39, 8, 23, 1]
+	pattern  489 : 0.315 [39, 12, 8, 39, 39, 20, 8, 39, 15, 15, 39, 8, 11, 1]
+	pattern  491 : 0.070 [39, 23, 8, 39, 39, 24, 8, 39, 15, 15, 39, 8, 11, 12]
+application 3
+	pattern   82 : 0.237 [39, 7, 39, 39, 20, 24, 39, 39, 14, 19, 39]
+	pattern   95 : 0.347 [39, 7, 39, 39, 20, 24, 39, 39, 14, 1, 39]
+	pattern  120 : 0.253 [39, 6, 39, 39, 23, 11, 39, 39, 14, 1, 39]
+	pattern  157 : 0.152 [39, 24, 39, 39, 23, 11, 39, 39, 14, 19, 39]
+	pattern  430 : 0.011 [39, 20, 39, 39, 23, 11, 39, 39, 14, 1, 39]
+application 4
+	pattern  479 : 0.010 [39, 39, 14, 1, 1, 23, 39, 11, 8, 39, 12]
+	pattern  480 : 0.143 [39, 39, 15, 8, 12, 11, 39, 11, 15, 39, 16]
+	pattern  481 : 0.090 [39, 39, 8, 1, 14, 7, 39, 23, 8, 39, 20]
+	pattern  482 : 0.189 [39, 39, 15, 1, 14, 7, 39, 23, 15, 39, 20]
+	pattern  483 : 0.153 [39, 39, 14, 1, 1, 7, 39, 11, 8, 39, 8]
+	pattern  484 : 0.415 [39, 39, 14, 1, 14, 11, 39, 11, 8, 39, 16]
+application 5
+	pattern  243 : 0.005 [39, 11, 7, 39]
+	pattern  246 : 0.032 [39, 11, 14, 39]
+	pattern  248 : 0.892 [39, 21, 7, 39]
+	pattern  249 : 0.071 [39, 11, 15, 39]
+
+discrete RMP : z* = 2377.0
+application patterns : [280, 269, 477, 95, 464, 241]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.81 s
+
+dual 2211.457131305343 primal 2377.0
+
+--------------------------------------------------------------------------------
+
+6 apps, DATASET/networks/network_040_c_rp_3.dat DATASET/apps_merged/id_0056.dat
+
+
+CG :
+
+generated 500 feasible columns - time 41.19 s, actually added 254/500 , min_cost = 508 , avg_cost = 803.712
+
+generated 500 feasible columns - time 89.83 s, actually added 500/500 , min_cost = 559 , avg_cost = 775.674
+
+generated 500 feasible columns - time 16.08 s, actually added 411/500 , min_cost = 458 , avg_cost = 850.014
+
+generated 500 feasible columns - time 19.67 s, actually added 318/500 , min_cost = 431 , avg_cost = 849.44
+
+generated 500 feasible columns - time 3.12 s, actually added 206/500 , min_cost = 120 , avg_cost = 281.688
+
+generated 500 feasible columns - time 24.90 s, actually added 253/500 , min_cost = 200 , avg_cost = 475.122
+# iterations : 41
+master obj val : 2591.9266510134776
+LR dual bound : 2590.085010137511
+CG time : 304.071s
+
+application 0
+	pattern  289 : 0.069 [39, 21, 39, 39, 15, 11, 39, 11, 14, 39, 19, 24, 19, 39]
+	pattern  290 : 0.025 [39, 9, 39, 39, 15, 24, 39, 23, 19, 39, 19, 21, 19, 39]
+	pattern  292 : 0.846 [39, 9, 39, 39, 15, 23, 39, 11, 19, 39, 19, 5, 19, 39]
+	pattern  293 : 0.060 [39, 21, 39, 39, 15, 23, 39, 11, 14, 39, 7, 3, 19, 39]
+application 1
+	pattern  531 : 0.063 [39, 15, 14, 16, 39, 15, 11, 39, 20, 8, 23, 14]
+	pattern  534 : 0.037 [39, 15, 14, 16, 39, 15, 14, 39, 20, 8, 24, 14]
+	pattern  536 : 0.497 [39, 1, 14, 16, 39, 1, 14, 39, 20, 14, 24, 14]
+	pattern  540 : 0.251 [39, 15, 23, 20, 39, 15, 19, 39, 16, 8, 24, 7]
+	pattern  541 : 0.152 [39, 15, 23, 20, 39, 15, 19, 39, 16, 8, 21, 7]
+application 2
+	pattern  444 : 0.312 [39, 39, 39, 8, 8, 7, 39, 11, 23, 8, 8, 21]
+	pattern  447 : 0.520 [39, 39, 39, 15, 8, 7, 39, 24, 5, 8, 8, 21]
+	pattern  449 : 0.018 [39, 39, 39, 8, 8, 7, 39, 24, 5, 8, 8, 5]
+	pattern  452 : 0.151 [39, 39, 39, 8, 8, 7, 39, 21, 5, 8, 8, 5]
+application 3
+	pattern  349 : 0.327 [39, 39, 39, 5, 39, 8, 8, 39, 7, 39, 8, 8, 8]
+	pattern  357 : 0.535 [39, 39, 39, 3, 39, 14, 8, 39, 7, 39, 8, 8, 8]
+	pattern  358 : 0.096 [39, 39, 39, 24, 39, 8, 8, 39, 11, 39, 8, 8, 8]
+	pattern  359 : 0.042 [39, 39, 39, 21, 39, 19, 8, 39, 23, 39, 8, 8, 8]
+application 4
+	pattern  216 : 0.105 [39, 14, 23, 39]
+	pattern  232 : 0.047 [39, 19, 23, 39]
+	pattern  235 : 0.608 [39, 7, 7, 39]
+	pattern  237 : 0.114 [39, 7, 19, 39]
+	pattern  239 : 0.126 [39, 8, 23, 39]
+application 5
+	pattern  286 : 0.776 [39, 11, 39, 14, 14, 39, 39, 39]
+	pattern  289 : 0.224 [39, 23, 39, 14, 14, 39, 39, 39]
+
+discrete RMP : z* = 2935.0
+application patterns : [286, 179, 420, 44, 236, 278]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 3.35 s
+
+dual 2590.085010137511 primal 2935.0
+
+--------------------------------------------------------------------------------
+
+7 apps, DATASET/networks/network_040_c_rp_4.dat DATASET/apps_merged/id_0057.dat
+
+
+CG :
+
+generated 500 feasible columns - time 10.25 s, actually added 253/500 , min_cost = 259 , avg_cost = 543.53
+
+generated 500 feasible columns - time 52.94 s, actually added 329/500 , min_cost = 437 , avg_cost = 746.06
+
+generated 500 feasible columns - time 91.77 s, actually added 496/500 , min_cost = 369 , avg_cost = 757.292
+
+generated 500 feasible columns - time 19.70 s, actually added 337/500 , min_cost = 412 , avg_cost = 807.902
+
+generated 500 feasible columns - time 5.31 s, actually added 250/500 , min_cost = 249 , avg_cost = 465.838
+
+generated 500 feasible columns - time 30.10 s, actually added 251/500 , min_cost = 219 , avg_cost = 461.24
+
+generated 500 feasible columns - time 3.96 s, actually added 258/500 , min_cost = 210 , avg_cost = 382.184
+# iterations : 22
+master obj val : 2341.0896906977096
+LR dual bound : 2340.5367033160364
+CG time : 303.629s
+
+application 0
+	pattern  272 : 0.519 [39, 19, 39, 1, 39, 39, 7, 39, 1]
+	pattern  274 : 0.407 [39, 1, 39, 11, 39, 39, 14, 39, 14]
+	pattern  275 : 0.074 [39, 19, 39, 22, 39, 39, 8, 39, 12]
+application 1
+	pattern   62 : 0.198 [39, 16, 39, 39, 1, 16, 14, 8, 39, 19, 39, 15]
+	pattern   63 : 0.072 [39, 16, 39, 39, 19, 7, 1, 8, 39, 1, 39, 15]
+	pattern   64 : 0.082 [39, 16, 39, 39, 19, 16, 1, 8, 39, 1, 39, 15]
+	pattern   65 : 0.008 [39, 16, 39, 39, 1, 16, 14, 8, 39, 1, 39, 15]
+	pattern   67 : 0.215 [39, 16, 39, 39, 1, 16, 1, 8, 39, 19, 39, 15]
+	pattern  335 : 0.044 [39, 16, 39, 39, 14, 16, 14, 8, 39, 12, 39, 7]
+	pattern  343 : 0.087 [39, 16, 39, 39, 14, 7, 14, 8, 39, 12, 39, 16]
+	pattern  345 : 0.114 [39, 16, 39, 39, 14, 7, 14, 8, 39, 12, 39, 15]
+	pattern  347 : 0.180 [39, 7, 39, 39, 22, 7, 8, 8, 39, 12, 39, 15]
+application 2
+	pattern    7 : 0.658 [39, 11, 39, 39, 14, 11, 39, 39, 11, 15, 39]
+	pattern  516 : 0.007 [39, 19, 39, 39, 1, 17, 39, 39, 12, 15, 39]
+	pattern  517 : 0.064 [39, 19, 39, 39, 1, 17, 39, 39, 11, 15, 39]
+	pattern  518 : 0.270 [39, 19, 39, 39, 14, 11, 39, 39, 11, 15, 39]
+application 3
+	pattern  346 : 0.336 [39, 39, 8, 39, 7, 39, 7, 24, 39, 8, 39, 39, 11]
+	pattern  349 : 0.077 [39, 39, 8, 39, 15, 39, 16, 11, 39, 8, 39, 39, 12]
+	pattern  350 : 0.145 [39, 39, 8, 39, 7, 39, 16, 24, 39, 8, 39, 39, 19]
+	pattern  351 : 0.107 [39, 39, 8, 39, 7, 39, 16, 24, 39, 8, 39, 39, 12]
+	pattern  352 : 0.037 [39, 39, 8, 39, 7, 39, 7, 11, 39, 8, 39, 39, 19]
+	pattern  359 : 0.299 [39, 39, 8, 39, 7, 39, 15, 11, 39, 8, 39, 39, 12]
+application 4
+	pattern  268 : 1.000 [8, 8, 20, 24, 39, 39, 39]
+application 5
+	pattern    1 : 0.178 [39, 39, 15, 1, 39, 39, 19, 39]
+	pattern    2 : 0.074 [39, 39, 1, 1, 39, 39, 19, 39]
+	pattern  265 : 0.749 [39, 39, 15, 12, 39, 39, 19, 39]
+application 6
+	pattern  274 : 0.052 [8, 8, 7, 20, 39]
+	pattern  275 : 0.438 [8, 8, 16, 12, 39]
+	pattern  279 : 0.250 [8, 8, 7, 22, 39]
+	pattern  280 : 0.260 [8, 8, 7, 12, 39]
+
+discrete RMP : z* = 2499.0
+application patterns : [258, 332, 500, 11, 269, 262, 272]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 1.79 s
+
+dual 2340.5367033160364 primal 2499.0
+
+--------------------------------------------------------------------------------
+
+7 apps, DATASET/networks/network_040_d_rp_0.dat DATASET/apps_merged/id_0058.dat
+
+
+CG :
+
+generated 500 feasible columns - time 23.75 s, actually added 342/500 , min_cost = 574 , avg_cost = 958.274
+
+generated 500 feasible columns - time 14.38 s, actually added 499/500 , min_cost = 411 , avg_cost = 749.532
+
+generated 500 feasible columns - time 14.66 s, actually added 250/500 , min_cost = 292 , avg_cost = 606.334
+
+generated 500 feasible columns - time 4.67 s, actually added 442/500 , min_cost = 282 , avg_cost = 490.804
+
+generated 500 feasible columns - time 29.66 s, actually added 269/500 , min_cost = 362 , avg_cost = 715.048
+
+generated 500 feasible columns - time 1.58 s, actually added 66/500 , min_cost = 119 , avg_cost = 210.544
+
+generated 500 feasible columns - time 15.22 s, actually added 499/500 , min_cost = 471 , avg_cost = 799.256
+# iterations : 27
+master obj val : 2659.1963805174287
+LR dual bound : 2658.2588902692924
+CG time : 164.138s
+
+application 0
+	pattern  359 : 0.119 [13, 39, 2, 22, 39, 28, 39, 26, 1, 5, 39, 39, 39]
+	pattern  360 : 0.027 [2, 39, 8, 4, 39, 28, 39, 28, 20, 5, 39, 39, 39]
+	pattern  362 : 0.303 [2, 39, 2, 22, 39, 28, 39, 8, 4, 26, 39, 39, 39]
+	pattern  365 : 0.039 [13, 39, 2, 7, 39, 28, 39, 28, 1, 5, 39, 39, 39]
+	pattern  366 : 0.167 [13, 39, 2, 27, 39, 28, 39, 8, 4, 26, 39, 39, 39]
+	pattern  368 : 0.201 [2, 39, 2, 7, 39, 28, 39, 8, 4, 26, 39, 39, 39]
+	pattern  369 : 0.144 [13, 39, 8, 7, 39, 28, 39, 28, 20, 2, 39, 39, 39]
+application 1
+	pattern  513 : 0.900 [7, 39, 13, 20, 0, 39, 20, 7, 39, 39, 39]
+	pattern  519 : 0.042 [7, 39, 2, 13, 0, 39, 20, 7, 39, 39, 39]
+	pattern  523 : 0.058 [7, 39, 2, 7, 8, 39, 20, 4, 39, 39, 39]
+application 2
+	pattern  271 : 0.401 [39, 22, 39, 39, 39, 39, 13, 39, 9, 20]
+	pattern  273 : 0.083 [39, 1, 39, 39, 39, 39, 13, 39, 22, 7]
+	pattern  275 : 0.516 [39, 1, 39, 39, 39, 39, 13, 39, 22, 4]
+application 3
+	pattern    7 : 0.790 [0, 0, 8, 5, 39, 39, 39]
+	pattern  449 : 0.210 [13, 13, 8, 5, 39, 39, 39]
+application 4
+	pattern    3 : 0.501 [39, 39, 5, 39, 39, 8, 39, 39, 39, 7, 2, 39]
+	pattern  286 : 0.146 [39, 39, 28, 39, 39, 26, 39, 39, 39, 7, 2, 39]
+	pattern  288 : 0.069 [39, 39, 5, 39, 39, 8, 39, 39, 39, 7, 26, 39]
+	pattern  290 : 0.285 [39, 39, 5, 39, 39, 11, 39, 39, 39, 7, 2, 39]
+application 5
+	pattern   80 : 0.177 [13, 22, 39]
+	pattern   82 : 0.823 [13, 1, 39]
+application 6
+	pattern  517 : 0.230 [7, 39, 13, 13, 20, 20, 39, 28, 39, 39, 39, 39]
+	pattern  520 : 0.265 [4, 39, 11, 13, 27, 7, 39, 26, 39, 39, 39, 39]
+	pattern  523 : 0.331 [4, 39, 13, 13, 27, 20, 39, 26, 39, 39, 39, 39]
+	pattern  524 : 0.054 [4, 39, 13, 13, 20, 7, 39, 26, 39, 39, 39, 39]
+	pattern  525 : 0.051 [7, 39, 13, 13, 27, 7, 39, 26, 39, 39, 39, 39]
+	pattern  526 : 0.071 [7, 39, 11, 13, 27, 20, 39, 11, 39, 39, 39, 39]
+
+discrete RMP : z* = 2805.0
+application patterns : [50, 511, 271, 134, 285, 74, 506]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 2.13 s
+
+dual 2658.2588902692924 primal 2805.0
+
+--------------------------------------------------------------------------------
+
+7 apps, DATASET/networks/network_040_a_rp_2.dat DATASET/apps_merged/id_0059.dat
+
+
+CG :
+
+generated 500 feasible columns - time 10.33 s, actually added 263/500 , min_cost = 257 , avg_cost = 511.53
+
+generated 500 feasible columns - time 19.41 s, actually added 262/500 , min_cost = 266 , avg_cost = 509.574
+
+generated 500 feasible columns - time 16.97 s, actually added 332/500 , min_cost = 340 , avg_cost = 699.468
+
+generated 500 feasible columns - time 1.90 s, actually added 199/500 , min_cost = 174 , avg_cost = 287.076
+
+generated 500 feasible columns - time 42.10 s, actually added 487/500 , min_cost = 370 , avg_cost = 745.304
+
+generated 500 feasible columns - time 7.03 s, actually added 268/500 , min_cost = 313 , avg_cost = 519.614
+
+generated 500 feasible columns - time 49.05 s, actually added 273/500 , min_cost = 392 , avg_cost = 808.754
+# iterations : 27
+master obj val : 2402.4069790425206
+LR dual bound : 2400.99169209845
+CG time : 232.265s
+
+application 0
+	pattern  283 : 0.099 [39, 24, 39, 0, 39, 39, 0, 39, 14]
+	pattern  285 : 0.427 [39, 24, 39, 8, 39, 39, 8, 39, 8]
+	pattern  287 : 0.475 [39, 24, 39, 5, 39, 39, 0, 39, 7]
+application 1
+	pattern    6 : 0.068 [39, 39, 25, 39, 39, 39, 8, 16, 8]
+	pattern  284 : 0.723 [39, 39, 6, 39, 39, 39, 8, 16, 8]
+	pattern  286 : 0.088 [39, 39, 7, 39, 39, 39, 8, 24, 8]
+	pattern  288 : 0.122 [39, 39, 7, 39, 39, 39, 8, 16, 8]
+application 2
+	pattern  348 : 0.133 [39, 39, 39, 0, 0, 5, 0, 39, 39, 39, 17]
+	pattern  354 : 0.014 [39, 39, 39, 5, 0, 25, 5, 39, 39, 39, 6]
+	pattern  357 : 0.162 [39, 39, 39, 0, 0, 5, 0, 39, 39, 39, 14]
+	pattern  358 : 0.212 [39, 39, 39, 0, 0, 25, 5, 39, 39, 39, 6]
+	pattern  359 : 0.479 [39, 39, 39, 0, 0, 5, 0, 39, 39, 39, 7]
+application 3
+	pattern  209 : 0.302 [39, 14, 25, 16]
+	pattern  219 : 0.041 [39, 14, 22, 0]
+	pattern  223 : 0.111 [39, 5, 25, 16]
+	pattern  225 : 0.546 [39, 25, 22, 0]
+application 4
+	pattern   89 : 0.274 [39, 39, 39, 39, 39, 13, 16, 24, 39, 39, 8, 24]
+	pattern  508 : 0.009 [39, 39, 39, 39, 39, 13, 0, 24, 39, 39, 25, 24]
+	pattern  510 : 0.127 [39, 39, 39, 39, 39, 13, 8, 24, 39, 39, 25, 24]
+	pattern  511 : 0.225 [39, 39, 39, 39, 39, 13, 8, 24, 39, 39, 16, 24]
+	pattern  512 : 0.366 [39, 39, 39, 39, 39, 13, 0, 24, 39, 39, 8, 24]
+application 5
+	pattern    2 : 1.000 [39, 16, 39, 16, 16, 16, 16]
+application 6
+	pattern  297 : 0.011 [39, 39, 39, 17, 16, 16, 14, 25, 39, 5, 39, 39]
+	pattern  299 : 0.930 [39, 39, 39, 17, 0, 25, 14, 22, 39, 5, 39, 39]
+	pattern  300 : 0.059 [39, 39, 39, 17, 16, 7, 14, 25, 39, 0, 39, 39]
+
+discrete RMP : z* = 2499.0
+application patterns : [280, 284, 348, 217, 509, 2, 292]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 1.14 s
+
+dual 2400.99169209845 primal 2499.0
+
+--------------------------------------------------------------------------------
+
+8 apps, DATASET/networks/network_040_a_rp_1.dat DATASET/apps_merged/id_0060.dat
+
+
+CG :
+
+generated 500 feasible columns - time 3.70 s, actually added 269/500 , min_cost = 268 , avg_cost = 478.378
+
+generated 500 feasible columns - time 11.49 s, actually added 255/500 , min_cost = 211 , avg_cost = 453.08
+
+generated 500 feasible columns - time 12.14 s, actually added 258/500 , min_cost = 353 , avg_cost = 687.792
+
+generated 500 feasible columns - time 11.65 s, actually added 255/500 , min_cost = 352 , avg_cost = 607.51
+
+generated 500 feasible columns - time 138.43 s, actually added 474/500 , min_cost = 443 , avg_cost = 776.754
+
+generated 500 feasible columns - time 98.34 s, actually added 491/500 , min_cost = 680 , avg_cost = 1077.144
+
+generated 500 feasible columns - time 23.93 s, actually added 255/500 , min_cost = 290 , avg_cost = 864.294
+
+generated 500 feasible columns - time 18.13 s, actually added 310/500 , min_cost = 437 , avg_cost = 746.776
+# iterations : 31
+master obj val : 3478.020721075908
+LR dual bound : 3474.8423803111127
+CG time : 438.800s
+
+application 0
+	pattern  295 : 0.155 [39, 39, 20, 24, 5, 18]
+	pattern  297 : 0.256 [39, 39, 7, 12, 5, 9]
+	pattern  299 : 0.431 [39, 39, 20, 24, 5, 9]
+	pattern  300 : 0.158 [39, 39, 20, 12, 5, 18]
+application 1
+	pattern  281 : 0.459 [39, 8, 16, 39, 39, 39, 18]
+	pattern  284 : 0.276 [39, 8, 5, 39, 39, 39, 18]
+	pattern  285 : 0.264 [39, 8, 16, 39, 39, 39, 24]
+application 2
+	pattern  282 : 0.382 [39, 16, 12, 21, 19, 39, 39, 9, 39, 39]
+	pattern  285 : 0.410 [39, 16, 16, 26, 10, 39, 39, 9, 39, 39]
+	pattern  286 : 0.208 [39, 16, 12, 21, 19, 39, 39, 1, 39, 39]
+application 3
+	pattern  270 : 0.499 [39, 5, 7, 39, 1, 0, 0, 39, 39]
+	pattern  278 : 0.204 [39, 5, 7, 39, 20, 8, 19, 39, 39]
+	pattern  279 : 0.297 [39, 16, 25, 39, 1, 0, 0, 39, 39]
+application 4
+	pattern  494 : 0.088 [39, 39, 39, 5, 39, 39, 12, 25, 7, 16, 25]
+	pattern  500 : 0.067 [39, 39, 39, 22, 39, 39, 25, 25, 18, 16, 24]
+	pattern  501 : 0.412 [39, 39, 39, 25, 39, 39, 12, 16, 18, 16, 7]
+	pattern  502 : 0.077 [39, 39, 39, 22, 39, 39, 21, 25, 7, 16, 20]
+	pattern  503 : 0.271 [39, 39, 39, 0, 39, 39, 25, 20, 9, 5, 25]
+	pattern  504 : 0.081 [39, 39, 39, 22, 39, 39, 25, 25, 7, 16, 25]
+	pattern  505 : 0.004 [39, 39, 39, 22, 39, 39, 12, 25, 18, 16, 7]
+application 5
+	pattern  514 : 0.149 [39, 19, 39, 39, 6, 5, 39, 24, 21, 20, 39, 8, 12, 12, 7]
+	pattern  515 : 0.170 [39, 22, 39, 39, 6, 16, 39, 12, 25, 21, 39, 8, 25, 12, 18]
+	pattern  517 : 0.119 [39, 0, 39, 39, 6, 12, 39, 24, 26, 26, 39, 8, 25, 5, 20]
+	pattern  520 : 0.450 [39, 22, 39, 39, 6, 16, 39, 26, 25, 21, 39, 8, 25, 12, 7]
+	pattern  521 : 0.112 [39, 22, 39, 39, 6, 5, 39, 24, 25, 26, 39, 8, 12, 12, 20]
+application 6
+	pattern  276 : 0.601 [16, 39, 39, 5, 39, 39, 39, 39, 39, 39, 26, 39, 39, 39]
+	pattern  282 : 0.167 [12, 39, 39, 24, 39, 39, 39, 39, 39, 39, 26, 39, 39, 39]
+	pattern  285 : 0.231 [16, 39, 39, 12, 39, 39, 39, 39, 39, 39, 26, 39, 39, 39]
+application 7
+	pattern  333 : 0.023 [39, 8, 39, 16, 0, 24, 16, 8, 39, 25]
+	pattern  336 : 0.530 [39, 22, 39, 16, 0, 24, 5, 8, 39, 25]
+	pattern  340 : 0.447 [39, 8, 39, 16, 0, 20, 5, 8, 39, 25]
+
+discrete RMP : z* = 4895.0
+application patterns : [177, 135, 284, 10, 101, 514, 270, 325]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 38.86 s
+
+dual 3474.8423803111127 primal 4895.0
+
+--------------------------------------------------------------------------------
+
+8 apps, DATASET/networks/network_040_c_rp_4.dat DATASET/apps_merged/id_0061.dat
+
+
+CG :
+
+generated 500 feasible columns - time 17.66 s, actually added 253/500 , min_cost = 368 , avg_cost = 673.742
+
+generated 500 feasible columns - time 19.22 s, actually added 411/500 , min_cost = 388 , avg_cost = 706.206
+
+generated 500 feasible columns - time 15.25 s, actually added 255/500 , min_cost = 150 , avg_cost = 334.436
+
+generated 500 feasible columns - time 17.35 s, actually added 250/500 , min_cost = 417 , avg_cost = 827.054
+
+generated 500 feasible columns - time 3.46 s, actually added 178/500 , min_cost = 130 , avg_cost = 260.474
+
+generated 500 feasible columns - time 12.13 s, actually added 420/500 , min_cost = 437 , avg_cost = 710.046
+
+generated 500 feasible columns - time 5.33 s, actually added 252/500 , min_cost = 249 , avg_cost = 461.728
+
+generated 500 feasible columns - time 29.24 s, actually added 436/500 , min_cost = 498 , avg_cost = 1047.51
+# iterations : 34
+master obj val : 3039.6389476819486
+LR dual bound : 3036.8260117261425
+CG time : 219.889s
+
+application 0
+	pattern  270 : 0.001 [39, 24, 39, 12, 22, 39, 7, 14, 19]
+	pattern  282 : 0.433 [39, 22, 39, 1, 17, 39, 15, 1, 1]
+	pattern  283 : 0.385 [39, 11, 39, 11, 10, 39, 15, 14, 19]
+	pattern  286 : 0.181 [39, 11, 39, 1, 10, 39, 15, 1, 1]
+application 1
+	pattern  438 : 0.022 [39, 1, 8, 10, 39, 1, 8, 1, 7]
+	pattern  441 : 0.260 [39, 14, 8, 11, 39, 14, 8, 14, 16]
+	pattern  442 : 0.028 [39, 14, 1, 20, 39, 1, 15, 8, 7]
+	pattern  443 : 0.503 [39, 12, 8, 11, 39, 19, 8, 14, 16]
+	pattern  445 : 0.188 [39, 1, 19, 20, 39, 1, 15, 8, 7]
+application 2
+	pattern    3 : 0.222 [39, 39, 8, 39, 11]
+	pattern    6 : 0.347 [39, 39, 15, 39, 24]
+	pattern  266 : 0.253 [39, 39, 16, 39, 11]
+	pattern  272 : 0.164 [39, 39, 16, 39, 24]
+	pattern  273 : 0.013 [39, 39, 7, 39, 11]
+application 3
+	pattern  279 : 0.707 [39, 1, 39, 22, 39, 12, 39, 7, 39, 39, 39, 3, 39, 19]
+	pattern  280 : 0.254 [39, 14, 39, 24, 39, 1, 39, 16, 39, 39, 39, 3, 39, 19]
+	pattern  283 : 0.039 [39, 1, 39, 20, 39, 12, 39, 7, 39, 39, 39, 10, 39, 19]
+application 4
+	pattern  186 : 0.684 [7, 20, 39, 39]
+	pattern  198 : 0.316 [7, 19, 39, 39]
+application 5
+	pattern  437 : 0.134 [39, 16, 14, 22, 10, 8, 7, 24, 7]
+	pattern  445 : 0.025 [39, 16, 8, 11, 3, 8, 16, 11, 15]
+	pattern  451 : 0.132 [39, 16, 1, 24, 10, 8, 7, 20, 15]
+	pattern  452 : 0.337 [39, 16, 8, 11, 22, 8, 7, 24, 15]
+	pattern  453 : 0.178 [39, 16, 8, 20, 10, 8, 7, 24, 7]
+	pattern  454 : 0.195 [39, 16, 8, 24, 10, 8, 7, 22, 15]
+application 6
+	pattern  282 : 0.350 [8, 8, 10, 3, 39, 39, 39]
+	pattern  284 : 0.369 [8, 8, 10, 17, 39, 39, 39]
+	pattern  285 : 0.281 [8, 8, 3, 17, 39, 39, 39]
+application 7
+	pattern  461 : 0.001 [39, 14, 8, 20, 39, 11, 8, 8, 15, 39, 39, 15, 39, 39, 39]
+	pattern  463 : 0.355 [39, 14, 8, 20, 39, 12, 8, 8, 15, 39, 39, 15, 39, 39, 39]
+	pattern  464 : 0.182 [39, 14, 8, 1, 39, 12, 8, 19, 15, 39, 39, 15, 39, 39, 39]
+	pattern  465 : 0.462 [39, 14, 8, 12, 39, 12, 8, 14, 15, 39, 39, 15, 39, 39, 39]
+
+discrete RMP : z* = 3708.0
+application patterns : [274, 68, 273, 267, 168, 197, 281, 459]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 11.45 s
+
+dual 3036.8260117261425 primal 3708.0
+
+--------------------------------------------------------------------------------
+
+8 apps, DATASET/networks/network_040_a_rp_4.dat DATASET/apps_merged/id_0062.dat
+
+
+CG :
+
+generated 500 feasible columns - time 118.28 s, actually added 250/500 , min_cost = 206 , avg_cost = 552.924
+
+generated 500 feasible columns - time 23.75 s, actually added 500/500 , min_cost = 597 , avg_cost = 943.012
+
+generated 500 feasible columns - time 13.67 s, actually added 493/500 , min_cost = 440 , avg_cost = 782.07
+
+generated 500 feasible columns - time 2.43 s, actually added 250/500 , min_cost = 137 , avg_cost = 307.714
+
+generated 500 feasible columns - time 13.34 s, actually added 253/500 , min_cost = 404 , avg_cost = 695.51
+
+generated 500 feasible columns - time 40.14 s, actually added 314/500 , min_cost = 389 , avg_cost = 710.128
+
+generated 500 feasible columns - time 23.61 s, actually added 252/500 , min_cost = 582 , avg_cost = 944.088
+
+generated 500 feasible columns - time 12.88 s, actually added 499/500 , min_cost = 538 , avg_cost = 803.676
+# iterations : 57
+master obj val : 3779.1903290892974
+LR dual bound : 3776.2253041818944
+CG time : 418.588s
+
+application 0
+	pattern  282 : 0.061 [39, 39, 39, 39, 19, 39, 39, 39, 39, 5, 39]
+	pattern  283 : 0.368 [39, 39, 39, 39, 20, 39, 39, 39, 39, 5, 39]
+	pattern  285 : 0.209 [39, 39, 39, 39, 20, 39, 39, 39, 39, 16, 39]
+	pattern  286 : 0.043 [39, 39, 39, 39, 20, 39, 39, 39, 39, 0, 39]
+	pattern  287 : 0.318 [39, 39, 39, 39, 6, 39, 39, 39, 39, 5, 39]
+application 1
+	pattern  547 : 0.670 [16, 39, 39, 8, 8, 8, 22, 39, 15, 12, 12, 25, 39, 39, 39]
+	pattern  555 : 0.312 [16, 39, 39, 8, 8, 8, 15, 39, 11, 5, 12, 25, 39, 39, 39]
+	pattern  556 : 0.018 [16, 39, 39, 8, 8, 24, 22, 39, 15, 16, 17, 25, 39, 39, 39]
+application 2
+	pattern  541 : 0.102 [39, 26, 39, 39, 17, 0, 14, 39, 39, 12, 39, 0, 39]
+	pattern  545 : 0.556 [39, 26, 39, 39, 19, 0, 19, 39, 39, 12, 39, 0, 39]
+	pattern  546 : 0.261 [39, 26, 39, 39, 6, 0, 24, 39, 39, 12, 39, 0, 39]
+	pattern  549 : 0.081 [39, 13, 39, 39, 6, 0, 19, 39, 39, 14, 39, 0, 39]
+application 3
+	pattern  275 : 0.097 [39, 39, 25, 22, 39]
+	pattern  290 : 0.011 [39, 39, 16, 14, 39]
+	pattern  298 : 0.323 [39, 39, 5, 14, 39]
+	pattern  299 : 0.396 [39, 39, 5, 22, 39]
+	pattern  301 : 0.172 [39, 39, 5, 24, 39]
+application 4
+	pattern  303 : 0.526 [24, 8, 16, 13, 39, 11, 39, 17, 39, 39, 39, 39]
+	pattern  305 : 0.083 [0, 0, 0, 13, 39, 11, 39, 19, 39, 39, 39, 39]
+	pattern  306 : 0.220 [16, 16, 0, 13, 39, 11, 39, 24, 39, 39, 39, 39]
+	pattern  308 : 0.124 [24, 8, 16, 17, 39, 15, 39, 14, 39, 39, 39, 39]
+	pattern  309 : 0.023 [16, 16, 0, 13, 39, 22, 39, 14, 39, 39, 39, 39]
+	pattern  310 : 0.025 [16, 16, 0, 13, 39, 15, 39, 17, 39, 39, 39, 39]
+application 5
+	pattern  347 : 0.221 [39, 12, 39, 11, 39, 39, 20, 39, 19, 39, 39, 5, 39]
+	pattern  361 : 0.047 [39, 8, 39, 11, 39, 39, 21, 39, 20, 39, 39, 5, 39]
+	pattern  363 : 0.363 [39, 8, 39, 11, 39, 39, 20, 39, 19, 39, 39, 16, 39]
+	pattern  369 : 0.210 [39, 12, 39, 15, 39, 39, 6, 39, 14, 39, 39, 0, 39]
+	pattern  371 : 0.159 [39, 8, 39, 11, 39, 39, 6, 39, 19, 39, 39, 5, 39]
+application 6
+	pattern  303 : 0.040 [8, 0, 39, 0, 22, 14, 39, 21, 22, 39, 17, 25, 39, 39, 39]
+	pattern  305 : 0.282 [8, 0, 39, 0, 17, 17, 39, 21, 3, 39, 24, 25, 39, 39, 39]
+	pattern  306 : 0.371 [8, 0, 39, 0, 22, 14, 39, 24, 3, 39, 17, 17, 39, 39, 39]
+	pattern  307 : 0.138 [8, 0, 39, 0, 3, 17, 39, 14, 22, 39, 24, 25, 39, 39, 39]
+	pattern  308 : 0.009 [8, 0, 39, 0, 17, 17, 39, 24, 22, 39, 19, 14, 39, 39, 39]
+	pattern  309 : 0.160 [8, 0, 39, 0, 3, 17, 39, 14, 22, 39, 17, 25, 39, 39, 39]
+application 7
+	pattern  546 : 0.795 [39, 39, 39, 0, 0, 5, 39, 13, 21, 0, 0, 26]
+	pattern  554 : 0.010 [39, 39, 39, 0, 0, 25, 39, 6, 21, 0, 0, 13]
+	pattern  555 : 0.125 [39, 39, 39, 0, 0, 12, 39, 13, 19, 0, 0, 26]
+	pattern  556 : 0.070 [39, 39, 39, 0, 0, 25, 39, 13, 21, 0, 0, 26]
+
+discrete RMP : z* = 6134.0
+application patterns : [274, 542, 533, 294, 309, 333, 0, 547]
+discrete RMP fail
+
+total discrete + repair time : 31.90 s
+
+dual 3776.2253041818944 primal None
+
+--------------------------------------------------------------------------------
+
+9 apps, DATASET/networks/network_040_d_rp_4.dat DATASET/apps_merged/id_0063.dat
+
+
+CG :
+
+generated 500 feasible columns - time 65.12 s, actually added 415/500 , min_cost = 346 , avg_cost = 675.396
+
+generated 500 feasible columns - time 34.77 s, actually added 500/500 , min_cost = 729 , avg_cost = 926.438
+
+generated 500 feasible columns - time 4.45 s, actually added 245/500 , min_cost = 89 , avg_cost = 258.606
+
+generated 500 feasible columns - time 7.69 s, actually added 271/500 , min_cost = 309 , avg_cost = 505.564
+
+generated 500 feasible columns - time 11.70 s, actually added 250/500 , min_cost = 129 , avg_cost = 423.138
+
+generated 500 feasible columns - time 14.82 s, actually added 495/500 , min_cost = 377 , avg_cost = 682.064
+
+generated 500 feasible columns - time 11.73 s, actually added 250/500 , min_cost = 238 , avg_cost = 520.042
+
+generated 500 feasible columns - time 4.21 s, actually added 221/500 , min_cost = 80 , avg_cost = 227.048
+
+generated 500 feasible columns - time 10.70 s, actually added 250/500 , min_cost = 250 , avg_cost = 506.69
+# iterations : 21
+master obj val : 2671.6328182308835
+LR dual bound : 2671.1938970548235
+CG time : 227.888s
+
+application 0
+	pattern    3 : 0.041 [39, 15, 24, 39, 39, 39, 39, 7, 39, 39, 39, 0]
+	pattern    9 : 0.349 [39, 22, 24, 39, 39, 39, 39, 13, 39, 39, 39, 0]
+	pattern   11 : 0.172 [39, 15, 22, 39, 39, 39, 39, 13, 39, 39, 39, 0]
+	pattern   13 : 0.399 [39, 15, 22, 39, 39, 39, 39, 7, 39, 39, 39, 4]
+	pattern  418 : 0.039 [39, 15, 22, 39, 39, 39, 39, 13, 39, 39, 39, 4]
+application 1
+	pattern  514 : 0.490 [39, 27, 20, 7, 7, 22, 39, 8, 2, 13, 39, 24, 7]
+	pattern  518 : 0.127 [39, 27, 20, 7, 7, 15, 39, 8, 2, 2, 39, 24, 7]
+	pattern  519 : 0.383 [39, 27, 20, 7, 13, 22, 39, 2, 8, 2, 39, 24, 13]
+application 2
+	pattern  256 : 1.000 [2, 39, 39, 39]
+application 3
+	pattern    5 : 0.404 [39, 7, 39, 7, 20, 7, 20]
+	pattern  285 : 0.092 [39, 7, 39, 7, 1, 7, 20]
+	pattern  286 : 0.379 [39, 7, 39, 13, 20, 2, 0]
+	pattern  287 : 0.125 [39, 7, 39, 7, 20, 7, 1]
+application 4
+	pattern  261 : 0.370 [39, 39, 39, 39, 20, 39, 39, 39]
+	pattern  262 : 0.630 [39, 39, 39, 39, 4, 39, 39, 39]
+application 5
+	pattern   45 : 0.552 [39, 7, 7, 6, 1, 39, 39, 15, 39, 39]
+	pattern  505 : 0.268 [39, 7, 7, 8, 20, 39, 39, 26, 39, 39]
+	pattern  511 : 0.180 [39, 7, 7, 6, 1, 39, 39, 26, 39, 39]
+application 6
+	pattern  268 : 0.447 [39, 13, 39, 39, 2, 1, 39, 39]
+	pattern  270 : 0.225 [39, 13, 39, 39, 22, 9, 39, 39]
+	pattern  271 : 0.328 [39, 13, 39, 39, 24, 1, 39, 39]
+application 7
+	pattern    1 : 0.775 [39, 39, 0, 39]
+	pattern  232 : 0.225 [39, 39, 20, 39]
+application 8
+	pattern  266 : 0.376 [39, 39, 15, 39, 7, 39, 39, 39, 4]
+	pattern  267 : 0.377 [39, 39, 8, 39, 7, 39, 39, 39, 4]
+	pattern  268 : 0.226 [39, 39, 2, 39, 7, 39, 39, 39, 4]
+	pattern  269 : 0.020 [39, 39, 22, 39, 7, 39, 39, 39, 4]
+
+discrete RMP : z* = 2724.0
+application patterns : [162, 514, 254, 290, 260, 153, 269, 231, 268]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 0.70 s
+
+dual 2671.1938970548235 primal 2724.0
+
+--------------------------------------------------------------------------------
+
+9 apps, DATASET/networks/network_040_a_rp_3.dat DATASET/apps_merged/id_0064.dat
+
+
+CG :
+
+generated 500 feasible columns - time 32.58 s, actually added 266/500 , min_cost = 354 , avg_cost = 712.964
+
+generated 500 feasible columns - time 12.27 s, actually added 254/500 , min_cost = 227 , avg_cost = 630.68
+
+generated 500 feasible columns - time 2.02 s, actually added 149/500 , min_cost = 110 , avg_cost = 247.816
+
+generated 500 feasible columns - time 8.56 s, actually added 253/500 , min_cost = 200 , avg_cost = 507.82
+
+generated 500 feasible columns - time 1.79 s, actually added 250/500 , min_cost = 170 , avg_cost = 341.708
+
+generated 500 feasible columns - time 9.10 s, actually added 257/500 , min_cost = 406 , avg_cost = 628.226
+
+generated 500 feasible columns - time 18.03 s, actually added 265/500 , min_cost = 414 , avg_cost = 800.09
+
+generated 500 feasible columns - time 8.05 s, actually added 259/500 , min_cost = 310 , avg_cost = 540.12
+
+generated 500 feasible columns - time 10.27 s, actually added 265/500 , min_cost = 287 , avg_cost = 575.836
+# iterations : 39
+master obj val : 3062.157280413283
+LR dual bound : 3060.0595848303346
+CG time : 204.935s
+
+application 0
+	pattern  295 : 0.064 [39, 39, 39, 2, 39, 13, 0, 39, 39, 5, 0, 39]
+	pattern  302 : 0.468 [39, 39, 39, 21, 39, 7, 0, 39, 39, 5, 17, 39]
+	pattern  304 : 0.267 [39, 39, 39, 2, 39, 10, 12, 39, 39, 5, 12, 39]
+	pattern  305 : 0.202 [39, 39, 39, 2, 39, 13, 12, 39, 39, 5, 12, 39]
+application 1
+	pattern  291 : 0.960 [39, 39, 13, 39, 39, 39, 39, 5, 8, 39]
+	pattern  292 : 0.040 [39, 39, 20, 39, 39, 39, 39, 5, 8, 39]
+application 2
+	pattern  170 : 0.402 [8, 24, 39]
+	pattern  176 : 0.598 [0, 21, 39]
+application 3
+	pattern  282 : 0.142 [8, 39, 39, 39, 24, 25, 39, 39]
+	pattern  290 : 0.633 [0, 39, 39, 39, 24, 25, 39, 39]
+	pattern  291 : 0.177 [0, 39, 39, 39, 26, 5, 39, 39]
+	pattern  292 : 0.048 [0, 39, 39, 39, 24, 5, 39, 39]
+application 4
+	pattern  271 : 0.360 [39, 39, 7, 24, 13]
+	pattern  279 : 0.223 [39, 39, 21, 0, 0]
+	pattern  280 : 0.169 [39, 39, 21, 24, 13]
+	pattern  282 : 0.004 [39, 39, 26, 0, 0]
+	pattern  284 : 0.000 [39, 39, 10, 21, 12]
+	pattern  288 : 0.244 [39, 39, 10, 20, 5]
+application 5
+	pattern  290 : 0.026 [39, 39, 13, 12, 2, 12, 0, 10, 0, 39]
+	pattern  291 : 0.631 [39, 39, 21, 12, 2, 20, 0, 10, 0, 39]
+	pattern  292 : 0.343 [39, 39, 7, 12, 26, 12, 0, 3, 0, 39]
+application 6
+	pattern  296 : 0.508 [39, 8, 8, 8, 39, 39, 13, 8, 24, 17, 39, 39]
+	pattern  302 : 0.332 [39, 8, 8, 8, 39, 39, 13, 8, 20, 17, 39, 39]
+	pattern  303 : 0.023 [39, 8, 8, 8, 39, 39, 13, 8, 24, 21, 39, 39]
+	pattern  304 : 0.137 [39, 8, 8, 8, 39, 39, 2, 8, 24, 17, 39, 39]
+application 7
+	pattern    1 : 0.489 [39, 8, 8, 8, 8, 8, 8]
+	pattern  284 : 0.243 [39, 0, 0, 0, 0, 0, 0]
+	pattern  286 : 0.269 [39, 8, 8, 8, 8, 13, 8]
+application 8
+	pattern  299 : 0.163 [39, 39, 12, 17, 10, 8, 12, 39]
+	pattern  301 : 0.785 [39, 39, 12, 25, 21, 8, 0, 39]
+	pattern  302 : 0.052 [39, 39, 12, 13, 10, 0, 0, 39]
+
+discrete RMP : z* = 3201.0
+application patterns : [283, 283, 153, 279, 282, 284, 300, 286, 304]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 1.20 s
+
+dual 3060.0595848303346 primal 3201.0
+
+--------------------------------------------------------------------------------
+
+9 apps, DATASET/networks/network_040_a_rp_2.dat DATASET/apps_merged/id_0065.dat
+
+
+CG :
+
+generated 500 feasible columns - time 4.10 s, actually added 241/500 , min_cost = 80 , avg_cost = 242.948
+
+generated 500 feasible columns - time 10.95 s, actually added 259/500 , min_cost = 206 , avg_cost = 458.836
+
+generated 500 feasible columns - time 27.68 s, actually added 310/500 , min_cost = 364 , avg_cost = 755.512
+
+generated 500 feasible columns - time 11.92 s, actually added 256/500 , min_cost = 268 , avg_cost = 504.892
+
+generated 500 feasible columns - time 2.45 s, actually added 249/500 , min_cost = 137 , avg_cost = 333.76
+
+generated 500 feasible columns - time 18.10 s, actually added 460/500 , min_cost = 498 , avg_cost = 876.018
+
+generated 500 feasible columns - time 22.88 s, actually added 259/500 , min_cost = 285 , avg_cost = 800.582
+
+generated 500 feasible columns - time 10.08 s, actually added 286/500 , min_cost = 331 , avg_cost = 598.462
+
+generated 500 feasible columns - time 27.63 s, actually added 314/500 , min_cost = 364 , avg_cost = 758.086
+# iterations : 33
+master obj val : 2891.9862256014258
+LR dual bound : 2891.269988928436
+CG time : 230.261s
+
+application 0
+	pattern    1 : 1.000 [39, 39, 8, 39]
+application 1
+	pattern  279 : 0.515 [39, 8, 0, 39, 39, 39, 20]
+	pattern  287 : 0.485 [39, 8, 0, 39, 39, 39, 24]
+application 2
+	pattern  338 : 0.874 [39, 13, 0, 39, 22, 39, 39, 25, 39, 0, 39, 39, 39]
+	pattern  342 : 0.108 [39, 20, 0, 39, 24, 39, 39, 25, 39, 0, 39, 39, 39]
+	pattern  343 : 0.018 [39, 7, 0, 39, 22, 39, 39, 25, 39, 0, 39, 39, 39]
+application 3
+	pattern    1 : 0.195 [39, 0, 39, 0, 39, 0, 0, 39]
+	pattern    5 : 0.031 [39, 16, 39, 16, 39, 16, 16, 39]
+	pattern  276 : 0.039 [39, 0, 39, 25, 39, 14, 0, 39]
+	pattern  278 : 0.157 [39, 0, 39, 16, 39, 14, 0, 39]
+	pattern  280 : 0.421 [39, 16, 39, 16, 39, 14, 0, 39]
+	pattern  282 : 0.157 [39, 0, 39, 16, 39, 14, 5, 39]
+application 4
+	pattern  260 : 0.359 [39, 39, 24, 17, 39]
+	pattern  265 : 0.641 [39, 39, 24, 14, 39]
+application 5
+	pattern  481 : 0.231 [39, 8, 39, 16, 6, 16, 16, 39, 14, 39, 39, 16, 16]
+	pattern  482 : 0.507 [39, 8, 39, 16, 6, 8, 16, 39, 14, 39, 39, 5, 25]
+	pattern  483 : 0.164 [39, 8, 39, 16, 7, 16, 16, 39, 8, 39, 39, 16, 25]
+	pattern  492 : 0.098 [39, 8, 39, 0, 22, 0, 16, 39, 8, 39, 39, 0, 16]
+application 6
+	pattern  287 : 0.213 [0, 39, 39, 5, 39, 39, 39, 39, 39, 39, 6, 39, 39, 39]
+	pattern  289 : 0.657 [16, 39, 39, 5, 39, 39, 39, 39, 39, 39, 7, 39, 39, 39]
+	pattern  290 : 0.032 [16, 39, 39, 5, 39, 39, 39, 39, 39, 39, 26, 39, 39, 39]
+	pattern  292 : 0.098 [0, 39, 39, 5, 39, 39, 39, 39, 39, 39, 7, 39, 39, 39]
+application 7
+	pattern  314 : 0.165 [39, 39, 20, 6, 0, 39, 22, 39, 0]
+	pattern  316 : 0.251 [39, 39, 7, 6, 5, 39, 5, 39, 5]
+	pattern  317 : 0.471 [39, 39, 20, 7, 5, 39, 5, 39, 5]
+	pattern  318 : 0.068 [39, 39, 20, 7, 16, 39, 5, 39, 5]
+	pattern  319 : 0.045 [39, 39, 7, 22, 16, 39, 25, 39, 16]
+application 8
+	pattern  342 : 0.148 [39, 13, 0, 39, 22, 39, 39, 25, 39, 0, 39, 39, 39]
+	pattern  345 : 0.852 [39, 24, 16, 39, 6, 39, 39, 25, 39, 16, 39, 39, 39]
+
+discrete RMP : z* = 3079.0
+application patterns : [245, 9, 330, 266, 264, 486, 275, 303, 337]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 4.69 s
+
+dual 2891.269988928436 primal 3079.0
+
+--------------------------------------------------------------------------------
+
+10 apps, DATASET/networks/network_040_a_rp_3.dat DATASET/apps_merged/id_0066.dat
+
+
+CG :
+
+generated 500 feasible columns - time 1.93 s, actually added 61/500 , min_cost = 70 , avg_cost = 180.466
+
+generated 500 feasible columns - time 3.47 s, actually added 250/500 , min_cost = 180 , avg_cost = 381.768
+
+generated 500 feasible columns - time 25.69 s, actually added 383/500 , min_cost = 414 , avg_cost = 722.688
+
+generated 500 feasible columns - time 4.68 s, actually added 240/500 , min_cost = 130 , avg_cost = 298.948
+
+generated 500 feasible columns - time 21.41 s, actually added 250/500 , min_cost = 451 , avg_cost = 888.708
+
+generated 500 feasible columns - time 8.28 s, actually added 256/500 , min_cost = 277 , avg_cost = 597.918
+
+generated 500 feasible columns - time 9.70 s, actually added 251/500 , min_cost = 287 , avg_cost = 564.156
+
+generated 500 feasible columns - time 10.27 s, actually added 254/500 , min_cost = 337 , avg_cost = 661.838
+
+generated 500 feasible columns - time 18.00 s, actually added 251/500 , min_cost = 446 , avg_cost = 835.008
+
+generated 500 feasible columns - time 8.21 s, actually added 250/500 , min_cost = 210 , avg_cost = 395.916
+# iterations : 54
+master obj val : 3663.9180052561032
+LR dual bound : 3661.5554552495787
+CG time : 267.262s
+
+application 0
+	pattern   73 : 0.045 [39, 39, 24]
+	pattern   76 : 0.204 [39, 39, 7]
+	pattern   77 : 0.752 [39, 39, 20]
+application 1
+	pattern  274 : 0.115 [39, 5, 18, 39, 39, 7]
+	pattern  297 : 0.433 [39, 5, 26, 39, 39, 10]
+	pattern  298 : 0.093 [39, 5, 18, 39, 39, 15]
+	pattern  301 : 0.359 [39, 5, 18, 39, 39, 10]
+application 2
+	pattern  433 : 0.400 [39, 13, 8, 39, 21, 8, 21, 39, 8, 8]
+	pattern  434 : 0.273 [39, 3, 0, 39, 15, 8, 24, 39, 8, 8]
+	pattern  436 : 0.208 [39, 3, 0, 39, 21, 0, 21, 39, 0, 0]
+	pattern  437 : 0.118 [39, 3, 0, 39, 21, 8, 21, 39, 8, 8]
+application 3
+	pattern  255 : 0.115 [39, 24, 39, 2, 39]
+	pattern  275 : 0.434 [39, 26, 39, 11, 39]
+	pattern  282 : 0.451 [39, 18, 39, 26, 39]
+application 4
+	pattern  298 : 0.448 [8, 8, 8, 39, 13, 39, 24, 10, 17, 39, 39, 39, 39, 39, 39]
+	pattern  300 : 0.291 [8, 8, 8, 39, 13, 39, 12, 12, 21, 39, 39, 39, 39, 39, 39]
+	pattern  303 : 0.262 [8, 8, 8, 39, 2, 39, 24, 12, 21, 39, 39, 39, 39, 39, 39]
+application 5
+	pattern  301 : 0.330 [39, 39, 39, 3, 39, 12, 39, 39, 5, 39, 7]
+	pattern  306 : 0.278 [39, 39, 39, 11, 39, 0, 39, 39, 12, 39, 17]
+	pattern  308 : 0.392 [39, 39, 39, 3, 39, 0, 39, 39, 5, 39, 20]
+application 6
+	pattern  290 : 0.200 [0, 39, 18, 3, 5, 5, 39, 39]
+	pattern  301 : 0.422 [8, 39, 18, 3, 12, 25, 39, 39]
+	pattern  302 : 0.223 [8, 39, 26, 13, 25, 5, 39, 39]
+	pattern  304 : 0.075 [8, 39, 18, 7, 12, 25, 39, 39]
+	pattern  305 : 0.079 [8, 39, 18, 2, 0, 12, 39, 39]
+application 7
+	pattern  299 : 0.314 [8, 8, 8, 8, 39, 21, 11, 39, 39]
+	pattern  301 : 0.254 [0, 0, 0, 0, 39, 21, 3, 39, 39]
+	pattern  305 : 0.370 [0, 0, 0, 0, 39, 17, 11, 39, 39]
+	pattern  306 : 0.062 [8, 8, 8, 8, 39, 17, 3, 39, 39]
+application 8
+	pattern  290 : 0.024 [5, 39, 39, 8, 25, 18, 3, 18, 24, 39, 39, 39, 39, 39]
+	pattern  299 : 0.319 [25, 39, 39, 0, 0, 10, 13, 26, 24, 39, 39, 39, 39, 39]
+	pattern  302 : 0.503 [5, 39, 39, 8, 25, 7, 13, 15, 24, 39, 39, 39, 39, 39]
+	pattern  305 : 0.154 [25, 39, 39, 0, 0, 21, 21, 15, 24, 39, 39, 39, 39, 39]
+application 9
+	pattern  300 : 0.977 [39, 24, 0, 12, 2]
+	pattern  301 : 0.023 [39, 12, 0, 12, 25]
+
+discrete RMP : z* = 4261.0
+application patterns : [72, 1, 313, 263, 286, 309, 285, 300, 305, 278]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 80.58 s
+
+dual 3661.5554552495787 primal 4261.0
+
+--------------------------------------------------------------------------------
+
+10 apps, DATASET/networks/network_040_a_rp_3.dat DATASET/apps_merged/id_0067.dat
+
+
+CG :
+
+generated 500 feasible columns - time 44.34 s, actually added 449/500 , min_cost = 421 , avg_cost = 989.754
+
+generated 500 feasible columns - time 35.56 s, actually added 250/500 , min_cost = 287 , avg_cost = 672.038
+
+generated 500 feasible columns - time 168.01 s, actually added 500/500 , min_cost = 643 , avg_cost = 1140.342
+
+generated 500 feasible columns - time 9.34 s, actually added 253/500 , min_cost = 180 , avg_cost = 433.992
+
+generated 500 feasible columns - time 167.78 s, actually added 500/500 , min_cost = 765 , avg_cost = 1137.61
+
+generated 500 feasible columns - time 7.02 s, actually added 250/500 , min_cost = 140 , avg_cost = 383.69
+
+generated 500 feasible columns - time 25.71 s, actually added 422/500 , min_cost = 451 , avg_cost = 792.78
+
+generated 500 feasible columns - time 7.99 s, actually added 259/500 , min_cost = 310 , avg_cost = 531.13
+
+generated 500 feasible columns - time 8.59 s, actually added 252/500 , min_cost = 304 , avg_cost = 561.528
+
+generated 500 feasible columns - time 43.20 s, actually added 467/500 , min_cost = 554 , avg_cost = 1001.232
+# iterations : 62
+master obj val : 4891.193153737871
+LR dual bound : 4887.626903413549
+CG time : 852.006s
+
+application 0
+	pattern  494 : 0.387 [39, 39, 24, 39, 39, 10, 7, 39, 39, 39, 17, 17, 39, 2]
+	pattern  502 : 0.223 [39, 39, 0, 39, 39, 9, 7, 39, 39, 39, 24, 0, 39, 1]
+	pattern  504 : 0.013 [39, 39, 12, 39, 39, 9, 7, 39, 39, 39, 17, 10, 39, 1]
+	pattern  505 : 0.048 [39, 39, 12, 39, 39, 9, 7, 39, 39, 39, 21, 0, 39, 11]
+	pattern  507 : 0.002 [39, 39, 0, 39, 39, 9, 10, 39, 39, 39, 17, 0, 39, 1]
+	pattern  508 : 0.151 [39, 39, 12, 39, 39, 9, 7, 39, 39, 39, 21, 7, 39, 1]
+	pattern  510 : 0.148 [39, 39, 12, 39, 39, 9, 7, 39, 39, 39, 21, 0, 39, 1]
+	pattern  511 : 0.028 [39, 39, 24, 39, 39, 9, 7, 39, 39, 39, 21, 17, 39, 10]
+application 1
+	pattern  293 : 0.151 [39, 26, 7, 39, 39, 39, 39, 0, 39, 39, 39, 12]
+	pattern  294 : 0.401 [39, 18, 7, 39, 39, 39, 39, 0, 39, 39, 39, 12]
+	pattern  302 : 0.246 [39, 18, 7, 39, 39, 39, 39, 0, 39, 39, 39, 5]
+	pattern  304 : 0.202 [39, 26, 10, 39, 39, 39, 39, 0, 39, 39, 39, 12]
+application 2
+	pattern  551 : 0.563 [39, 13, 13, 39, 39, 17, 26, 26, 24, 39, 39, 17, 39, 25, 10]
+	pattern  556 : 0.102 [39, 2, 3, 39, 39, 17, 24, 21, 24, 39, 39, 17, 39, 25, 10]
+	pattern  558 : 0.287 [39, 13, 3, 39, 39, 8, 9, 20, 21, 39, 39, 17, 39, 5, 7]
+	pattern  562 : 0.048 [39, 13, 11, 39, 39, 8, 26, 26, 21, 39, 39, 8, 39, 5, 12]
+application 3
+	pattern  284 : 0.483 [39, 39, 5, 26, 39, 8]
+	pattern  296 : 0.309 [39, 39, 25, 18, 39, 8]
+	pattern  300 : 0.079 [39, 39, 5, 15, 39, 8]
+	pattern  302 : 0.129 [39, 39, 5, 18, 39, 8]
+application 4
+	pattern  542 : 0.260 [39, 11, 13, 39, 39, 8, 24, 15, 24, 39, 39, 8, 39, 5, 10]
+	pattern  557 : 0.055 [39, 13, 2, 39, 39, 8, 18, 10, 21, 39, 39, 17, 39, 5, 12]
+	pattern  558 : 0.185 [39, 13, 3, 39, 39, 8, 9, 20, 21, 39, 39, 17, 39, 5, 7]
+	pattern  559 : 0.300 [39, 11, 2, 39, 39, 8, 15, 26, 21, 39, 39, 17, 39, 5, 12]
+	pattern  560 : 0.011 [39, 2, 13, 39, 39, 7, 9, 26, 24, 39, 39, 8, 39, 5, 10]
+	pattern  561 : 0.189 [39, 13, 2, 39, 39, 8, 18, 26, 24, 39, 39, 12, 39, 5, 10]
+application 5
+	pattern  270 : 0.460 [39, 12, 39, 39, 39, 0]
+	pattern  277 : 0.059 [39, 17, 39, 39, 39, 24]
+	pattern  286 : 0.255 [39, 8, 39, 39, 39, 24]
+	pattern  289 : 0.227 [39, 8, 39, 39, 39, 0]
+application 6
+	pattern  451 : 0.685 [39, 39, 20, 0, 39, 3, 0, 21, 39, 0, 0, 39]
+	pattern  459 : 0.018 [39, 39, 20, 0, 39, 2, 0, 12, 39, 0, 21, 39]
+	pattern  465 : 0.070 [39, 39, 20, 0, 39, 21, 0, 12, 39, 0, 10, 39]
+	pattern  466 : 0.026 [39, 39, 20, 0, 39, 21, 0, 21, 39, 0, 21, 39]
+	pattern  473 : 0.107 [39, 39, 21, 0, 39, 21, 0, 12, 39, 0, 10, 39]
+	pattern  477 : 0.093 [39, 39, 10, 0, 39, 3, 0, 20, 39, 0, 21, 39]
+application 7
+	pattern    1 : 0.990 [39, 8, 8, 8, 8, 8, 8]
+	pattern  292 : 0.010 [39, 0, 0, 0, 0, 0, 0]
+application 8
+	pattern  295 : 0.448 [39, 8, 39, 7, 21, 9, 39, 25, 39]
+	pattern  300 : 0.176 [39, 8, 39, 7, 15, 18, 39, 13, 39]
+	pattern  303 : 0.014 [39, 5, 39, 7, 12, 26, 39, 13, 39]
+	pattern  311 : 0.354 [39, 8, 39, 7, 15, 18, 39, 25, 39]
+	pattern  314 : 0.008 [39, 8, 39, 7, 15, 26, 39, 13, 39]
+application 9
+	pattern  515 : 0.407 [39, 18, 39, 39, 1, 39, 39, 17, 11, 39, 24, 39, 3, 12, 11]
+	pattern  524 : 0.245 [39, 21, 39, 39, 11, 39, 39, 17, 20, 39, 24, 39, 3, 12, 1]
+	pattern  526 : 0.100 [39, 9, 39, 39, 1, 39, 39, 20, 11, 39, 24, 39, 3, 12, 3]
+	pattern  527 : 0.203 [39, 9, 39, 39, 2, 39, 39, 17, 11, 39, 24, 39, 3, 12, 11]
+	pattern  529 : 0.044 [39, 9, 39, 39, 1, 39, 39, 7, 2, 39, 24, 39, 11, 12, 11]
+
+discrete RMP : z* = 7662.0
+application patterns : [507, 300, 551, 296, 554, 265, 426, 1, 53, 0]
+discrete RMP fail
+
+total discrete + repair time : 48.87 s
+
+dual 4887.626903413549 primal None
+
+--------------------------------------------------------------------------------
+
+10 apps, DATASET/networks/network_040_b_rp_2.dat DATASET/apps_merged/id_0068.dat
+
+
+CG :
+
+generated 500 feasible columns - time 13.95 s, actually added 250/500 , min_cost = 351 , avg_cost = 673.748
+
+generated 500 feasible columns - time 3.26 s, actually added 235/500 , min_cost = 160 , avg_cost = 306.972
+
+generated 500 feasible columns - time 11.12 s, actually added 250/500 , min_cost = 201 , avg_cost = 401.98
+
+generated 500 feasible columns - time 20.49 s, actually added 251/500 , min_cost = 337 , avg_cost = 485.886
+
+generated 500 feasible columns - time 15.34 s, actually added 208/500 , min_cost = 200 , avg_cost = 307.166
+
+generated 500 feasible columns - time 5.94 s, actually added 246/500 , min_cost = 151 , avg_cost = 354.054
+
+generated 500 feasible columns - time 5.44 s, actually added 168/500 , min_cost = 89 , avg_cost = 213.506
+
+generated 500 feasible columns - time 13.95 s, actually added 500/500 , min_cost = 512 , avg_cost = 771.394
+
+generated 500 feasible columns - time 7.09 s, actually added 155/500 , min_cost = 138 , avg_cost = 324.916
+
+generated 500 feasible columns - time 10.80 s, actually added 417/500 , min_cost = 322 , avg_cost = 592.96
+# iterations : 24
+master obj val : 2762.0951828509246
+LR dual bound : 2759.6412547116215
+CG time : 183.245s
+
+application 0
+	pattern  271 : 0.170 [1, 1, 1, 1, 39, 39, 23, 4, 39, 39]
+	pattern  273 : 0.830 [1, 1, 1, 1, 39, 39, 23, 10, 39, 39]
+application 1
+	pattern  247 : 0.419 [39, 12, 1, 12]
+	pattern  250 : 0.581 [39, 12, 1, 1]
+application 2
+	pattern    1 : 0.587 [39, 25, 1, 39, 1, 39, 39]
+	pattern  263 : 0.267 [39, 25, 8, 39, 25, 39, 39]
+	pattern  265 : 0.145 [39, 9, 8, 39, 25, 39, 39]
+application 3
+	pattern  266 : 0.186 [39, 19, 10, 5, 7, 15, 39]
+	pattern  270 : 0.683 [39, 7, 19, 19, 24, 5, 39]
+	pattern  272 : 0.040 [39, 20, 16, 7, 24, 16, 39]
+	pattern  275 : 0.092 [39, 7, 19, 7, 24, 15, 39]
+application 4
+	pattern  215 : 0.431 [39, 8, 9, 9, 39]
+	pattern  222 : 0.569 [39, 20, 25, 25, 39]
+application 5
+	pattern  265 : 0.134 [39, 39, 39, 19, 15, 39]
+	pattern  266 : 0.676 [39, 39, 39, 15, 16, 39]
+	pattern  269 : 0.147 [39, 39, 39, 15, 19, 39]
+	pattern  270 : 0.043 [39, 39, 39, 23, 10, 39]
+application 6
+	pattern    1 : 0.433 [39, 39, 10]
+	pattern  173 : 0.567 [39, 39, 5]
+application 7
+	pattern   29 : 0.438 [8, 8, 39, 8, 20, 20, 9, 16, 39, 39, 39]
+	pattern  521 : 0.274 [10, 23, 39, 19, 16, 16, 25, 7, 39, 39, 39]
+	pattern  522 : 0.225 [10, 10, 39, 10, 20, 20, 25, 24, 39, 39, 39]
+	pattern  524 : 0.062 [8, 10, 39, 23, 16, 7, 9, 7, 39, 39, 39]
+application 8
+	pattern  166 : 0.155 [39, 39, 10, 20]
+	pattern  168 : 0.291 [39, 39, 23, 5]
+	pattern  174 : 0.035 [39, 39, 8, 5]
+	pattern  176 : 0.518 [39, 39, 8, 20]
+application 9
+	pattern   24 : 0.111 [39, 25, 9, 25, 8, 39, 39, 9]
+	pattern   50 : 0.059 [39, 9, 25, 10, 8, 39, 39, 25]
+	pattern  101 : 0.257 [39, 9, 25, 19, 8, 39, 39, 25]
+	pattern  434 : 0.491 [39, 12, 25, 12, 20, 39, 39, 25]
+	pattern  440 : 0.082 [39, 25, 25, 9, 8, 39, 39, 25]
+
+discrete RMP : z* = 2835.0
+application patterns : [271, 247, 1, 272, 215, 268, 173, 507, 171, 94]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 1.50 s
+
+dual 2759.6412547116215 primal 2835.0
+
+--------------------------------------------------------------------------------
+
+11 apps, DATASET/networks/network_040_c_rp_1.dat DATASET/apps_merged/id_0069.dat
+
+
+CG :
+
+generated 500 feasible columns - time 6.25 s, actually added 261/500 , min_cost = 291 , avg_cost = 491.656
+
+generated 500 feasible columns - time 8.26 s, actually added 247/500 , min_cost = 188 , avg_cost = 347.75
+
+generated 500 feasible columns - time 5.16 s, actually added 196/500 , min_cost = 30 , avg_cost = 213.048
+
+generated 500 feasible columns - time 7.22 s, actually added 255/500 , min_cost = 140 , avg_cost = 391.898
+
+generated 500 feasible columns - time 42.60 s, actually added 312/500 , min_cost = 509 , avg_cost = 965.946
+
+generated 500 feasible columns - time 2.05 s, actually added 236/500 , min_cost = 160 , avg_cost = 294.046
+
+generated 500 feasible columns - time 2.00 s, actually added 177/500 , min_cost = 178 , avg_cost = 301.662
+
+generated 500 feasible columns - time 64.90 s, actually added 420/500 , min_cost = 391 , avg_cost = 917.204
+
+generated 500 feasible columns - time 2.25 s, actually added 217/500 , min_cost = 120 , avg_cost = 273.016
+
+generated 500 feasible columns - time 3.73 s, actually added 226/500 , min_cost = 110 , avg_cost = 246.294
+
+generated 500 feasible columns - time 53.69 s, actually added 395/500 , min_cost = 440 , avg_cost = 925.954
+# iterations : 19
+master obj val : 2901.282810849981
+LR dual bound : 2898.839045103706
+CG time : 267.893s
+
+application 0
+	pattern  272 : 0.263 [19, 19, 7, 6, 12, 39, 39]
+	pattern  278 : 0.134 [15, 15, 7, 5, 1, 39, 39]
+	pattern  279 : 0.112 [15, 15, 7, 6, 1, 39, 39]
+	pattern  280 : 0.491 [19, 19, 7, 6, 19, 39, 39]
+application 1
+	pattern  258 : 0.048 [39, 39, 14, 13, 23]
+	pattern  262 : 0.169 [39, 39, 14, 12, 11]
+	pattern  264 : 0.480 [39, 39, 14, 12, 23]
+	pattern  265 : 0.303 [39, 39, 14, 24, 11]
+application 2
+	pattern    1 : 1.000 [39, 39, 39]
+application 3
+	pattern    2 : 1.000 [15, 15, 39, 39, 39, 39]
+application 4
+	pattern  323 : 0.358 [39, 39, 39, 39, 19, 1, 39, 19, 19, 11, 39, 1, 14, 16]
+	pattern  325 : 0.173 [39, 39, 39, 39, 19, 1, 39, 19, 19, 21, 39, 1, 14, 21]
+	pattern  330 : 0.056 [39, 39, 39, 39, 19, 19, 39, 19, 19, 21, 39, 1, 15, 21]
+	pattern  331 : 0.413 [39, 39, 39, 39, 14, 16, 39, 19, 7, 21, 39, 1, 15, 11]
+application 5
+	pattern  251 : 0.801 [39, 8, 14, 1]
+	pattern  255 : 0.199 [39, 16, 14, 1]
+application 6
+	pattern  192 : 0.460 [39, 20, 11, 14]
+	pattern  194 : 0.294 [39, 8, 23, 14]
+	pattern  195 : 0.148 [39, 24, 9, 19]
+	pattern  196 : 0.098 [39, 24, 11, 14]
+application 7
+	pattern   93 : 0.131 [39, 39, 39, 8, 39, 39, 8, 39, 1, 19, 1, 7, 39]
+	pattern  152 : 0.017 [39, 39, 39, 8, 39, 39, 8, 39, 1, 19, 7, 7, 39]
+	pattern  435 : 0.374 [39, 39, 39, 16, 39, 39, 8, 39, 16, 6, 12, 7, 39]
+	pattern  436 : 0.022 [39, 39, 39, 8, 39, 39, 8, 39, 7, 7, 7, 7, 39]
+	pattern  437 : 0.016 [39, 39, 39, 16, 39, 39, 8, 39, 16, 19, 12, 7, 39]
+	pattern  439 : 0.440 [39, 39, 39, 16, 39, 39, 8, 39, 1, 19, 1, 7, 39]
+application 8
+	pattern  232 : 1.000 [39, 21, 7, 39]
+application 9
+	pattern    1 : 0.596 [39, 15, 15]
+	pattern    6 : 0.404 [39, 14, 8]
+application 10
+	pattern  408 : 0.709 [39, 39, 19, 39, 39, 13, 39, 23, 19, 39, 39, 20, 39, 24]
+	pattern  412 : 0.051 [39, 39, 15, 39, 39, 11, 39, 23, 15, 39, 39, 13, 39, 23]
+	pattern  413 : 0.158 [39, 39, 19, 39, 39, 13, 39, 23, 1, 39, 39, 11, 39, 24]
+	pattern  414 : 0.082 [39, 39, 15, 39, 39, 13, 39, 23, 15, 39, 39, 11, 39, 24]
+
+discrete RMP : z* = 3025.0
+application patterns : [6, 258, 1, 263, 325, 244, 185, 435, 225, 1, 410]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 1.14 s
+
+dual 2898.839045103706 primal 3025.0
+
+--------------------------------------------------------------------------------
+
+11 apps, DATASET/networks/network_040_c_rp_3.dat DATASET/apps_merged/id_0070.dat
+
+
+CG :
+
+generated 500 feasible columns - time 9.58 s, actually added 373/500 , min_cost = 280 , avg_cost = 520.678
+
+generated 500 feasible columns - time 2.37 s, actually added 264/500 , min_cost = 170 , avg_cost = 355.304
+
+generated 500 feasible columns - time 6.75 s, actually added 314/500 , min_cost = 240 , avg_cost = 477.808
+
+generated 500 feasible columns - time 32.69 s, actually added 475/500 , min_cost = 408 , avg_cost = 789.566
+
+generated 500 feasible columns - time 156.59 s, actually added 256/500 , min_cost = 371 , avg_cost = 695.414
+
+generated 500 feasible columns - time 13.55 s, actually added 417/500 , min_cost = 392 , avg_cost = 696.424
+
+generated 500 feasible columns - time 16.14 s, actually added 261/500 , min_cost = 240 , avg_cost = 483.092
+
+generated 500 feasible columns - time 44.76 s, actually added 253/500 , min_cost = 200 , avg_cost = 457.406
+
+generated 500 feasible columns - time 43.35 s, actually added 345/500 , min_cost = 453 , avg_cost = 906.472
+
+generated 500 feasible columns - time 54.12 s, actually added 260/500 , min_cost = 392 , avg_cost = 755.458
+
+generated 500 feasible columns - time 11.73 s, actually added 392/500 , min_cost = 280 , avg_cost = 551.42
+# iterations : 45
+master obj val : 4185.002380857026
+LR dual bound : 4180.965156386808
+CG time : 638.724s
+
+application 0
+	pattern  414 : 0.813 [16, 7, 7, 22, 12, 39, 39, 39]
+	pattern  417 : 0.187 [16, 14, 14, 12, 6, 39, 39, 39]
+application 1
+	pattern  287 : 0.081 [39, 39, 23, 21, 1]
+	pattern  289 : 0.285 [39, 39, 11, 24, 6]
+	pattern  292 : 0.037 [39, 39, 5, 14, 16]
+	pattern  295 : 0.458 [39, 39, 23, 11, 16]
+	pattern  302 : 0.103 [39, 39, 24, 7, 7]
+	pattern  303 : 0.036 [39, 39, 24, 11, 16]
+application 2
+	pattern  346 : 0.036 [39, 8, 39, 11, 39, 8, 12, 39]
+	pattern  351 : 0.055 [39, 8, 39, 3, 39, 8, 6, 39]
+	pattern  353 : 0.059 [39, 8, 39, 23, 39, 8, 6, 39]
+	pattern  356 : 0.155 [39, 14, 39, 24, 39, 14, 12, 39]
+	pattern  357 : 0.038 [39, 14, 39, 11, 39, 14, 16, 39]
+	pattern  358 : 0.282 [39, 8, 39, 11, 39, 8, 16, 39]
+	pattern  359 : 0.375 [39, 8, 39, 3, 39, 8, 16, 39]
+application 3
+	pattern  514 : 0.113 [39, 17, 3, 1, 39, 8, 15, 39, 15, 14, 39]
+	pattern  516 : 0.195 [39, 5, 21, 1, 39, 19, 15, 39, 12, 14, 39]
+	pattern  517 : 0.533 [39, 21, 5, 19, 39, 8, 15, 39, 15, 19, 39]
+	pattern  519 : 0.055 [39, 17, 21, 1, 39, 19, 16, 39, 12, 14, 39]
+	pattern  520 : 0.104 [39, 21, 5, 1, 39, 14, 15, 39, 12, 19, 39]
+application 4
+	pattern  284 : 0.007 [39, 39, 39, 16, 39, 39, 14, 7, 14, 8, 14]
+	pattern  286 : 0.027 [39, 39, 39, 16, 39, 39, 24, 14, 25, 8, 14]
+	pattern  290 : 0.358 [39, 39, 39, 16, 39, 39, 23, 7, 11, 8, 23]
+	pattern  293 : 0.031 [39, 39, 39, 12, 39, 39, 14, 8, 24, 8, 14]
+	pattern  297 : 0.447 [39, 39, 39, 16, 39, 39, 11, 7, 25, 8, 14]
+	pattern  299 : 0.128 [39, 39, 39, 16, 39, 39, 24, 7, 5, 8, 14]
+	pattern  301 : 0.001 [39, 39, 39, 6, 39, 39, 24, 14, 24, 14, 14]
+application 5
+	pattern  456 : 0.744 [39, 8, 8, 8, 13, 24, 3, 6, 39, 39]
+	pattern  457 : 0.131 [39, 19, 19, 7, 22, 23, 11, 6, 39, 39]
+	pattern  461 : 0.126 [39, 8, 8, 8, 22, 23, 23, 12, 39, 39]
+application 6
+	pattern  291 : 0.872 [39, 1, 20, 19, 19, 39, 39, 39]
+	pattern  298 : 0.076 [39, 14, 20, 14, 14, 39, 39, 39]
+	pattern  299 : 0.052 [39, 1, 22, 19, 19, 39, 39, 39]
+application 7
+	pattern  267 : 0.571 [39, 39, 16, 11, 39, 39, 14, 39]
+	pattern  282 : 0.429 [39, 39, 1, 19, 39, 39, 14, 39]
+application 8
+	pattern  382 : 0.129 [39, 39, 39, 3, 19, 21, 14, 14, 39, 14, 39, 39, 39, 13]
+	pattern  388 : 0.407 [39, 39, 39, 5, 7, 20, 16, 14, 39, 23, 39, 39, 39, 22]
+	pattern  389 : 0.407 [39, 39, 39, 5, 19, 21, 16, 14, 39, 24, 39, 39, 39, 13]
+	pattern  390 : 0.057 [39, 39, 39, 5, 7, 22, 14, 14, 39, 24, 39, 39, 39, 13]
+application 9
+	pattern  283 : 0.068 [39, 39, 39, 39, 8, 39, 8, 7, 39, 7, 8, 39, 24, 39]
+	pattern  287 : 0.119 [39, 39, 39, 39, 8, 39, 8, 19, 39, 7, 8, 39, 23, 39]
+	pattern  299 : 0.332 [39, 39, 39, 39, 8, 39, 8, 14, 39, 14, 8, 39, 23, 39]
+	pattern  300 : 0.248 [39, 39, 39, 39, 8, 39, 8, 7, 39, 7, 8, 39, 23, 39]
+	pattern  301 : 0.233 [39, 39, 39, 39, 7, 39, 7, 14, 39, 14, 7, 39, 23, 39]
+application 10
+	pattern  429 : 0.235 [15, 39, 3, 6, 15, 6, 39, 39]
+	pattern  430 : 0.167 [15, 39, 5, 15, 15, 6, 39, 39]
+	pattern  431 : 0.598 [15, 39, 9, 15, 15, 6, 39, 39]
+
+discrete RMP : z* = 5043.0
+application patterns : [414, 225, 330, 511, 278, 233, 302, 276, 389, 2, 139]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 191.52 s
+
+dual 4180.965156386808 primal 5043.0
+
+--------------------------------------------------------------------------------
+
+11 apps, DATASET/networks/network_040_c_rp_1.dat DATASET/apps_merged/id_0071.dat
+
+
+CG :
+
+generated 500 feasible columns - time 149.89 s, actually added 499/500 , min_cost = 660 , avg_cost = 962.182
+
+generated 500 feasible columns - time 26.23 s, actually added 460/500 , min_cost = 405 , avg_cost = 644.75
+
+generated 500 feasible columns - time 7.31 s, actually added 240/500 , min_cost = 120 , avg_cost = 280.276
+
+generated 500 feasible columns - time 7.05 s, actually added 251/500 , min_cost = 180 , avg_cost = 403.664
+
+generated 500 feasible columns - time 2.57 s, actually added 65/500 , min_cost = 110 , avg_cost = 217.964
+
+generated 500 feasible columns - time 111.93 s, actually added 500/500 , min_cost = 490 , avg_cost = 765.63
+
+generated 500 feasible columns - time 54.18 s, actually added 500/500 , min_cost = 569 , avg_cost = 912.672
+
+generated 500 feasible columns - time 57.02 s, actually added 323/500 , min_cost = 469 , avg_cost = 952.292
+
+generated 500 feasible columns - time 32.60 s, actually added 279/500 , min_cost = 479 , avg_cost = 941.938
+
+generated 500 feasible columns - time 12.06 s, actually added 250/500 , min_cost = 218 , avg_cost = 427.544
+
+generated 500 feasible columns - time 9.38 s, actually added 345/500 , min_cost = 298 , avg_cost = 530.492
+# iterations : 47
+master obj val : 4659.04391248513
+LR dual bound : 4654.506585952315
+CG time : 695.064s
+
+application 0
+	pattern  521 : 0.056 [39, 16, 19, 9, 16, 39, 20, 19, 19, 2, 39, 19, 21]
+	pattern  531 : 0.083 [39, 16, 14, 25, 19, 39, 23, 6, 6, 17, 39, 14, 12]
+	pattern  535 : 0.067 [39, 1, 14, 25, 19, 39, 15, 14, 6, 17, 39, 14, 12]
+	pattern  537 : 0.203 [39, 8, 7, 20, 16, 39, 15, 7, 7, 7, 39, 7, 0]
+	pattern  538 : 0.024 [39, 1, 19, 7, 8, 39, 15, 7, 7, 13, 39, 19, 1]
+	pattern  540 : 0.086 [39, 1, 19, 9, 16, 39, 15, 19, 19, 13, 39, 19, 1]
+	pattern  541 : 0.075 [39, 1, 19, 5, 16, 39, 13, 7, 7, 17, 39, 19, 21]
+	pattern  542 : 0.114 [39, 7, 19, 6, 16, 39, 15, 7, 7, 5, 39, 19, 21]
+	pattern  544 : 0.266 [39, 16, 19, 5, 16, 39, 15, 7, 7, 11, 39, 19, 21]
+	pattern  545 : 0.010 [39, 8, 19, 9, 1, 39, 11, 19, 19, 2, 39, 19, 21]
+	pattern  546 : 0.017 [39, 16, 19, 9, 16, 39, 11, 19, 19, 17, 39, 19, 21]
+application 1
+	pattern  499 : 0.418 [39, 5, 13, 2, 7, 7, 25, 39, 39, 39]
+	pattern  500 : 0.101 [39, 17, 13, 6, 14, 1, 25, 39, 39, 39]
+	pattern  502 : 0.153 [39, 17, 17, 2, 14, 1, 25, 39, 39, 39]
+	pattern  503 : 0.122 [39, 2, 2, 6, 14, 1, 25, 39, 39, 39]
+	pattern  507 : 0.206 [39, 5, 17, 2, 7, 7, 25, 39, 39, 39]
+application 2
+	pattern  261 : 0.174 [39, 20, 39, 1]
+	pattern  271 : 0.071 [39, 11, 39, 1]
+	pattern  272 : 0.010 [39, 23, 39, 16]
+	pattern  273 : 0.025 [39, 19, 39, 1]
+	pattern  274 : 0.719 [39, 23, 39, 1]
+application 3
+	pattern    1 : 0.285 [15, 15, 39, 8, 39, 39]
+	pattern  281 : 0.367 [14, 11, 39, 8, 39, 39]
+	pattern  284 : 0.059 [15, 15, 39, 25, 39, 39]
+	pattern  286 : 0.289 [14, 14, 39, 8, 39, 39]
+application 4
+	pattern   85 : 0.480 [39, 14, 15]
+	pattern   92 : 0.520 [39, 14, 7]
+application 5
+	pattern  526 : 0.424 [39, 39, 39, 3, 11, 13, 16, 14, 18, 14, 39]
+	pattern  536 : 0.161 [39, 39, 39, 18, 23, 11, 16, 14, 11, 14, 39]
+	pattern  540 : 0.158 [39, 39, 39, 3, 6, 11, 16, 14, 16, 14, 39]
+	pattern  544 : 0.257 [39, 39, 39, 18, 6, 17, 16, 14, 3, 14, 39]
+application 6
+	pattern  535 : 0.262 [39, 39, 24, 19, 11, 6, 8, 20, 12, 24, 8]
+	pattern  539 : 0.084 [39, 39, 24, 19, 23, 6, 8, 23, 12, 5, 8]
+	pattern  542 : 0.042 [39, 39, 24, 19, 23, 6, 1, 13, 12, 24, 1]
+	pattern  546 : 0.553 [39, 39, 24, 19, 23, 6, 19, 11, 12, 24, 1]
+	pattern  547 : 0.060 [39, 39, 24, 19, 23, 6, 1, 11, 12, 24, 13]
+application 7
+	pattern  352 : 0.413 [39, 39, 39, 1, 17, 39, 39, 3, 19, 19, 39, 39, 17, 39, 2]
+	pattern  359 : 0.024 [39, 39, 39, 1, 20, 39, 39, 4, 19, 19, 39, 39, 11, 39, 18]
+	pattern  361 : 0.032 [39, 39, 39, 20, 17, 39, 39, 9, 7, 7, 39, 39, 21, 39, 18]
+	pattern  364 : 0.031 [39, 39, 39, 1, 20, 39, 39, 7, 19, 19, 39, 39, 21, 39, 18]
+	pattern  367 : 0.014 [39, 39, 39, 1, 24, 39, 39, 5, 19, 19, 39, 39, 21, 39, 18]
+	pattern  369 : 0.240 [39, 39, 39, 1, 20, 39, 39, 7, 19, 19, 39, 39, 11, 39, 18]
+	pattern  370 : 0.245 [39, 39, 39, 20, 17, 39, 39, 3, 7, 7, 39, 39, 11, 39, 18]
+application 8
+	pattern  317 : 0.003 [39, 25, 39, 0, 39, 39, 14, 39, 19, 39, 39, 9, 11, 39, 7]
+	pattern  320 : 0.260 [39, 25, 39, 21, 39, 39, 1, 39, 19, 39, 39, 9, 23, 39, 19]
+	pattern  324 : 0.654 [39, 25, 39, 21, 39, 39, 14, 39, 19, 39, 39, 9, 17, 39, 19]
+	pattern  325 : 0.084 [39, 25, 39, 21, 39, 39, 1, 39, 11, 39, 39, 18, 20, 39, 19]
+application 9
+	pattern  275 : 0.008 [39, 14, 39, 24, 39, 39, 23, 39]
+	pattern  276 : 0.619 [39, 12, 39, 21, 39, 39, 23, 39]
+	pattern  280 : 0.303 [39, 12, 39, 21, 39, 39, 24, 39]
+	pattern  285 : 0.066 [39, 14, 39, 12, 39, 39, 24, 39]
+	pattern  288 : 0.004 [39, 14, 39, 21, 39, 39, 23, 39]
+application 10
+	pattern  372 : 0.173 [7, 7, 4, 39, 8, 8, 39, 39]
+	pattern  377 : 0.034 [19, 16, 18, 39, 8, 8, 39, 39]
+	pattern  382 : 0.383 [15, 16, 2, 39, 8, 8, 39, 39]
+	pattern  383 : 0.041 [15, 16, 18, 39, 8, 8, 39, 39]
+	pattern  384 : 0.369 [15, 16, 3, 39, 8, 8, 39, 39]
+
+discrete RMP : z* = 6731.0
+application patterns : [528, 496, 273, 273, 79, 523, 0, 358, 322, 280, 344]
+discrete RMP fail
+
+total discrete + repair time : 61.84 s
+
+dual 4654.506585952315 primal None
+
+--------------------------------------------------------------------------------
+
+12 apps, DATASET/networks/network_040_d_rp_3.dat DATASET/apps_merged/id_0072.dat
+
+
+CG :
+
+generated 500 feasible columns - time 23.76 s, actually added 250/500 , min_cost = 292 , avg_cost = 575.308
+
+generated 500 feasible columns - time 31.27 s, actually added 444/500 , min_cost = 386 , avg_cost = 656.17
+
+generated 500 feasible columns - time 39.06 s, actually added 500/500 , min_cost = 729 , avg_cost = 1106.608
+
+generated 500 feasible columns - time 0.72 s, actually added 81/500 , min_cost = 209 , avg_cost = 263.526
+
+generated 500 feasible columns - time 13.37 s, actually added 485/500 , min_cost = 447 , avg_cost = 791.946
+
+generated 500 feasible columns - time 9.96 s, actually added 252/500 , min_cost = 322 , avg_cost = 540.7
+
+generated 500 feasible columns - time 17.71 s, actually added 255/500 , min_cost = 521 , avg_cost = 867.376
+
+generated 500 feasible columns - time 38.80 s, actually added 500/500 , min_cost = 671 , avg_cost = 951.798
+
+generated 500 feasible columns - time 11.76 s, actually added 259/500 , min_cost = 384 , avg_cost = 699.076
+
+generated 500 feasible columns - time 41.80 s, actually added 499/500 , min_cost = 535 , avg_cost = 966.302
+
+generated 500 feasible columns - time 38.43 s, actually added 275/500 , min_cost = 308 , avg_cost = 551.95
+
+generated 500 feasible columns - time 122.52 s, actually added 499/500 , min_cost = 861 , avg_cost = 1108.002
+# iterations : 50
+master obj val : 6474.842657069097
+LR dual bound : 6472.452932187573
+CG time : 737.807s
+
+application 0
+	pattern  273 : 0.207 [39, 39, 39, 39, 39, 16, 6, 16, 4]
+	pattern  292 : 0.412 [39, 39, 39, 39, 39, 19, 27, 16, 4]
+	pattern  293 : 0.043 [39, 39, 39, 39, 39, 12, 26, 14, 20]
+	pattern  294 : 0.184 [39, 39, 39, 39, 39, 16, 10, 16, 4]
+	pattern  297 : 0.135 [39, 39, 39, 39, 39, 9, 27, 25, 20]
+	pattern  298 : 0.014 [39, 39, 39, 39, 39, 9, 27, 16, 20]
+	pattern  299 : 0.004 [39, 39, 39, 39, 39, 16, 20, 16, 4]
+application 1
+	pattern  467 : 0.286 [39, 5, 39, 39, 18, 13, 39, 39, 6, 6]
+	pattern  484 : 0.357 [39, 5, 39, 39, 6, 27, 39, 39, 4, 26]
+	pattern  487 : 0.096 [39, 24, 39, 39, 18, 27, 39, 39, 4, 26]
+	pattern  489 : 0.004 [39, 24, 39, 39, 18, 6, 39, 39, 27, 26]
+	pattern  491 : 0.128 [39, 24, 39, 39, 23, 27, 39, 39, 4, 26]
+	pattern  493 : 0.129 [39, 5, 39, 39, 18, 13, 39, 39, 24, 6]
+	pattern  494 : 0.000 [39, 5, 39, 39, 18, 27, 39, 39, 26, 26]
+application 2
+	pattern  541 : 0.004 [39, 16, 7, 39, 4, 39, 9, 16, 39, 4, 39, 22, 13, 24, 4]
+	pattern  542 : 0.300 [39, 22, 7, 39, 4, 39, 1, 22, 39, 27, 39, 26, 27, 24, 4]
+	pattern  545 : 0.359 [39, 5, 0, 39, 20, 39, 9, 14, 39, 13, 39, 6, 13, 24, 20]
+	pattern  547 : 0.100 [39, 13, 0, 39, 20, 39, 1, 25, 39, 13, 39, 6, 27, 24, 20]
+	pattern  549 : 0.236 [39, 13, 0, 39, 13, 39, 9, 25, 39, 13, 39, 6, 13, 24, 24]
+application 3
+	pattern   86 : 0.124 [39, 16, 24, 24]
+	pattern  113 : 0.497 [39, 13, 24, 24]
+	pattern  114 : 0.366 [39, 22, 4, 24]
+	pattern  115 : 0.001 [39, 24, 4, 24]
+	pattern  122 : 0.013 [39, 22, 24, 24]
+application 4
+	pattern  515 : 0.045 [4, 4, 4, 22, 39, 9, 39, 26, 39, 39, 39, 39]
+	pattern  523 : 0.685 [24, 0, 20, 3, 39, 12, 39, 26, 39, 39, 39, 39]
+	pattern  524 : 0.139 [4, 4, 4, 22, 39, 12, 39, 26, 39, 39, 39, 39]
+	pattern  532 : 0.131 [24, 0, 20, 25, 39, 12, 39, 26, 39, 39, 39, 39]
+application 5
+	pattern  268 : 0.033 [39, 0, 20, 17, 3, 39, 39, 0]
+	pattern  281 : 0.338 [39, 0, 7, 0, 8, 39, 39, 7]
+	pattern  288 : 0.223 [39, 7, 20, 1, 8, 39, 39, 0]
+	pattern  291 : 0.008 [39, 9, 20, 9, 5, 39, 39, 0]
+	pattern  292 : 0.398 [39, 7, 20, 17, 8, 39, 39, 0]
+application 6
+	pattern  294 : 0.556 [7, 7, 39, 13, 13, 17, 39, 7, 10, 15, 39, 39, 39]
+	pattern  300 : 0.213 [7, 7, 39, 26, 27, 9, 39, 7, 10, 15, 39, 39, 39]
+	pattern  301 : 0.121 [7, 7, 39, 26, 27, 15, 39, 1, 6, 11, 39, 39, 39]
+	pattern  302 : 0.110 [7, 7, 39, 13, 13, 11, 39, 7, 10, 15, 39, 39, 39]
+application 7
+	pattern  532 : 0.038 [39, 8, 0, 39, 27, 13, 3, 7, 27, 7, 17, 12]
+	pattern  540 : 0.080 [39, 25, 7, 39, 13, 27, 19, 13, 6, 0, 1, 11]
+	pattern  543 : 0.562 [39, 19, 7, 39, 27, 13, 16, 7, 4, 0, 17, 17]
+	pattern  548 : 0.149 [39, 24, 0, 39, 13, 27, 3, 13, 13, 7, 1, 11]
+	pattern  549 : 0.146 [39, 8, 0, 39, 26, 4, 3, 7, 27, 0, 17, 12]
+	pattern  550 : 0.025 [39, 24, 0, 39, 13, 27, 3, 13, 13, 0, 9, 11]
+application 8
+	pattern  291 : 0.292 [20, 0, 0, 3, 39, 39, 10, 9, 39, 39]
+	pattern  299 : 0.020 [20, 0, 0, 18, 39, 39, 6, 25, 39, 39]
+	pattern  300 : 0.688 [20, 0, 0, 18, 39, 39, 10, 9, 39, 39]
+application 9
+	pattern  538 : 0.216 [39, 39, 15, 26, 4, 39, 39, 39, 39, 39, 4, 10, 8, 26]
+	pattern  541 : 0.015 [39, 39, 9, 26, 24, 39, 39, 39, 39, 39, 6, 27, 13, 18]
+	pattern  542 : 0.129 [39, 39, 17, 18, 24, 39, 39, 39, 39, 39, 6, 4, 4, 26]
+	pattern  544 : 0.357 [39, 39, 11, 18, 22, 39, 39, 39, 39, 39, 4, 22, 22, 6]
+	pattern  546 : 0.138 [39, 39, 9, 23, 22, 39, 39, 39, 39, 39, 4, 10, 8, 18]
+	pattern  547 : 0.111 [39, 39, 17, 26, 22, 39, 39, 39, 39, 39, 4, 4, 4, 26]
+	pattern  549 : 0.035 [39, 39, 11, 18, 4, 39, 39, 39, 39, 39, 4, 20, 20, 6]
+application 10
+	pattern  305 : 0.061 [39, 26, 22, 39, 19, 39, 39, 39, 7]
+	pattern  307 : 0.026 [39, 16, 16, 39, 16, 39, 39, 39, 15]
+	pattern  314 : 0.382 [39, 26, 22, 39, 16, 39, 39, 39, 15]
+	pattern  315 : 0.096 [39, 24, 5, 39, 14, 39, 39, 39, 1]
+	pattern  318 : 0.178 [39, 24, 24, 39, 14, 39, 39, 39, 1]
+	pattern  320 : 0.235 [39, 26, 22, 39, 14, 39, 39, 39, 1]
+	pattern  324 : 0.006 [39, 24, 22, 39, 14, 39, 39, 39, 1]
+	pattern  325 : 0.017 [39, 24, 22, 39, 16, 39, 39, 39, 7]
+application 11
+	pattern  522 : 0.376 [39, 11, 24, 5, 13, 27, 11, 9, 39, 39, 5, 39, 6, 13, 25]
+	pattern  533 : 0.138 [39, 11, 5, 5, 20, 27, 11, 12, 39, 39, 24, 39, 8, 13, 25]
+	pattern  544 : 0.161 [39, 12, 5, 14, 24, 27, 12, 25, 39, 39, 24, 39, 6, 20, 5]
+	pattern  545 : 0.055 [39, 11, 16, 5, 4, 27, 11, 19, 39, 39, 16, 39, 10, 20, 25]
+	pattern  546 : 0.188 [39, 12, 14, 5, 27, 4, 12, 25, 39, 39, 16, 39, 10, 4, 19]
+	pattern  547 : 0.060 [39, 11, 24, 5, 27, 4, 25, 9, 39, 39, 16, 39, 10, 4, 19]
+	pattern  548 : 0.003 [39, 12, 16, 5, 27, 4, 12, 9, 39, 39, 16, 39, 10, 4, 19]
+	pattern  549 : 0.020 [39, 11, 24, 5, 13, 27, 11, 9, 39, 39, 5, 39, 6, 20, 25]
+
+discrete RMP : z* = 10130.0
+application patterns : [273, 455, 538, 73, 514, 0, 303, 516, 288, 144, 289, 0]
+discrete RMP fail
+
+total discrete + repair time : 625.34 s
+
+dual 6472.452932187573 primal None
+
+--------------------------------------------------------------------------------
+
+12 apps, DATASET/networks/network_040_a_rp_3.dat DATASET/apps_merged/id_0073.dat
+
+
+CG :
+
+generated 500 feasible columns - time 29.83 s, actually added 499/500 , min_cost = 632 , avg_cost = 1095.17
+
+generated 500 feasible columns - time 13.05 s, actually added 250/500 , min_cost = 130 , avg_cost = 329.904
+
+generated 500 feasible columns - time 43.53 s, actually added 252/500 , min_cost = 314 , avg_cost = 598.412
+
+generated 500 feasible columns - time 6.82 s, actually added 252/500 , min_cost = 220 , avg_cost = 441.488
+
+generated 500 feasible columns - time 26.01 s, actually added 255/500 , min_cost = 381 , avg_cost = 785.466
+
+generated 500 feasible columns - time 119.82 s, actually added 500/500 , min_cost = 669 , avg_cost = 999.034
+
+generated 500 feasible columns - time 22.35 s, actually added 250/500 , min_cost = 214 , avg_cost = 485.408
+
+generated 500 feasible columns - time 33.79 s, actually added 263/500 , min_cost = 354 , avg_cost = 713.974
+
+generated 500 feasible columns - time 20.60 s, actually added 322/500 , min_cost = 420 , avg_cost = 673.79
+
+generated 500 feasible columns - time 66.73 s, actually added 324/500 , min_cost = 167 , avg_cost = 358.548
+
+generated 500 feasible columns - time 4.72 s, actually added 250/500 , min_cost = 170 , avg_cost = 381.516
+
+generated 500 feasible columns - time 12.80 s, actually added 274/500 , min_cost = 364 , avg_cost = 700.072
+# iterations : 56
+master obj val : 5314.186855415781
+LR dual bound : 5311.32550575489
+CG time : 687.068s
+
+application 0
+	pattern  552 : 0.886 [39, 39, 39, 3, 0, 0, 21, 39, 18, 8, 39, 0, 5, 21, 9]
+	pattern  555 : 0.114 [39, 39, 39, 3, 0, 0, 21, 39, 26, 8, 39, 0, 5, 21, 10]
+application 1
+	pattern  283 : 0.200 [39, 39, 13, 39, 17]
+	pattern  287 : 0.501 [39, 39, 11, 39, 17]
+	pattern  295 : 0.214 [39, 39, 15, 39, 17]
+	pattern  298 : 0.060 [39, 39, 18, 39, 17]
+	pattern  301 : 0.026 [39, 39, 15, 39, 12]
+application 2
+	pattern  289 : 0.464 [39, 25, 8, 39, 39, 8, 11, 39, 8, 39]
+	pattern  302 : 0.230 [39, 5, 8, 39, 39, 8, 26, 39, 8, 39]
+	pattern  305 : 0.101 [39, 25, 8, 39, 39, 0, 1, 39, 0, 39]
+	pattern  307 : 0.204 [39, 25, 8, 39, 39, 8, 1, 39, 8, 39]
+application 3
+	pattern  296 : 0.277 [8, 8, 39, 13, 24, 39]
+	pattern  298 : 0.145 [8, 8, 39, 3, 21, 39]
+	pattern  304 : 0.319 [8, 8, 39, 3, 7, 39]
+	pattern  307 : 0.260 [8, 8, 39, 13, 10, 39]
+application 4
+	pattern  305 : 0.042 [39, 39, 39, 39, 24, 21, 10, 3, 39, 39, 17, 25]
+	pattern  306 : 0.127 [39, 39, 39, 39, 24, 21, 20, 1, 39, 39, 12, 13]
+	pattern  308 : 0.125 [39, 39, 39, 39, 24, 13, 20, 4, 39, 39, 12, 25]
+	pattern  309 : 0.614 [39, 39, 39, 39, 24, 21, 20, 4, 39, 39, 17, 25]
+	pattern  310 : 0.093 [39, 39, 39, 39, 24, 21, 20, 1, 39, 39, 0, 25]
+application 5
+	pattern  547 : 0.211 [39, 5, 12, 10, 13, 39, 18, 24, 24, 7, 39, 12, 2]
+	pattern  549 : 0.154 [39, 12, 12, 24, 2, 39, 20, 24, 24, 15, 39, 12, 10]
+	pattern  554 : 0.222 [39, 12, 12, 10, 13, 39, 20, 24, 24, 26, 39, 12, 2]
+	pattern  555 : 0.413 [39, 5, 12, 24, 2, 39, 26, 24, 24, 15, 39, 12, 10]
+application 6
+	pattern  274 : 0.026 [39, 39, 33, 39, 17, 18, 39, 39]
+	pattern  280 : 0.135 [39, 39, 33, 39, 17, 11, 39, 39]
+	pattern  286 : 0.239 [39, 39, 33, 39, 17, 26, 39, 39]
+	pattern  296 : 0.192 [39, 39, 4, 39, 7, 3, 39, 39]
+	pattern  298 : 0.207 [39, 39, 1, 39, 7, 11, 39, 39]
+	pattern  299 : 0.114 [39, 39, 33, 39, 7, 15, 39, 39]
+	pattern  301 : 0.087 [39, 39, 33, 39, 7, 26, 39, 39]
+application 7
+	pattern  307 : 0.087 [39, 39, 39, 3, 39, 18, 0, 39, 39, 5, 21, 39]
+	pattern  314 : 0.352 [39, 39, 39, 2, 39, 11, 12, 39, 39, 5, 12, 39]
+	pattern  316 : 0.252 [39, 39, 39, 15, 39, 1, 12, 39, 39, 25, 12, 39]
+	pattern  319 : 0.308 [39, 39, 39, 3, 39, 18, 17, 39, 39, 0, 17, 39]
+application 8
+	pattern  368 : 0.549 [39, 39, 5, 9, 33, 0, 12, 4, 1]
+	pattern  372 : 0.187 [39, 39, 8, 26, 9, 12, 8, 1, 11]
+	pattern  373 : 0.063 [39, 39, 5, 10, 33, 0, 24, 4, 1]
+	pattern  375 : 0.101 [39, 39, 5, 18, 33, 12, 24, 3, 9]
+	pattern  376 : 0.004 [39, 39, 5, 26, 33, 0, 24, 1, 4]
+	pattern  377 : 0.094 [39, 39, 8, 18, 9, 0, 8, 1, 3]
+	pattern  378 : 0.001 [39, 39, 0, 18, 9, 0, 0, 1, 3]
+application 9
+	pattern    3 : 0.633 [39, 39, 5, 7, 39, 39]
+	pattern   11 : 0.367 [39, 39, 25, 18, 39, 39]
+application 10
+	pattern    1 : 0.394 [8, 8, 8, 39, 39]
+	pattern  282 : 0.606 [0, 0, 0, 39, 39]
+application 11
+	pattern  324 : 0.232 [39, 26, 8, 13, 39, 12, 39, 10, 39, 39, 26]
+	pattern  325 : 0.374 [39, 2, 8, 13, 39, 21, 39, 13, 39, 39, 11]
+	pattern  326 : 0.076 [39, 7, 8, 13, 39, 12, 39, 3, 39, 39, 26]
+	pattern  328 : 0.090 [39, 20, 8, 13, 39, 12, 39, 21, 39, 39, 26]
+	pattern  329 : 0.129 [39, 3, 8, 13, 39, 21, 39, 21, 39, 39, 3]
+	pattern  330 : 0.100 [39, 7, 0, 13, 39, 12, 39, 3, 39, 39, 11]
+
+discrete RMP : z* = 7940.0
+application patterns : [541, 0, 262, 297, 300, 539, 291, 296, 0, 19, 279, 280]
+discrete RMP fail
+
+total discrete + repair time : 297.11 s
+
+dual 5311.32550575489 primal None
+
+--------------------------------------------------------------------------------
+
+12 apps, DATASET/networks/network_040_c_rp_2.dat DATASET/apps_merged/id_0074.dat
+
+
+CG :
+
+generated 500 feasible columns - time 30.88 s, actually added 255/500 , min_cost = 285 , avg_cost = 418.012
+
+generated 500 feasible columns - time 7.37 s, actually added 251/500 , min_cost = 298 , avg_cost = 516.41
+
+generated 500 feasible columns - time 4.34 s, actually added 243/500 , min_cost = 89 , avg_cost = 244.47
+
+generated 500 feasible columns - time 30.20 s, actually added 494/500 , min_cost = 542 , avg_cost = 922.686
+
+generated 500 feasible columns - time 94.11 s, actually added 483/500 , min_cost = 635 , avg_cost = 950.068
+
+generated 500 feasible columns - time 52.95 s, actually added 498/500 , min_cost = 573 , avg_cost = 736.346
+
+generated 500 feasible columns - time 12.74 s, actually added 277/500 , min_cost = 252 , avg_cost = 491.572
+
+generated 500 feasible columns - time 56.21 s, actually added 500/500 , min_cost = 607 , avg_cost = 830.9
+
+generated 500 feasible columns - time 106.28 s, actually added 285/500 , min_cost = 443 , avg_cost = 644.296
+
+generated 500 feasible columns - time 6.97 s, actually added 251/500 , min_cost = 140 , avg_cost = 356.986
+
+generated 500 feasible columns - time 7.30 s, actually added 270/500 , min_cost = 273 , avg_cost = 494.866
+
+generated 500 feasible columns - time 18.91 s, actually added 425/500 , min_cost = 382 , avg_cost = 717.292
+# iterations : 40
+master obj val : 5036.953551696479
+LR dual bound : 5033.404875643673
+CG time : 676.993s
+
+application 0
+	pattern  289 : 0.271 [39, 1, 19, 1, 1, 21]
+	pattern  290 : 0.298 [39, 1, 19, 19, 19, 21]
+	pattern  291 : 0.133 [39, 9, 8, 19, 1, 2]
+	pattern  293 : 0.084 [39, 20, 19, 1, 20, 21]
+	pattern  294 : 0.214 [39, 9, 1, 19, 1, 2]
+application 1
+	pattern  280 : 0.297 [39, 39, 39, 18, 39, 20, 39, 2, 39, 20]
+	pattern  283 : 0.150 [39, 39, 39, 21, 39, 22, 39, 23, 39, 12]
+	pattern  287 : 0.018 [39, 39, 39, 21, 39, 24, 39, 2, 39, 14]
+	pattern  289 : 0.029 [39, 39, 39, 21, 39, 13, 39, 5, 39, 14]
+	pattern  290 : 0.149 [39, 39, 39, 21, 39, 20, 39, 25, 39, 20]
+	pattern  291 : 0.357 [39, 39, 39, 21, 39, 22, 39, 5, 39, 12]
+application 2
+	pattern  262 : 1.000 [21, 39, 39, 39]
+application 3
+	pattern  523 : 0.314 [8, 8, 8, 7, 7, 6, 14, 14, 39, 18, 39, 39, 39, 39]
+	pattern  528 : 0.421 [8, 8, 8, 16, 1, 6, 14, 14, 39, 18, 39, 39, 39, 39]
+	pattern  531 : 0.208 [8, 8, 8, 16, 7, 6, 19, 6, 39, 18, 39, 39, 39, 39]
+	pattern  534 : 0.056 [8, 8, 8, 16, 7, 6, 14, 14, 39, 18, 39, 39, 39, 39]
+application 4
+	pattern  508 : 0.119 [39, 11, 39, 39, 24, 16, 39, 6, 16, 9, 39, 24, 7, 14, 2]
+	pattern  518 : 0.053 [39, 25, 39, 39, 24, 19, 39, 12, 19, 26, 39, 24, 7, 19, 2]
+	pattern  519 : 0.482 [39, 20, 39, 39, 5, 7, 39, 12, 9, 9, 39, 8, 7, 1, 2]
+	pattern  521 : 0.273 [39, 20, 39, 39, 24, 7, 39, 6, 9, 9, 39, 24, 7, 1, 10]
+	pattern  523 : 0.073 [39, 11, 39, 39, 25, 19, 39, 12, 16, 9, 39, 19, 7, 14, 2]
+application 5
+	pattern  514 : 0.161 [39, 9, 11, 8, 8, 39, 39, 39, 18, 39, 21, 39, 22, 23]
+	pattern  532 : 0.412 [39, 12, 11, 8, 8, 39, 39, 39, 18, 39, 12, 39, 22, 25]
+	pattern  534 : 0.049 [39, 9, 12, 8, 8, 39, 39, 39, 22, 39, 21, 39, 20, 25]
+	pattern  536 : 0.247 [39, 9, 11, 8, 8, 39, 39, 39, 18, 39, 10, 39, 22, 25]
+	pattern  537 : 0.130 [39, 16, 12, 8, 8, 39, 39, 39, 22, 39, 2, 39, 20, 23]
+application 6
+	pattern  309 : 0.406 [39, 14, 19, 39, 16, 39, 11]
+	pattern  311 : 0.594 [39, 14, 16, 39, 16, 39, 11]
+application 7
+	pattern  523 : 0.096 [39, 6, 16, 39, 39, 39, 39, 39, 5, 39, 19, 39, 24, 23]
+	pattern  532 : 0.143 [39, 6, 22, 39, 39, 39, 39, 39, 10, 39, 16, 39, 24, 16]
+	pattern  534 : 0.481 [39, 6, 1, 39, 39, 39, 39, 39, 10, 39, 16, 39, 24, 12]
+	pattern  535 : 0.004 [39, 6, 22, 39, 39, 39, 39, 39, 10, 39, 19, 39, 24, 12]
+	pattern  536 : 0.048 [39, 6, 13, 39, 39, 39, 39, 39, 21, 39, 16, 39, 24, 12]
+	pattern  538 : 0.001 [39, 6, 22, 39, 39, 39, 39, 39, 10, 39, 16, 39, 24, 6]
+	pattern  539 : 0.228 [39, 6, 1, 39, 39, 39, 39, 39, 5, 39, 19, 39, 24, 12]
+application 8
+	pattern  307 : 0.445 [39, 19, 39, 14, 39, 16, 19, 39, 6, 19, 1]
+	pattern  310 : 0.009 [39, 19, 39, 7, 39, 5, 1, 39, 16, 19, 1]
+	pattern  316 : 0.284 [39, 19, 39, 7, 39, 5, 19, 39, 16, 19, 1]
+	pattern  320 : 0.165 [39, 19, 39, 7, 39, 20, 1, 39, 20, 19, 1]
+	pattern  321 : 0.058 [39, 19, 39, 14, 39, 2, 16, 39, 16, 19, 16]
+	pattern  325 : 0.040 [39, 19, 39, 7, 39, 2, 19, 39, 16, 19, 1]
+application 9
+	pattern    1 : 0.708 [8, 8, 39, 39, 39, 39]
+	pattern  270 : 0.292 [14, 14, 39, 39, 39, 39]
+application 10
+	pattern    9 : 0.248 [39, 39, 8, 8, 20, 39, 39, 39, 39, 8]
+	pattern  295 : 0.058 [39, 39, 8, 8, 20, 39, 39, 39, 39, 14]
+	pattern  297 : 0.412 [39, 39, 8, 8, 22, 39, 39, 39, 39, 16]
+	pattern  298 : 0.155 [39, 39, 8, 8, 10, 39, 39, 39, 39, 16]
+	pattern  300 : 0.127 [39, 39, 8, 8, 10, 39, 39, 39, 39, 8]
+application 11
+	pattern  456 : 0.152 [39, 39, 39, 39, 19, 39, 23, 5, 22, 11, 39, 39]
+	pattern  457 : 0.218 [39, 39, 39, 39, 19, 39, 6, 23, 13, 24, 39, 39]
+	pattern  460 : 0.205 [39, 39, 39, 39, 21, 39, 23, 25, 13, 24, 39, 39]
+	pattern  462 : 0.136 [39, 39, 39, 39, 19, 39, 23, 25, 24, 11, 39, 39]
+	pattern  463 : 0.121 [39, 39, 39, 39, 19, 39, 23, 12, 25, 11, 39, 39]
+	pattern  464 : 0.128 [39, 39, 39, 39, 21, 39, 6, 23, 20, 11, 39, 39]
+	pattern  465 : 0.039 [39, 39, 39, 39, 21, 39, 23, 5, 24, 11, 39, 39]
+
+discrete RMP : z* = 7550.0
+application patterns : [273, 268, 262, 514, 0, 173, 15, 503, 294, 273, 276, 444]
+discrete RMP fail
+
+total discrete + repair time : 210.24 s
+
+dual 5033.404875643673 primal None
+
+--------------------------------------------------------------------------------
+
+13 apps, DATASET/networks/network_040_d_rp_4.dat DATASET/apps_merged/id_0075.dat
+
+
+CG :
+
+generated 500 feasible columns - time 4.50 s, actually added 228/500 , min_cost = 187 , avg_cost = 315.016
+
+generated 500 feasible columns - time 44.95 s, actually added 428/500 , min_cost = 689 , avg_cost = 1065.46
+
+generated 500 feasible columns - time 55.51 s, actually added 500/500 , min_cost = 618 , avg_cost = 1008.926
+
+generated 500 feasible columns - time 6.62 s, actually added 254/500 , min_cost = 180 , avg_cost = 302.502
+
+generated 500 feasible columns - time 48.74 s, actually added 476/500 , min_cost = 433 , avg_cost = 767.448
+
+generated 500 feasible columns - time 16.84 s, actually added 495/500 , min_cost = 417 , avg_cost = 771.974
+
+generated 500 feasible columns - time 26.77 s, actually added 419/500 , min_cost = 729 , avg_cost = 1027.976
+
+generated 500 feasible columns - time 37.68 s, actually added 325/500 , min_cost = 230 , avg_cost = 357.676
+
+generated 500 feasible columns - time 1.82 s, actually added 57/500 , min_cost = 93 , avg_cost = 189.056
+
+generated 500 feasible columns - time 7.97 s, actually added 251/500 , min_cost = 277 , avg_cost = 446.02
+
+generated 500 feasible columns - time 23.04 s, actually added 500/500 , min_cost = 474 , avg_cost = 891.24
+
+generated 500 feasible columns - time 14.31 s, actually added 251/500 , min_cost = 374 , avg_cost = 658.832
+
+generated 500 feasible columns - time 12.88 s, actually added 250/500 , min_cost = 378 , avg_cost = 541.698
+# iterations : 33
+master obj val : 5692.971111133373
+LR dual bound : 5688.426620028146
+CG time : 499.549s
+
+application 0
+	pattern  238 : 0.902 [13, 5, 27, 39]
+	pattern  256 : 0.062 [2, 9, 24, 39]
+	pattern  258 : 0.036 [13, 5, 6, 39]
+application 1
+	pattern  455 : 0.207 [39, 7, 27, 11, 7, 1, 39, 0, 20, 27, 7, 7, 39, 1]
+	pattern  456 : 0.196 [39, 7, 27, 2, 7, 1, 39, 17, 20, 2, 7, 7, 39, 2]
+	pattern  458 : 0.396 [39, 7, 22, 5, 7, 1, 39, 17, 4, 24, 7, 7, 39, 1]
+	pattern  461 : 0.200 [39, 7, 27, 9, 7, 1, 39, 17, 20, 2, 7, 7, 39, 1]
+application 2
+	pattern  525 : 0.758 [39, 9, 7, 39, 6, 6, 7, 13, 39, 39, 39, 10, 39, 39, 22]
+	pattern  528 : 0.003 [39, 1, 7, 39, 6, 24, 7, 7, 39, 39, 39, 10, 39, 39, 22]
+	pattern  531 : 0.212 [39, 15, 7, 39, 27, 24, 7, 7, 39, 39, 39, 10, 39, 39, 2]
+	pattern  532 : 0.027 [39, 15, 7, 39, 6, 24, 7, 13, 39, 39, 39, 7, 39, 39, 22]
+application 3
+	pattern  279 : 0.785 [39, 4, 12, 20]
+	pattern  283 : 0.215 [39, 4, 5, 20]
+application 4
+	pattern  497 : 0.042 [39, 20, 39, 26, 39, 39, 24, 39, 26, 39, 39, 22, 39]
+	pattern  502 : 0.332 [39, 20, 39, 15, 39, 39, 6, 39, 26, 39, 39, 22, 39]
+	pattern  504 : 0.052 [39, 2, 39, 16, 39, 39, 24, 39, 10, 39, 39, 15, 39]
+	pattern  507 : 0.388 [39, 20, 39, 26, 39, 39, 28, 39, 15, 39, 39, 22, 39]
+	pattern  508 : 0.013 [39, 1, 39, 15, 39, 39, 24, 39, 26, 39, 39, 22, 39]
+	pattern  509 : 0.173 [39, 1, 39, 26, 39, 39, 28, 39, 26, 39, 39, 22, 39]
+application 5
+	pattern  516 : 0.188 [39, 39, 11, 39, 39, 39, 39, 39, 27, 39, 13, 26, 24]
+	pattern  521 : 0.055 [39, 39, 11, 39, 39, 39, 39, 39, 22, 39, 13, 15, 24]
+	pattern  524 : 0.266 [39, 39, 8, 39, 39, 39, 39, 39, 9, 39, 7, 15, 24]
+	pattern  525 : 0.420 [39, 39, 11, 39, 39, 39, 39, 39, 9, 39, 13, 26, 24]
+	pattern  528 : 0.072 [39, 39, 8, 39, 39, 39, 39, 39, 22, 39, 7, 16, 27]
+application 6
+	pattern  438 : 0.029 [39, 0, 7, 13, 27, 20, 7, 13, 2, 39, 39, 10, 39, 17, 20]
+	pattern  446 : 0.129 [39, 0, 13, 1, 2, 1, 4, 2, 2, 39, 39, 11, 39, 17, 20]
+	pattern  449 : 0.335 [39, 0, 13, 13, 9, 1, 4, 13, 2, 39, 39, 5, 39, 17, 20]
+	pattern  450 : 0.253 [39, 0, 13, 13, 27, 20, 4, 13, 2, 39, 39, 11, 39, 17, 20]
+	pattern  451 : 0.169 [39, 2, 2, 2, 27, 1, 20, 2, 2, 39, 39, 5, 39, 5, 0]
+	pattern  452 : 0.086 [39, 0, 2, 13, 27, 1, 20, 13, 2, 39, 39, 11, 39, 17, 20]
+application 7
+	pattern  337 : 0.979 [39, 7, 39, 6, 10]
+	pattern  348 : 0.021 [39, 7, 39, 27, 17]
+application 8
+	pattern   63 : 0.122 [39, 24, 39]
+	pattern   64 : 0.825 [39, 22, 39]
+	pattern   67 : 0.054 [39, 8, 39]
+application 9
+	pattern  272 : 0.054 [39, 7, 39, 13, 16, 39, 27]
+	pattern  282 : 0.378 [39, 7, 39, 13, 11, 39, 27]
+	pattern  284 : 0.568 [39, 7, 39, 2, 9, 39, 27]
+application 10
+	pattern  523 : 0.012 [7, 7, 7, 39, 10, 8, 39, 28, 39, 39, 39, 39, 39, 39]
+	pattern  525 : 0.486 [7, 7, 7, 39, 12, 8, 39, 28, 39, 39, 39, 39, 39, 39]
+	pattern  528 : 0.074 [7, 7, 7, 39, 16, 16, 39, 24, 39, 39, 39, 39, 39, 39]
+	pattern  531 : 0.140 [7, 7, 7, 39, 16, 15, 39, 28, 39, 39, 39, 39, 39, 39]
+	pattern  533 : 0.286 [7, 7, 7, 39, 12, 8, 39, 6, 39, 39, 39, 39, 39, 39]
+application 11
+	pattern  278 : 0.392 [39, 39, 2, 39, 0, 39, 22, 39, 39, 26, 16]
+	pattern  280 : 0.223 [39, 39, 22, 39, 4, 39, 22, 39, 39, 15, 16]
+	pattern  283 : 0.217 [39, 39, 22, 39, 0, 39, 2, 39, 39, 15, 24]
+	pattern  284 : 0.168 [39, 39, 2, 39, 20, 39, 22, 39, 39, 26, 16]
+application 12
+	pattern  271 : 0.358 [39, 8, 20, 11, 2, 7, 20]
+	pattern  275 : 0.603 [39, 8, 20, 10, 2, 7, 20]
+	pattern  279 : 0.039 [39, 10, 4, 10, 2, 7, 4]
+
+discrete RMP : z* = 6657.0
+application patterns : [235, 443, 204, 282, 495, 519, 203, 63, 65, 209, 527, 267, 255]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 1156.57 s
+
+dual 5688.426620028146 primal 6657.0
+
+--------------------------------------------------------------------------------
+
+13 apps, DATASET/networks/network_040_c_rp_1.dat DATASET/apps_merged/id_0076.dat
+
+
+CG :
+
+generated 500 feasible columns - time 54.26 s, actually added 495/500 , min_cost = 471 , avg_cost = 755.352
+
+generated 500 feasible columns - time 26.37 s, actually added 358/500 , min_cost = 391 , avg_cost = 869.394
+
+generated 500 feasible columns - time 17.52 s, actually added 265/500 , min_cost = 436 , avg_cost = 761.096
+
+generated 500 feasible columns - time 20.61 s, actually added 305/500 , min_cost = 430 , avg_cost = 804.424
+
+generated 500 feasible columns - time 38.16 s, actually added 362/500 , min_cost = 378 , avg_cost = 802.614
+
+generated 500 feasible columns - time 1.63 s, actually added 61/500 , min_cost = 119 , avg_cost = 225.268
+
+generated 500 feasible columns - time 23.04 s, actually added 404/500 , min_cost = 366 , avg_cost = 804.572
+
+generated 500 feasible columns - time 3.60 s, actually added 281/500 , min_cost = 253 , avg_cost = 454.966
+
+generated 500 feasible columns - time 38.78 s, actually added 461/500 , min_cost = 486 , avg_cost = 952.598
+
+generated 500 feasible columns - time 64.25 s, actually added 417/500 , min_cost = 391 , avg_cost = 913.978
+
+generated 500 feasible columns - time 8.74 s, actually added 253/500 , min_cost = 199 , avg_cost = 439.586
+
+generated 500 feasible columns - time 40.88 s, actually added 459/500 , min_cost = 641 , avg_cost = 1105.696
+
+generated 500 feasible columns - time 3.23 s, actually added 219/500 , min_cost = 160 , avg_cost = 288.968
+# iterations : 61
+master obj val : 6656.610036722018
+LR dual bound : 6650.692828934563
+CG time : 642.004s
+
+application 0
+	pattern  538 : 0.404 [39, 0, 39, 39, 17, 16, 23, 14, 39, 11, 39, 1]
+	pattern  543 : 0.002 [39, 34, 39, 39, 13, 25, 24, 14, 39, 11, 39, 1]
+	pattern  548 : 0.053 [39, 18, 39, 39, 5, 24, 7, 14, 39, 11, 39, 1]
+	pattern  550 : 0.047 [39, 18, 39, 39, 11, 24, 11, 14, 39, 11, 39, 1]
+	pattern  551 : 0.302 [39, 17, 39, 39, 11, 11, 23, 14, 39, 11, 39, 1]
+	pattern  552 : 0.127 [39, 0, 39, 39, 5, 7, 7, 14, 39, 11, 39, 1]
+	pattern  553 : 0.025 [39, 21, 39, 39, 13, 1, 24, 14, 39, 11, 39, 1]
+	pattern  556 : 0.039 [39, 34, 39, 39, 11, 25, 23, 14, 39, 11, 39, 1]
+application 1
+	pattern  413 : 0.396 [16, 39, 39, 33, 1, 20, 25, 28, 39, 39, 39, 39, 39]
+	pattern  414 : 0.067 [16, 39, 39, 3, 16, 6, 25, 25, 39, 39, 39, 39, 39]
+	pattern  415 : 0.377 [1, 39, 39, 9, 16, 6, 25, 28, 39, 39, 39, 39, 39]
+	pattern  418 : 0.015 [16, 39, 39, 25, 19, 6, 25, 28, 39, 39, 39, 39, 39]
+	pattern  419 : 0.145 [16, 39, 39, 29, 1, 13, 25, 28, 39, 39, 39, 39, 39]
+application 2
+	pattern  312 : 0.357 [39, 39, 19, 39, 15, 15, 29, 39, 3, 9, 19, 39]
+	pattern  313 : 0.447 [39, 39, 19, 39, 15, 15, 29, 39, 9, 13, 19, 39]
+	pattern  314 : 0.002 [39, 39, 7, 39, 15, 15, 25, 39, 4, 9, 7, 39]
+	pattern  320 : 0.130 [39, 39, 14, 39, 15, 15, 25, 39, 18, 13, 14, 39]
+	pattern  323 : 0.040 [39, 39, 14, 39, 15, 15, 29, 39, 2, 13, 14, 39]
+	pattern  324 : 0.024 [39, 39, 6, 39, 15, 15, 29, 39, 18, 13, 7, 39]
+application 3
+	pattern  345 : 0.402 [39, 19, 19, 21, 8, 8, 20, 39, 21, 39, 39, 39]
+	pattern  347 : 0.034 [39, 7, 7, 4, 8, 8, 20, 39, 17, 39, 39, 39]
+	pattern  352 : 0.193 [39, 7, 7, 9, 16, 13, 24, 39, 21, 39, 39, 39]
+	pattern  353 : 0.035 [39, 19, 19, 21, 16, 13, 24, 39, 17, 39, 39, 39]
+	pattern  365 : 0.335 [39, 7, 7, 20, 8, 8, 11, 39, 17, 39, 39, 39]
+application 4
+	pattern  411 : 0.286 [39, 39, 39, 39, 11, 16, 11, 36, 39, 39, 14, 7]
+	pattern  414 : 0.218 [39, 39, 39, 39, 23, 23, 11, 36, 39, 39, 23, 12]
+	pattern  417 : 0.050 [39, 39, 39, 39, 23, 7, 20, 36, 39, 39, 14, 12]
+	pattern  420 : 0.397 [39, 39, 39, 39, 23, 13, 24, 36, 39, 39, 14, 1]
+	pattern  421 : 0.015 [39, 39, 39, 39, 23, 7, 20, 34, 39, 39, 23, 12]
+	pattern  423 : 0.034 [39, 39, 39, 39, 23, 8, 20, 36, 39, 39, 23, 12]
+application 5
+	pattern   80 : 0.174 [39, 23, 23]
+	pattern   85 : 0.030 [39, 6, 11]
+	pattern   88 : 0.555 [39, 6, 24]
+	pattern   90 : 0.240 [39, 6, 23]
+application 6
+	pattern  451 : 0.311 [39, 39, 14, 18, 39, 39, 2, 39, 16, 2, 39, 39, 39]
+	pattern  460 : 0.174 [39, 39, 14, 2, 39, 39, 17, 39, 16, 17, 39, 39, 39]
+	pattern  463 : 0.251 [39, 39, 14, 18, 39, 39, 17, 39, 16, 17, 39, 39, 39]
+	pattern  465 : 0.264 [39, 39, 19, 28, 39, 39, 17, 39, 16, 2, 39, 39, 39]
+application 7
+	pattern  324 : 0.975 [39, 15, 27, 12, 7, 39]
+	pattern  335 : 0.025 [39, 15, 27, 24, 7, 39]
+application 8
+	pattern  505 : 0.001 [39, 14, 19, 34, 11, 7, 21, 21, 39, 39, 39, 1, 39]
+	pattern  513 : 0.478 [39, 14, 14, 34, 11, 6, 37, 3, 39, 39, 39, 19, 39]
+	pattern  514 : 0.159 [39, 14, 14, 4, 12, 7, 21, 18, 39, 39, 39, 19, 39]
+	pattern  515 : 0.107 [39, 14, 7, 34, 11, 7, 37, 0, 39, 39, 39, 19, 39]
+	pattern  517 : 0.068 [39, 14, 14, 4, 12, 7, 21, 3, 39, 39, 39, 1, 39]
+	pattern  520 : 0.002 [39, 14, 14, 36, 20, 7, 37, 18, 39, 39, 39, 1, 39]
+	pattern  521 : 0.124 [39, 14, 14, 0, 12, 7, 37, 4, 39, 39, 39, 19, 39]
+	pattern  522 : 0.060 [39, 14, 7, 36, 20, 7, 37, 4, 39, 39, 39, 19, 39]
+application 9
+	pattern  466 : 0.611 [39, 39, 39, 21, 39, 39, 4, 39, 1, 19, 21, 7, 39]
+	pattern  475 : 0.062 [39, 39, 39, 23, 39, 39, 21, 39, 1, 19, 21, 19, 39]
+	pattern  476 : 0.279 [39, 39, 39, 23, 39, 39, 4, 39, 1, 19, 21, 7, 39]
+	pattern  477 : 0.048 [39, 39, 39, 11, 39, 39, 4, 39, 15, 15, 20, 7, 39]
+application 10
+	pattern  302 : 0.011 [39, 15, 39, 39, 6, 39, 25]
+	pattern  305 : 0.094 [39, 15, 39, 39, 5, 39, 25]
+	pattern  307 : 0.804 [39, 8, 39, 39, 5, 39, 25]
+	pattern  308 : 0.090 [39, 8, 39, 39, 6, 39, 3]
+application 11
+	pattern  495 : 0.317 [39, 6, 39, 33, 7, 14, 2, 3, 18, 39, 39, 39, 19, 1, 0]
+	pattern  510 : 0.175 [39, 24, 39, 3, 19, 15, 2, 25, 27, 39, 39, 39, 7, 16, 34]
+	pattern  512 : 0.139 [39, 6, 39, 33, 14, 19, 2, 25, 27, 39, 39, 39, 19, 1, 18]
+	pattern  514 : 0.131 [39, 7, 39, 33, 7, 14, 2, 20, 18, 39, 39, 39, 19, 1, 4]
+	pattern  517 : 0.024 [39, 14, 39, 33, 19, 14, 13, 3, 27, 39, 39, 39, 19, 1, 34]
+	pattern  518 : 0.214 [39, 14, 39, 3, 19, 14, 17, 3, 18, 39, 39, 39, 7, 16, 34]
+application 12
+	pattern  272 : 0.306 [39, 8, 8, 5]
+	pattern  273 : 0.223 [39, 1, 0, 24]
+	pattern  274 : 0.094 [39, 7, 4, 5]
+	pattern  275 : 0.211 [39, 8, 8, 24]
+	pattern  276 : 0.166 [39, 8, 8, 2]
+
+discrete RMP : z* = 9733.0
+application patterns : [547, 418, 305, 349, 366, 0, 452, 319, 504, 464, 276, 0, 235]
+discrete RMP fail
+
+total discrete + repair time : 360.85 s
+
+dual 6650.692828934563 primal None
+
+--------------------------------------------------------------------------------
+
+13 apps, DATASET/networks/network_040_b_rp_3.dat DATASET/apps_merged/id_0077.dat
+
+
+CG :
+
+generated 500 feasible columns - time 27.25 s, actually added 263/500 , min_cost = 374 , avg_cost = 682.424
+
+generated 500 feasible columns - time 2.54 s, actually added 248/500 , min_cost = 152 , avg_cost = 293.33
+
+generated 500 feasible columns - time 14.51 s, actually added 275/500 , min_cost = 421 , avg_cost = 606.882
+
+generated 500 feasible columns - time 41.76 s, actually added 239/500 , min_cost = 158 , avg_cost = 305.08
+
+generated 500 feasible columns - time 2.96 s, actually added 192/500 , min_cost = 142 , avg_cost = 275.784
+
+generated 500 feasible columns - time 2.01 s, actually added 223/500 , min_cost = 182 , avg_cost = 271.746
+
+generated 500 feasible columns - time 9.77 s, actually added 258/500 , min_cost = 209 , avg_cost = 405.258
+
+generated 500 feasible columns - time 12.25 s, actually added 252/500 , min_cost = 346 , avg_cost = 565.88
+
+generated 500 feasible columns - time 6.93 s, actually added 236/500 , min_cost = 209 , avg_cost = 320.288
+
+generated 500 feasible columns - time 60.63 s, actually added 428/500 , min_cost = 561 , avg_cost = 852.026
+
+generated 500 feasible columns - time 5.43 s, actually added 257/500 , min_cost = 203 , avg_cost = 392.868
+
+generated 500 feasible columns - time 55.16 s, actually added 489/500 , min_cost = 516 , avg_cost = 634.836
+
+generated 500 feasible columns - time 36.53 s, actually added 252/500 , min_cost = 310 , avg_cost = 573.78
+# iterations : 28
+master obj val : 4306.869600540265
+LR dual bound : 4304.236870842292
+CG time : 387.453s
+
+application 0
+	pattern  286 : 0.240 [39, 39, 39, 12, 8, 39, 16, 12, 15, 39]
+	pattern  288 : 0.337 [39, 39, 39, 8, 12, 39, 2, 8, 7, 39]
+	pattern  289 : 0.045 [39, 39, 39, 12, 12, 39, 16, 12, 2, 39]
+	pattern  290 : 0.358 [39, 39, 39, 12, 12, 39, 16, 12, 7, 39]
+	pattern  291 : 0.020 [39, 39, 39, 12, 12, 39, 7, 12, 15, 39]
+application 1
+	pattern  263 : 0.326 [39, 39, 7, 19, 39]
+	pattern  267 : 0.674 [39, 39, 11, 19, 39]
+application 2
+	pattern  288 : 0.016 [39, 13, 1, 20, 12, 12, 9, 1]
+	pattern  289 : 0.697 [39, 13, 1, 14, 12, 12, 25, 1]
+	pattern  290 : 0.288 [39, 13, 1, 8, 12, 12, 9, 1]
+application 3
+	pattern  248 : 0.134 [39, 15, 39, 15, 39]
+	pattern  255 : 0.172 [39, 7, 39, 16, 39]
+	pattern  256 : 0.535 [39, 2, 39, 16, 39]
+	pattern  260 : 0.080 [39, 13, 39, 10, 39]
+	pattern  262 : 0.079 [39, 7, 39, 7, 39]
+application 4
+	pattern    1 : 0.737 [39, 23, 23, 39]
+	pattern  204 : 0.263 [39, 15, 15, 39]
+application 5
+	pattern  242 : 0.239 [39, 19, 20, 25]
+	pattern  248 : 0.250 [39, 1, 2, 25]
+	pattern  249 : 0.373 [39, 19, 2, 25]
+	pattern  251 : 0.138 [39, 19, 7, 9]
+application 6
+	pattern  283 : 0.422 [39, 10, 10, 39, 2]
+	pattern  285 : 0.578 [39, 10, 8, 39, 16]
+application 7
+	pattern  273 : 0.452 [39, 8, 21, 39, 20, 9, 9, 39, 39]
+	pattern  279 : 0.340 [39, 12, 12, 39, 20, 9, 9, 39, 39]
+	pattern  280 : 0.208 [39, 16, 7, 39, 24, 9, 9, 39, 39]
+application 8
+	pattern  256 : 0.352 [39, 20, 39, 8, 24]
+	pattern  257 : 0.042 [39, 2, 39, 8, 7]
+	pattern  259 : 0.130 [39, 11, 39, 12, 11]
+	pattern  263 : 0.368 [39, 20, 39, 12, 24]
+	pattern  264 : 0.108 [39, 11, 39, 23, 11]
+application 9
+	pattern  443 : 0.052 [39, 8, 2, 39, 39, 8, 8, 39, 8, 39, 8, 9, 9, 39]
+	pattern  449 : 0.028 [39, 23, 11, 39, 39, 8, 23, 39, 23, 39, 23, 9, 23, 39]
+	pattern  450 : 0.369 [39, 8, 2, 39, 39, 2, 8, 39, 8, 39, 8, 25, 9, 39]
+	pattern  453 : 0.042 [39, 23, 18, 39, 39, 20, 23, 39, 23, 39, 23, 25, 23, 39]
+	pattern  454 : 0.129 [39, 23, 18, 39, 39, 20, 23, 39, 23, 39, 23, 9, 23, 39]
+	pattern  456 : 0.380 [39, 23, 18, 39, 39, 8, 23, 39, 23, 39, 23, 9, 23, 39]
+application 10
+	pattern    1 : 0.477 [23, 23, 23, 39, 39]
+	pattern  268 : 0.523 [10, 10, 10, 39, 39]
+application 11
+	pattern  506 : 0.185 [39, 13, 39, 14, 39, 9, 20, 20, 7, 8]
+	pattern  509 : 0.561 [39, 15, 39, 11, 39, 22, 11, 15, 18, 15]
+	pattern  512 : 0.101 [39, 13, 39, 14, 39, 9, 20, 20, 7, 24]
+	pattern  516 : 0.046 [39, 21, 39, 14, 39, 9, 20, 20, 7, 8]
+	pattern  517 : 0.108 [39, 21, 39, 11, 39, 9, 11, 20, 7, 8]
+application 12
+	pattern  264 : 0.111 [39, 13, 8, 39, 39, 39, 19, 39, 39, 16]
+	pattern  269 : 0.199 [39, 15, 15, 39, 39, 39, 19, 39, 39, 15]
+	pattern  270 : 0.270 [39, 15, 15, 39, 39, 39, 25, 39, 39, 16]
+	pattern  279 : 0.420 [39, 21, 8, 39, 39, 39, 19, 39, 39, 16]
+
+discrete RMP : z* = 4923.0
+application patterns : [274, 267, 290, 258, 205, 193, 8, 280, 37, 446, 265, 495, 263]
+discrete RMP success, repair_attempt = 0
+
+total discrete + repair time : 15.65 s
+
+dual 4304.236870842292 primal 4923.0
+
+--------------------------------------------------------------------------------
+
+14 apps, DATASET/networks/network_040_a_rp_3.dat DATASET/apps_merged/id_0078.dat
+
+
+CG :
+
+generated 500 feasible columns - time 5.46 s, actually added 249/500 , min_cost = 227 , avg_cost = 415.034
+
+generated 500 feasible columns - time 1.57 s, actually added 33/500 , min_cost = 70 , avg_cost = 191.672
+
+generated 500 feasible columns - time 32.62 s, actually added 497/500 , min_cost = 616 , avg_cost = 972.21
+
+generated 500 feasible columns - time 4.05 s, actually added 215/500 , min_cost = 30 , avg_cost = 209.282
+
+generated 500 feasible columns - time 5.24 s, actually added 418/500 , min_cost = 342 , avg_cost = 524.1
+
+generated 500 feasible columns - time 17.71 s, actually added 252/500 , min_cost = 200 , avg_cost = 461.304
+
+generated 500 feasible columns - time 10.88 s, actually added 251/500 , min_cost = 454 , avg_cost = 795.372
+
+generated 500 feasible columns - time 11.79 s, actually added 401/500 , min_cost = 422 , avg_cost = 722.326
+
+generated 500 feasible columns - time 12.52 s, actually added 478/500 , min_cost = 431 , avg_cost = 736.708
+
+generated 500 feasible columns - time 15.26 s, actually added 288/500 , min_cost = 304 , avg_cost = 494.318
+
+generated 500 feasible columns - time 1.40 s, actually added 218/500 , min_cost = 160 , avg_cost = 297.62
+
+generated 500 feasible columns - time 18.92 s, actually added 251/500 , min_cost = 304 , avg_cost = 581.07
+
+generated 500 feasible columns - time 8.91 s, actually added 250/500 , min_cost = 160 , avg_cost = 418.254
+
+generated 500 feasible columns - time 49.07 s, actually added 495/500 , min_cost = 593 , avg_cost = 1038.038
+# iterations : 50
+master obj val : 6939.589914509703
+LR dual bound : 6939.589914509703
+CG time : 369.710s
+
+application 0
+	pattern  278 : 0.218 [39, 39, 12, 32, 26, 12]
+	pattern  283 : 0.141 [39, 39, 12, 7, 18, 12]
+	pattern  290 : 0.388 [39, 39, 12, 15, 26, 12]
+	pattern  291 : 0.253 [39, 39, 12, 7, 26, 12]
+application 1
+	pattern   38 : 0.189 [39, 21, 39]
+	pattern   40 : 0.402 [39, 7, 39]
+	pattern   45 : 0.409 [39, 17, 39]
+application 2
+	pattern  531 : 0.050 [39, 15, 5, 39, 0, 12, 33, 0, 12, 5, 7, 1]
+	pattern  535 : 0.024 [39, 20, 5, 39, 8, 0, 18, 8, 0, 5, 3, 3]
+	pattern  538 : 0.185 [39, 15, 5, 39, 0, 0, 9, 0, 12, 5, 3, 1]
+	pattern  542 : 0.354 [39, 9, 5, 39, 0, 0, 33, 0, 12, 5, 3, 4]
+	pattern  543 : 0.144 [39, 26, 5, 39, 8, 0, 33, 8, 0, 5, 3, 1]
+	pattern  544 : 0.037 [39, 10, 5, 39, 0, 8, 33, 0, 12, 8, 15, 4]
+	pattern  545 : 0.186 [39, 15, 5, 39, 0, 8, 33, 0, 12, 5, 13, 1]
+	pattern  546 : 0.019 [39, 9, 5, 39, 0, 0, 33, 0, 0, 5, 3, 4]
+application 3
+	pattern    1 : 1.000 [39, 39, 39]
+application 4
+	pattern    0 : 0.640 [None, None, None, None, None, None, None]
+	pattern  461 : 0.035 [39, 1, 2, 24, 8, 26, 30]
+	pattern  463 : 0.027 [39, 1, 13, 27, 8, 26, 2]
+	pattern  465 : 0.202 [39, 1, 13, 24, 8, 26, 2]
+	pattern  467 : 0.095 [39, 9, 13, 24, 8, 26, 2]
+application 5
+	pattern  272 : 0.017 [39, 10, 39, 24, 24, 39, 39, 39]
+	pattern  273 : 0.911 [39, 29, 39, 17, 17, 39, 39, 39]
+	pattern  281 : 0.072 [39, 29, 39, 8, 20, 39, 39, 39]
+application 6
+	pattern  275 : 0.025 [39, 39, 39, 8, 8, 24, 39, 27, 10, 8, 8, 26]
+	pattern  277 : 0.025 [39, 39, 39, 8, 8, 24, 39, 27, 26, 8, 8, 9]
+	pattern  279 : 0.032 [39, 39, 39, 8, 8, 24, 39, 27, 10, 8, 8, 9]
+	pattern  282 : 0.918 [39, 39, 39, 8, 8, 24, 39, 27, 10, 8, 8, 18]
+application 7
+	pattern  440 : 0.141 [8, 8, 39, 24, 33, 26, 5, 1, 39, 39, 39]
+	pattern  441 : 0.460 [8, 8, 39, 24, 33, 18, 5, 1, 39, 39, 39]
+	pattern  442 : 0.088 [8, 8, 39, 24, 9, 26, 25, 1, 39, 39, 39]
+	pattern  444 : 0.230 [8, 8, 39, 24, 9, 26, 12, 1, 39, 39, 39]
+	pattern  447 : 0.069 [8, 8, 39, 24, 9, 26, 0, 1, 39, 39, 39]
+	pattern  448 : 0.009 [8, 8, 39, 21, 9, 26, 12, 1, 39, 39, 39]
+	pattern  450 : 0.004 [8, 8, 39, 21, 9, 26, 5, 1, 39, 39, 39]
+application 8
+	pattern  507 : 0.571 [12, 39, 5, 21, 36, 4, 21, 21, 39, 39, 39]
+	pattern  520 : 0.028 [17, 39, 5, 21, 36, 4, 21, 20, 39, 39, 39]
+	pattern  523 : 0.277 [8, 39, 5, 21, 36, 4, 21, 20, 39, 39, 39]
+	pattern  524 : 0.025 [17, 39, 5, 21, 36, 4, 12, 15, 39, 39, 39]
+	pattern  526 : 0.058 [17, 39, 5, 21, 36, 4, 0, 0, 39, 39, 39]
+	pattern  527 : 0.041 [8, 39, 5, 21, 36, 4, 21, 21, 39, 39, 39]
+application 9
+	pattern  323 : 0.168 [39, 32, 3, 7, 4, 20, 39]
+	pattern  329 : 0.209 [39, 13, 3, 7, 11, 21, 39]
+	pattern  331 : 0.082 [39, 32, 2, 29, 4, 7, 39]
+	pattern  333 : 0.074 [39, 32, 3, 7, 11, 20, 39]
+	pattern  335 : 0.467 [39, 32, 3, 7, 11, 21, 39]
+application 10
+	pattern  247 : 0.424 [39, 0, 25, 0]
+	pattern  251 : 0.576 [39, 8, 25, 8]
+application 11
+	pattern  276 : 0.307 [39, 39, 0, 20, 3, 39, 3, 0, 39]
+	pattern  290 : 0.293 [39, 39, 0, 24, 11, 39, 13, 0, 39]
+	pattern  297 : 0.015 [39, 39, 0, 10, 36, 39, 13, 0, 39]
+	pattern  298 : 0.385 [39, 39, 0, 20, 3, 39, 13, 0, 39]
+application 12
+	pattern  282 : 1.000 [39, 12, 39, 39, 39, 11, 39, 39]
+application 13
+	pattern  530 : 0.411 [39, 9, 30, 15, 24, 39, 39, 39, 39, 13, 8, 13, 2, 25, 39]
+	pattern  538 : 0.272 [39, 18, 30, 10, 24, 39, 39, 39, 39, 25, 8, 13, 2, 5, 39]
+	pattern  542 : 0.104 [39, 9, 30, 21, 24, 39, 39, 39, 39, 5, 8, 13, 2, 25, 39]
+	pattern  543 : 0.143 [39, 9, 30, 10, 24, 39, 39, 39, 39, 13, 8, 13, 2, 25, 39]
+	pattern  544 : 0.067 [39, 18, 30, 10, 12, 39, 39, 39, 39, 25, 8, 21, 11, 5, 39]
+	pattern  545 : 0.003 [39, 18, 30, 10, 12, 39, 39, 39, 39, 25, 8, 12, 11, 5, 39]
+[91m
+INFEASIBLE INSTANCE : we are still using a dummy column[0m
+
+dual INFEASIBLE INSTANCE primal None
+
+--------------------------------------------------------------------------------
+
+14 apps, DATASET/networks/network_040_b_rp_4.dat DATASET/apps_merged/id_0079.dat
+
+
+CG :
+
+generated 500 feasible columns - time 16.82 s, actually added 342/500 , min_cost = 340 , avg_cost = 700.566
+
+generated 500 feasible columns - time 5.45 s, actually added 250/500 , min_cost = 159 , avg_cost = 345.052
+
+generated 500 feasible columns - time 101.33 s, actually added 500/500 , min_cost = 597 , avg_cost = 846.514
+
+generated 500 feasible columns - time 12.01 s, actually added 250/500 , min_cost = 374 , avg_cost = 695.476
+
+generated 500 feasible columns - time 18.74 s, actually added 250/500 , min_cost = 343 , avg_cost = 724.05
+
+generated 500 feasible columns - time 15.70 s, actually added 465/500 , min_cost = 516 , avg_cost = 863.18
+
+generated 500 feasible columns - time 14.32 s, actually added 367/500 , min_cost = 339 , avg_cost = 694.178
+
+generated 500 feasible columns - time 40.17 s, actually added 281/500 , min_cost = 486 , avg_cost = 945.648
+
+generated 500 feasible columns - time 1.77 s, actually added 49/500 , min_cost = 70 , avg_cost = 169.398
+
+generated 500 feasible columns - time 2.28 s, actually added 234/500 , min_cost = 138 , avg_cost = 261.478
+
+generated 500 feasible columns - time 95.74 s, actually added 437/500 , min_cost = 629 , avg_cost = 1108.736
+
+generated 500 feasible columns - time 13.99 s, actually added 318/500 , min_cost = 376 , avg_cost = 576.582
+
+generated 500 feasible columns - time 32.85 s, actually added 500/500 , min_cost = 620 , avg_cost = 1012.038
+
+generated 500 feasible columns - time 7.41 s, actually added 258/500 , min_cost = 257 , avg_cost = 393.76
+# iterations : 44
+master obj val : 6400.677971897585
+LR dual bound : 6396.972963890654
+CG time : 655.965s
+
+application 0
+	pattern  374 : 0.225 [39, 39, 39, 1, 1, 3, 10, 39, 39, 39, 5]
+	pattern  376 : 0.051 [39, 39, 39, 1, 1, 3, 5, 39, 39, 39, 15]
+	pattern  377 : 0.526 [39, 39, 39, 1, 1, 3, 10, 39, 39, 39, 16]
+	pattern  383 : 0.039 [39, 39, 39, 1, 1, 11, 5, 39, 39, 39, 20]
+	pattern  384 : 0.160 [39, 39, 39, 1, 1, 11, 10, 39, 39, 39, 15]
+application 1
+	pattern  273 : 0.056 [39, 39, 22, 35, 39]
+	pattern  275 : 0.944 [39, 39, 15, 35, 39]
+application 2
+	pattern  533 : 0.197 [39, 39, 24, 18, 5, 39, 5, 25, 19, 20, 2]
+	pattern  539 : 0.178 [39, 39, 9, 11, 8, 39, 8, 25, 5, 20, 9]
+	pattern  540 : 0.071 [39, 39, 12, 18, 10, 39, 10, 25, 19, 20, 12]
+	pattern  541 : 0.188 [39, 39, 20, 18, 25, 39, 25, 25, 19, 20, 20]
+	pattern  542 : 0.019 [39, 39, 19, 11, 25, 39, 25, 25, 5, 20, 19]
+	pattern  543 : 0.020 [39, 39, 9, 6, 8, 39, 25, 25, 16, 20, 9]
+	pattern  544 : 0.327 [39, 39, 9, 18, 8, 39, 8, 25, 19, 20, 9]
+application 3
+	pattern  270 : 0.464 [9, 39, 1, 1, 1, 39, 12, 12, 39, 39, 39]
+	pattern  272 : 0.414 [9, 39, 8, 9, 8, 39, 12, 12, 39, 39, 39]
+	pattern  279 : 0.087 [9, 39, 10, 10, 10, 39, 12, 12, 39, 39, 39]
+	pattern  280 : 0.035 [9, 39, 25, 20, 25, 39, 12, 12, 39, 39, 39]
+application 4
+	pattern  277 : 0.456 [39, 25, 25, 39, 39, 39, 14, 8, 39, 9, 39, 39]
+	pattern  280 : 0.133 [39, 25, 25, 39, 39, 39, 35, 8, 39, 12, 39, 39]
+	pattern  282 : 0.411 [39, 25, 25, 39, 39, 39, 14, 8, 39, 12, 39, 39]
+application 5
+	pattern  496 : 0.349 [1, 1, 1, 39, 16, 16, 16, 2, 7, 39, 39, 39]
+	pattern  499 : 0.072 [1, 1, 1, 39, 22, 15, 15, 22, 24, 39, 39, 39]
+	pattern  501 : 0.203 [1, 1, 1, 39, 7, 7, 7, 2, 24, 39, 39, 39]
+	pattern  503 : 0.153 [25, 8, 25, 39, 2, 15, 15, 22, 16, 39, 39, 39]
+	pattern  506 : 0.019 [1, 1, 1, 39, 2, 11, 11, 5, 5, 39, 39, 39]
+	pattern  508 : 0.205 [25, 8, 25, 39, 7, 7, 7, 22, 16, 39, 39, 39]
+application 6
+	pattern  398 : 0.660 [39, 25, 39, 25, 5, 39, 8, 39, 39, 19, 39]
+	pattern  406 : 0.216 [39, 10, 39, 25, 5, 39, 10, 39, 39, 19, 39]
+	pattern  407 : 0.123 [39, 10, 39, 25, 5, 39, 10, 39, 39, 7, 39]
+application 7
+	pattern  319 : 0.141 [39, 10, 9, 39, 39, 24, 9, 39, 8, 21, 39, 39, 39, 24]
+	pattern  320 : 0.226 [39, 8, 9, 39, 39, 24, 13, 39, 8, 21, 39, 39, 39, 24]
+	pattern  323 : 0.336 [39, 10, 9, 39, 39, 16, 13, 39, 8, 17, 39, 39, 39, 16]
+	pattern  324 : 0.255 [39, 10, 9, 39, 39, 24, 13, 39, 8, 17, 39, 39, 39, 11]
+	pattern  325 : 0.042 [39, 10, 9, 39, 39, 24, 13, 39, 8, 21, 39, 39, 39, 24]
+application 8
+	pattern   57 : 0.163 [39, 39, 29]
+	pattern   61 : 0.319 [39, 39, 3]
+	pattern   64 : 0.461 [39, 39, 7]
+	pattern   66 : 0.056 [39, 39, 11]
+application 9
+	pattern  262 : 0.108 [39, 17, 16, 39]
+	pattern  263 : 0.217 [39, 18, 7, 39]
+	pattern  266 : 0.306 [39, 22, 16, 39]
+	pattern  270 : 0.285 [39, 17, 24, 39]
+	pattern  274 : 0.085 [39, 17, 7, 39]
+application 10
+	pattern  468 : 0.447 [39, 19, 5, 14, 39, 39, 8, 16, 39, 18, 39, 39, 12, 19, 19]
+	pattern  469 : 0.010 [39, 11, 5, 7, 39, 39, 10, 3, 39, 11, 39, 39, 12, 5, 5]
+	pattern  473 : 0.037 [39, 8, 5, 14, 39, 39, 8, 24, 39, 13, 39, 39, 12, 8, 12]
+	pattern  475 : 0.061 [39, 15, 5, 16, 39, 39, 10, 16, 39, 13, 39, 39, 12, 15, 12]
+	pattern  476 : 0.144 [39, 15, 5, 19, 39, 39, 5, 24, 39, 14, 39, 39, 9, 15, 5]
+	pattern  478 : 0.143 [39, 10, 5, 5, 39, 39, 5, 11, 39, 11, 39, 39, 12, 10, 5]
+	pattern  481 : 0.158 [39, 15, 5, 16, 39, 39, 10, 7, 39, 14, 39, 39, 9, 15, 16]
+application 11
+	pattern  355 : 0.569 [39, 10, 24, 11, 10, 17, 22]
+	pattern  358 : 0.346 [39, 10, 7, 22, 10, 27, 2]
+	pattern  360 : 0.085 [39, 5, 7, 16, 5, 22, 2]
+application 12
+	pattern  534 : 0.161 [39, 39, 39, 17, 25, 21, 9, 15, 39, 5, 39, 39, 39, 27]
+	pattern  542 : 0.450 [39, 39, 39, 11, 25, 21, 20, 15, 39, 5, 39, 39, 39, 27]
+	pattern  543 : 0.180 [39, 39, 39, 6, 25, 21, 5, 5, 39, 7, 39, 39, 39, 27]
+	pattern  544 : 0.209 [39, 39, 39, 6, 25, 13, 15, 5, 39, 10, 39, 39, 39, 6]
+application 13
+	pattern  285 : 0.585 [39, 20, 10, 6, 6]
+	pattern  289 : 0.415 [39, 13, 8, 21, 6]
+
+discrete RMP : z* = 8213.0
+application patterns : [367, 263, 536, 276, 263, 488, 391, 320, 64, 262, 452, 0, 522, 0]
+discrete RMP fail
+
+total discrete + repair time : 317.93 s
+
+dual 6396.972963890654 primal None
+
+--------------------------------------------------------------------------------
+
+14 apps, DATASET/networks/network_040_d_rp_1.dat DATASET/apps_merged/id_0080.dat
+
+
+CG :
+
+generated 500 feasible columns - time 44.65 s, actually added 249/500 , min_cost = 190 , avg_cost = 377.146
+
+generated 500 feasible columns - time 18.39 s, actually added 259/500 , min_cost = 476 , avg_cost = 793.368
+
+generated 500 feasible columns - time 13.44 s, actually added 298/500 , min_cost = 349 , avg_cost = 680.62
+
+generated 500 feasible columns - time 10.34 s, actually added 435/500 , min_cost = 345 , avg_cost = 581.466
+
+generated 500 feasible columns - time 32.85 s, actually added 258/500 , min_cost = 664 , avg_cost = 988.62
+
+generated 500 feasible columns - time 77.25 s, actually added 476/500 , min_cost = 460 , avg_cost = 831.274
+
+generated 500 feasible columns - time 114.76 s, actually added 455/500 , min_cost = 324 , avg_cost = 664.93
+
+generated 500 feasible columns - time 19.99 s, actually added 342/500 , min_cost = 451 , avg_cost = 797.954
+
+generated 500 feasible columns - time 10.28 s, actually added 355/500 , min_cost = 275 , avg_cost = 499.166
+
+generated 500 feasible columns - time 9.45 s, actually added 480/500 , min_cost = 429 , avg_cost = 717.444
+
+generated 500 feasible columns - time 24.15 s, actually added 490/500 , min_cost = 400 , avg_cost = 774.078
+
+generated 500 feasible columns - time 18.29 s, actually added 291/500 , min_cost = 203 , avg_cost = 415.922
+
+generated 500 feasible columns - time 8.77 s, actually added 443/500 , min_cost = 271 , avg_cost = 446.696
+
+generated 500 feasible columns - time 49.70 s, actually added 316/500 , min_cost = 219 , avg_cost = 473.724
+# iterations : 48
+master obj val : 5976.091755198704
+LR dual bound : 5971.193348619001
+CG time : 822.071s
+
+application 0
+	pattern  268 : 0.233 [39, 39, 6, 11, 39, 39]
+	pattern  273 : 0.572 [39, 39, 16, 19, 39, 39]
+	pattern  279 : 0.195 [39, 39, 15, 16, 39, 39]
+application 1
+	pattern  294 : 0.216 [39, 1, 39, 39, 39, 0, 39, 12, 13, 39, 0, 6, 12, 39]
+	pattern  296 : 0.388 [39, 12, 39, 39, 39, 20, 39, 24, 12, 39, 0, 2, 16, 39]
+	pattern  299 : 0.120 [39, 12, 39, 39, 39, 20, 39, 24, 12, 39, 0, 2, 11, 39]
+	pattern  304 : 0.027 [39, 12, 39, 39, 39, 20, 39, 10, 12, 39, 0, 2, 16, 39]
+	pattern  305 : 0.246 [39, 12, 39, 39, 39, 20, 39, 14, 12, 39, 0, 2, 5, 39]
+	pattern  306 : 0.003 [39, 1, 39, 39, 39, 0, 39, 15, 13, 39, 0, 9, 16, 39]
+application 2
+	pattern  335 : 1.000 [0, 0, 0, 13, 39, 39, 13, 11, 39, 39]
+application 3
+	pattern  475 : 0.053 [39, 7, 39, 6, 10, 28, 39, 11, 39]
+	pattern  477 : 0.256 [39, 7, 39, 6, 22, 22, 39, 9, 39]
+	pattern  478 : 0.531 [39, 7, 39, 6, 10, 28, 39, 17, 39]
+	pattern  480 : 0.087 [39, 7, 39, 9, 10, 28, 39, 15, 39]
+	pattern  482 : 0.072 [39, 7, 39, 6, 26, 26, 39, 15, 39]
+application 4
+	pattern  295 : 0.400 [39, 20, 0, 0, 9, 15, 0, 0, 13, 39, 39, 24, 39, 17, 0]
+	pattern  300 : 0.082 [39, 17, 0, 0, 13, 22, 0, 0, 20, 39, 39, 8, 39, 17, 0]
+	pattern  301 : 0.005 [39, 7, 0, 0, 22, 22, 0, 0, 13, 39, 39, 24, 39, 17, 0]
+	pattern  302 : 0.212 [39, 7, 0, 0, 13, 15, 0, 0, 7, 39, 39, 8, 39, 17, 0]
+	pattern  303 : 0.031 [39, 1, 0, 20, 13, 9, 0, 20, 4, 39, 39, 17, 39, 12, 20]
+	pattern  304 : 0.077 [39, 13, 0, 7, 13, 9, 0, 7, 20, 39, 39, 8, 39, 17, 7]
+	pattern  305 : 0.017 [39, 13, 0, 17, 1, 15, 0, 7, 13, 39, 39, 8, 39, 17, 0]
+	pattern  306 : 0.175 [39, 13, 0, 0, 13, 9, 0, 0, 4, 39, 39, 17, 39, 24, 0]
+application 5
+	pattern  501 : 0.260 [39, 7, 39, 39, 39, 39, 22, 7, 7, 26, 39, 39, 28, 39]
+	pattern  506 : 0.194 [39, 7, 39, 39, 39, 39, 6, 7, 7, 19, 39, 39, 28, 39]
+	pattern  513 : 0.241 [39, 20, 39, 39, 39, 39, 2, 7, 7, 19, 39, 39, 6, 39]
+	pattern  517 : 0.044 [39, 7, 39, 39, 39, 39, 22, 20, 20, 25, 39, 39, 26, 39]
+	pattern  518 : 0.055 [39, 7, 39, 39, 39, 39, 6, 7, 7, 26, 39, 39, 6, 39]
+	pattern  520 : 0.176 [39, 7, 39, 39, 39, 39, 22, 20, 20, 25, 39, 39, 6, 39]
+	pattern  521 : 0.030 [39, 7, 39, 39, 39, 39, 6, 20, 20, 25, 39, 39, 28, 39]
+application 6
+	pattern   44 : 0.196 [39, 22, 22, 4, 39, 39, 39, 39, 22, 39, 39]
+	pattern  478 : 0.361 [39, 6, 2, 1, 39, 39, 39, 39, 9, 39, 39]
+	pattern  483 : 0.377 [39, 22, 4, 22, 39, 39, 39, 39, 22, 39, 39]
+	pattern  485 : 0.038 [39, 6, 20, 1, 39, 39, 39, 39, 9, 39, 39]
+	pattern  488 : 0.028 [39, 6, 2, 1, 39, 39, 39, 39, 2, 39, 39]
+application 7
+	pattern  380 : 0.002 [39, 39, 39, 9, 39, 4, 7, 39, 1, 39, 20, 20, 2]
+	pattern  382 : 0.110 [39, 39, 39, 28, 39, 4, 20, 39, 15, 39, 20, 20, 20]
+	pattern  383 : 0.083 [39, 39, 39, 6, 39, 2, 20, 39, 1, 39, 20, 20, 12]
+	pattern  384 : 0.372 [39, 39, 39, 28, 39, 2, 0, 39, 15, 39, 20, 20, 20]
+	pattern  385 : 0.044 [39, 39, 39, 9, 39, 4, 0, 39, 1, 39, 20, 20, 13]
+	pattern  386 : 0.112 [39, 39, 39, 9, 39, 2, 20, 39, 1, 39, 20, 20, 1]
+	pattern  387 : 0.277 [39, 39, 39, 9, 39, 2, 7, 39, 1, 39, 20, 20, 1]
+application 8
+	pattern  396 : 0.253 [39, 8, 26, 1, 39, 7, 39, 39]
+	pattern  397 : 0.043 [39, 8, 26, 13, 39, 7, 39, 39]
+	pattern  400 : 0.588 [39, 8, 22, 1, 39, 7, 39, 39]
+	pattern  403 : 0.115 [39, 24, 26, 9, 39, 7, 39, 39]
+application 9
+	pattern  506 : 0.582 [39, 39, 39, 10, 9, 39, 39, 11, 7, 16, 25]
+	pattern  517 : 0.219 [39, 39, 39, 13, 9, 39, 39, 16, 20, 16, 25]
+	pattern  525 : 0.200 [39, 39, 39, 10, 9, 39, 39, 16, 7, 16, 28]
+application 10
+	pattern  530 : 0.377 [39, 39, 39, 17, 39, 39, 39, 39, 19, 39, 0, 28, 15]
+	pattern  534 : 0.073 [39, 39, 39, 8, 39, 39, 39, 39, 5, 39, 0, 28, 15]
+	pattern  537 : 0.114 [39, 39, 39, 24, 39, 39, 39, 39, 16, 39, 7, 28, 15]
+	pattern  538 : 0.436 [39, 39, 39, 8, 39, 39, 39, 39, 5, 39, 7, 26, 15]
+application 11
+	pattern  321 : 0.638 [39, 39, 18, 39, 5, 7]
+	pattern  328 : 0.083 [39, 39, 25, 39, 16, 7]
+	pattern  331 : 0.126 [39, 39, 28, 39, 26, 7]
+	pattern  333 : 0.153 [39, 39, 18, 39, 26, 7]
+application 12
+	pattern  483 : 0.174 [39, 4, 39, 2, 15, 39, 15]
+	pattern  484 : 0.448 [39, 4, 39, 2, 9, 39, 9]
+	pattern  487 : 0.378 [39, 4, 39, 2, 22, 39, 22]
+application 13
+	pattern  334 : 1.000 [39, 0, 39, 4, 26, 39, 39]
+
+discrete RMP : z* = 8143.0
+application patterns : [271, 292, 323, 475, 302, 491, 483, 390, 368, 0, 516, 297, 238, 329]
+discrete RMP fail
+
+total discrete + repair time : 666.23 s
+
+dual 5971.193348619001 primal None
+
+--------------------------------------------------------------------------------
+
+15 apps, DATASET/networks/network_040_b_rp_3.dat DATASET/apps_merged/id_0081.dat
+
+
+CG :
+
+generated 500 feasible columns - time 12.70 s, actually added 251/500 , min_cost = 131 , avg_cost = 368.332
+
+generated 1 feasible columns - time 87.55 s, actually added 1/1 , min_cost = 1063 , avg_cost = 1063.0
+
+generated 500 feasible columns - time 19.84 s, actually added 283/500 , min_cost = 549 , avg_cost = 831.282
+
+generated 500 feasible columns - time 43.81 s, actually added 471/500 , min_cost = 483 , avg_cost = 662.426
+
+generated 500 feasible columns - time 95.31 s, actually added 493/500 , min_cost = 540 , avg_cost = 853.344
+
+generated 500 feasible columns - time 17.77 s, actually added 273/500 , min_cost = 382 , avg_cost = 591.0
+
+generated 500 feasible columns - time 16.57 s, actually added 253/500 , min_cost = 324 , avg_cost = 574.94
+
+generated 500 feasible columns - time 25.38 s, actually added 250/500 , min_cost = 277 , avg_cost = 421.524
+
+generated 500 feasible columns - time 35.38 s, actually added 252/500 , min_cost = 327 , avg_cost = 436.01
+
+generated 500 feasible columns - time 14.35 s, actually added 173/500 , min_cost = 233 , avg_cost = 323.518
+
+generated 500 feasible columns - time 57.41 s, actually added 500/500 , min_cost = 590 , avg_cost = 848.77
+
+generated 500 feasible columns - time 38.90 s, actually added 287/500 , min_cost = 477 , avg_cost = 769.582
+
+generated 500 feasible columns - time 9.76 s, actually added 251/500 , min_cost = 265 , avg_cost = 432.094
+
+generated 500 feasible columns - time 8.67 s, actually added 274/500 , min_cost = 313 , avg_cost = 502.058
+
+generated 500 feasible columns - time 48.09 s, actually added 500/500 , min_cost = 692 , avg_cost = 1014.638
+# iterations : 45
+master obj val : 9390.307782694557
+LR dual bound : 9390.307782694557
+CG time : 816.319s
+
+application 0
+	pattern    1 : 0.823 [39, 39, 39, 39, 25, 39, 39, 39]
+	pattern  256 : 0.177 [39, 39, 39, 39, 19, 39, 39, 39]
+application 1
+	pattern    0 : 0.640 [None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+	pattern   19 : 0.293 [39, 32, 21, 13, 15, 15, 20, 20, 37, 39, 22, 15, 39, 5, 14]
+	pattern   30 : 0.067 [39, 0, 15, 21, 15, 12, 14, 20, 37, 39, 22, 16, 39, 5, 14]
+application 2
+	pattern  295 : 0.044 [39, 39, 39, 12, 12, 37, 39, 18, 6, 12, 12, 18]
+	pattern  301 : 0.075 [39, 39, 39, 23, 23, 10, 39, 11, 10, 23, 23, 34]
+	pattern  312 : 0.317 [39, 39, 39, 23, 23, 10, 39, 31, 10, 23, 23, 34]
+	pattern  314 : 0.230 [39, 39, 39, 23, 23, 37, 39, 11, 6, 23, 23, 34]
+	pattern  318 : 0.176 [39, 39, 39, 23, 23, 11, 39, 18, 11, 23, 23, 18]
+	pattern  319 : 0.103 [39, 39, 39, 12, 12, 11, 39, 31, 11, 12, 12, 34]
+	pattern  320 : 0.055 [39, 39, 39, 12, 12, 11, 39, 24, 11, 12, 12, 34]
+application 3
+	pattern  497 : 0.003 [39, 39, 25, 6, 0, 15, 20, 3, 4]
+	pattern  500 : 0.315 [39, 39, 25, 0, 14, 15, 20, 4, 22]
+	pattern  501 : 0.569 [39, 39, 12, 6, 32, 20, 12, 3, 4]
+	pattern  504 : 0.025 [39, 39, 12, 6, 32, 15, 12, 3, 4]
+	pattern  506 : 0.034 [39, 39, 25, 6, 7, 20, 16, 5, 4]
+	pattern  508 : 0.051 [39, 39, 25, 0, 14, 20, 20, 5, 4]
+	pattern  509 : 0.003 [39, 39, 25, 6, 15, 20, 15, 5, 4]
+application 4
+	pattern  515 : 0.334 [39, 15, 8, 39, 39, 39, 39, 9, 15, 39, 9, 39, 22, 39, 19]
+	pattern  516 : 0.055 [39, 20, 8, 39, 39, 39, 39, 25, 24, 39, 9, 39, 9, 39, 19]
+	pattern  521 : 0.089 [39, 24, 15, 39, 39, 39, 39, 25, 20, 39, 25, 39, 19, 39, 19]
+	pattern  523 : 0.389 [39, 13, 8, 39, 39, 39, 39, 9, 20, 39, 9, 39, 24, 39, 19]
+	pattern  526 : 0.051 [39, 7, 15, 39, 39, 39, 39, 25, 16, 39, 25, 39, 22, 39, 19]
+	pattern  530 : 0.083 [39, 20, 8, 39, 39, 39, 39, 9, 24, 39, 25, 39, 9, 39, 19]
+application 5
+	pattern  296 : 0.499 [39, 23, 8, 9, 23, 16, 23]
+	pattern  297 : 0.086 [39, 10, 8, 25, 10, 21, 10]
+	pattern  305 : 0.400 [39, 23, 15, 4, 23, 15, 23]
+	pattern  308 : 0.015 [39, 23, 8, 9, 23, 24, 23]
+application 6
+	pattern  278 : 0.254 [39, 39, 32, 20, 13, 39, 15, 39, 39, 39]
+	pattern  282 : 0.055 [39, 39, 34, 20, 13, 39, 15, 39, 39, 39]
+	pattern  283 : 0.235 [39, 39, 18, 37, 18, 39, 15, 39, 39, 39]
+	pattern  285 : 0.436 [39, 39, 18, 37, 7, 39, 15, 39, 39, 39]
+	pattern  289 : 0.019 [39, 39, 18, 37, 13, 39, 15, 39, 39, 39]
+application 7
+	pattern  266 : 0.286 [39, 3, 8, 21, 39, 8]
+	pattern  271 : 0.418 [39, 22, 8, 21, 39, 8]
+	pattern  273 : 0.202 [39, 3, 12, 16, 39, 12]
+	pattern  282 : 0.094 [39, 19, 12, 16, 39, 12]
+application 8
+	pattern  270 : 0.128 [39, 13, 5, 6, 29, 18, 39]
+	pattern  275 : 0.236 [39, 19, 4, 2, 29, 15, 39]
+	pattern  280 : 0.095 [39, 22, 5, 6, 3, 18, 39]
+	pattern  283 : 0.168 [39, 19, 4, 2, 5, 15, 39]
+	pattern  284 : 0.046 [39, 19, 5, 6, 29, 18, 39]
+	pattern  288 : 0.315 [39, 19, 22, 2, 29, 15, 39]
+	pattern  289 : 0.011 [39, 19, 22, 21, 29, 15, 39]
+application 9
+	pattern  179 : 0.132 [39, 7, 16, 39, 7]
+	pattern  184 : 0.002 [39, 16, 7, 39, 2]
+	pattern  194 : 0.486 [39, 16, 7, 39, 7]
+	pattern  202 : 0.380 [39, 16, 2, 39, 7]
+application 10
+	pattern  524 : 0.029 [39, 12, 39, 17, 24, 31, 12, 7, 39, 39, 12, 8]
+	pattern  532 : 0.088 [39, 8, 39, 24, 20, 31, 8, 2, 39, 39, 8, 8]
+	pattern  534 : 0.123 [39, 8, 39, 24, 12, 31, 8, 16, 39, 39, 8, 12]
+	pattern  535 : 0.379 [39, 23, 39, 23, 23, 11, 23, 2, 39, 39, 23, 23]
+	pattern  538 : 0.239 [39, 8, 39, 8, 24, 31, 8, 2, 39, 39, 8, 8]
+	pattern  539 : 0.141 [39, 8, 39, 24, 12, 31, 8, 7, 39, 39, 8, 12]
+application 11
+	pattern  314 : 0.546 [39, 8, 39, 39, 39, 9, 8, 39, 9, 39, 9, 8, 9]
+	pattern  319 : 0.196 [39, 15, 39, 39, 39, 25, 20, 39, 33, 39, 5, 15, 4]
+	pattern  320 : 0.073 [39, 12, 39, 39, 39, 1, 15, 39, 33, 39, 5, 12, 4]
+	pattern  322 : 0.078 [39, 12, 39, 39, 39, 1, 15, 39, 33, 39, 25, 12, 4]
+	pattern  324 : 0.106 [39, 8, 39, 39, 39, 9, 8, 39, 9, 39, 33, 8, 9]
+application 12
+	pattern  278 : 0.580 [39, 39, 0, 19, 11, 5]
+	pattern  282 : 0.010 [39, 39, 32, 22, 6, 3]
+	pattern  283 : 0.312 [39, 39, 0, 22, 11, 3]
+	pattern  284 : 0.098 [39, 39, 18, 19, 18, 5]
+application 13
+	pattern  293 : 0.533 [10, 29, 10, 39, 1, 1, 39, 39]
+	pattern  300 : 0.089 [12, 33, 18, 39, 25, 19, 39, 39]
+	pattern  304 : 0.177 [10, 29, 10, 39, 25, 19, 39, 39]
+	pattern  306 : 0.202 [12, 33, 18, 39, 9, 9, 39, 39]
+application 14
+	pattern  515 : 0.059 [39, 9, 8, 20, 0, 20, 17, 1, 1, 39, 4, 14, 39, 39, 39]
+	pattern  530 : 0.249 [39, 9, 8, 8, 24, 20, 17, 1, 1, 39, 34, 14, 39, 39, 39]
+	pattern  531 : 0.075 [39, 9, 8, 8, 0, 14, 17, 1, 1, 39, 3, 34, 39, 39, 39]
+	pattern  535 : 0.220 [39, 25, 8, 20, 0, 20, 17, 1, 1, 39, 3, 14, 39, 39, 39]
+	pattern  537 : 0.052 [39, 25, 8, 20, 14, 14, 17, 1, 1, 39, 4, 34, 39, 39, 39]
+	pattern  539 : 0.090 [39, 9, 8, 20, 0, 14, 17, 1, 1, 39, 3, 14, 39, 39, 39]
+	pattern  540 : 0.003 [39, 9, 8, 20, 0, 20, 17, 1, 1, 39, 34, 14, 39, 39, 39]
+	pattern  541 : 0.022 [39, 25, 8, 20, 14, 14, 17, 10, 29, 39, 4, 18, 39, 39, 39]
+	pattern  542 : 0.090 [39, 25, 8, 8, 0, 14, 17, 1, 1, 39, 34, 14, 39, 39, 39]
+	pattern  543 : 0.009 [39, 9, 8, 20, 14, 20, 17, 1, 1, 39, 4, 18, 39, 39, 39]
+	pattern  544 : 0.016 [39, 9, 8, 20, 24, 20, 17, 1, 1, 39, 3, 14, 39, 39, 39]
+	pattern  545 : 0.114 [39, 9, 8, 20, 14, 14, 17, 1, 1, 39, 3, 34, 39, 39, 39]
+[91m
+INFEASIBLE INSTANCE : we are still using a dummy column[0m
+
+dual INFEASIBLE INSTANCE primal None
+
+--------------------------------------------------------------------------------
+
+15 apps, DATASET/networks/network_040_a_rp_4.dat DATASET/apps_merged/id_0082.dat
+
+
+CG :
+
+generated 500 feasible columns - time 10.78 s, actually added 249/500 , min_cost = 249 , avg_cost = 373.464
+
+generated 500 feasible columns - time 15.70 s, actually added 259/500 , min_cost = 274 , avg_cost = 568.56
+
+generated 500 feasible columns - time 33.18 s, actually added 497/500 , min_cost = 558 , avg_cost = 960.472
+
+generated 500 feasible columns - time 15.88 s, actually added 302/500 , min_cost = 393 , avg_cost = 778.458
+
+generated 500 feasible columns - time 2.15 s, actually added 221/500 , min_cost = 167 , avg_cost = 272.728
+
+generated 500 feasible columns - time 12.73 s, actually added 256/500 , min_cost = 422 , avg_cost = 792.698
+
+generated 500 feasible columns - time 41.40 s, actually added 308/500 , min_cost = 255 , avg_cost = 372.242
+
+generated 500 feasible columns - time 24.45 s, actually added 210/500 , min_cost = 208 , avg_cost = 287.294
+
+generated 500 feasible columns - time 15.98 s, actually added 255/500 , min_cost = 325 , avg_cost = 513.944
+
+generated 500 feasible columns - time 21.90 s, actually added 262/500 , min_cost = 410 , avg_cost = 797.966
+
+generated 500 feasible columns - time 2.47 s, actually added 82/500 , min_cost = 77 , avg_cost = 181.954
+
+generated 500 feasible columns - time 3.31 s, actually added 217/500 , min_cost = 134 , avg_cost = 250.894
+
+generated 500 feasible columns - time 12.66 s, actually added 313/500 , min_cost = 459 , avg_cost = 768.772
+
+generated 500 feasible columns - time 5.39 s, actually added 250/500 , min_cost = 177 , avg_cost = 303.142
+
+generated 500 feasible columns - time 7.83 s, actually added 441/500 , min_cost = 218 , avg_cost = 419.92
+# iterations : 61
+master obj val : 5639.955152407533
+LR dual bound : 5635.786872915685
+CG time : 513.891s
+
+application 0
+	pattern  303 : 1.000 [39, 24, 0, 22, 15]
+application 1
+	pattern  299 : 0.161 [39, 33, 39, 11, 39, 8, 39, 39, 39, 14]
+	pattern  306 : 0.839 [39, 29, 39, 11, 39, 8, 39, 39, 39, 14]
+application 2
+	pattern  550 : 0.889 [39, 13, 39, 39, 19, 25, 31, 39, 0, 20, 39, 13, 1, 39, 39]
+	pattern  553 : 0.090 [39, 26, 39, 39, 19, 5, 29, 39, 0, 19, 39, 12, 3, 39, 39]
+	pattern  558 : 0.021 [39, 13, 39, 39, 19, 14, 29, 39, 16, 6, 39, 12, 11, 39, 39]
+application 3
+	pattern  342 : 0.085 [39, 39, 39, 8, 29, 39, 39, 17, 8, 22, 39, 0, 39]
+	pattern  353 : 0.241 [39, 39, 39, 8, 6, 39, 39, 26, 22, 3, 39, 5, 39]
+	pattern  358 : 0.245 [39, 39, 39, 8, 29, 39, 39, 17, 22, 3, 39, 5, 39]
+	pattern  359 : 0.083 [39, 39, 39, 8, 21, 39, 39, 20, 8, 22, 39, 5, 39]
+	pattern  360 : 0.089 [39, 39, 39, 8, 31, 39, 39, 19, 8, 22, 39, 5, 39]
+	pattern  361 : 0.034 [39, 39, 39, 8, 31, 39, 39, 26, 8, 22, 39, 5, 39]
+	pattern  362 : 0.096 [39, 39, 39, 8, 17, 39, 39, 17, 22, 3, 39, 0, 39]
+	pattern  363 : 0.128 [39, 39, 39, 8, 21, 39, 39, 9, 8, 22, 39, 5, 39]
+application 4
+	pattern  239 : 0.994 [39, 25, 8, 8]
+	pattern  246 : 0.006 [39, 14, 8, 8]
+application 5
+	pattern  308 : 0.085 [39, 39, 24, 39, 39, 20, 39, 4, 5, 39, 39, 5, 13, 39]
+	pattern  311 : 0.175 [39, 39, 17, 39, 39, 19, 39, 1, 0, 39, 39, 0, 6, 39]
+	pattern  313 : 0.242 [39, 39, 24, 39, 39, 20, 39, 4, 0, 39, 39, 0, 6, 39]
+	pattern  314 : 0.238 [39, 39, 24, 39, 39, 19, 39, 4, 5, 39, 39, 5, 6, 39]
+	pattern  315 : 0.202 [39, 39, 24, 39, 39, 19, 39, 1, 0, 39, 39, 0, 26, 39]
+	pattern  316 : 0.058 [39, 39, 17, 39, 39, 19, 39, 4, 0, 39, 39, 0, 13, 39]
+application 6
+	pattern  332 : 0.370 [39, 0, 4, 22, 9]
+	pattern  347 : 0.473 [39, 0, 15, 22, 9]
+	pattern  355 : 0.156 [39, 16, 15, 15, 9]
+application 7
+	pattern  245 : 0.156 [39, 39, 14, 16, 24]
+	pattern  249 : 0.018 [39, 39, 20, 5, 14]
+	pattern  255 : 0.241 [39, 39, 14, 0, 19]
+	pattern  256 : 0.173 [39, 39, 14, 12, 19]
+	pattern  257 : 0.254 [39, 39, 20, 5, 24]
+	pattern  264 : 0.158 [39, 39, 14, 16, 19]
+application 8
+	pattern  304 : 0.219 [39, 39, 0, 15, 39, 9, 26, 0, 39]
+	pattern  305 : 0.384 [39, 39, 16, 11, 39, 17, 17, 16, 39]
+	pattern  307 : 0.159 [39, 39, 0, 3, 39, 21, 13, 0, 39]
+	pattern  308 : 0.055 [39, 39, 12, 15, 39, 26, 26, 0, 39]
+	pattern  313 : 0.098 [39, 39, 16, 15, 39, 6, 26, 16, 39]
+	pattern  315 : 0.085 [39, 39, 16, 3, 39, 17, 17, 16, 39]
+application 9
+	pattern  309 : 0.132 [22, 0, 39, 39, 3, 6, 8, 8, 39, 39, 39, 39, 39, 39]
+	pattern  313 : 0.213 [8, 16, 39, 39, 11, 21, 3, 11, 39, 39, 39, 39, 39, 39]
+	pattern  314 : 0.044 [8, 16, 39, 39, 11, 13, 8, 8, 39, 39, 39, 39, 39, 39]
+	pattern  317 : 0.246 [8, 16, 39, 39, 18, 12, 18, 11, 39, 39, 39, 39, 39, 39]
+	pattern  320 : 0.117 [8, 5, 39, 39, 4, 21, 22, 22, 39, 39, 39, 39, 39, 39]
+	pattern  322 : 0.115 [22, 0, 39, 39, 18, 12, 22, 4, 39, 39, 39, 39, 39, 39]
+	pattern  323 : 0.133 [8, 16, 39, 39, 18, 21, 22, 4, 39, 39, 39, 39, 39, 39]
+application 10
+	pattern   94 : 1.000 [39, 39, 5]
+application 11
+	pattern  255 : 0.300 [39, 5, 14, 39]
+	pattern  256 : 0.682 [39, 5, 12, 39]
+	pattern  259 : 0.018 [39, 5, 5, 39]
+application 12
+	pattern  367 : 0.575 [39, 21, 39, 0, 25, 0, 9, 39, 18, 39, 39, 39, 12]
+	pattern  369 : 0.184 [39, 17, 39, 16, 5, 16, 29, 39, 3, 39, 39, 39, 17]
+	pattern  371 : 0.038 [39, 21, 39, 0, 24, 0, 9, 39, 22, 39, 39, 39, 12]
+	pattern  372 : 0.005 [39, 21, 39, 0, 25, 0, 29, 39, 22, 39, 39, 39, 17]
+	pattern  373 : 0.106 [39, 17, 39, 16, 14, 16, 9, 39, 18, 39, 39, 39, 17]
+	pattern  374 : 0.092 [39, 21, 39, 0, 24, 0, 29, 39, 3, 39, 39, 39, 17]
+application 13
+	pattern  260 : 0.411 [39, 12, 39, 18, 25]
+	pattern  282 : 0.534 [39, 12, 39, 18, 5]
+	pattern  284 : 0.055 [39, 12, 39, 18, 8]
+application 14
+	pattern  484 : 0.852 [39, 26, 16, 39, 39, 11]
+	pattern  492 : 0.148 [39, 26, 16, 39, 39, 15]
+
+discrete RMP : z* = 7495.0
+application patterns : [0, 299, 531, 341, 237, 299, 0, 69, 309, 312, 95, 233, 37, 168, 470]
+discrete RMP fail
+
+total discrete + repair time : 334.51 s
+
+dual 5635.786872915685 primal None
+
+--------------------------------------------------------------------------------
+
+15 apps, DATASET/networks/network_040_c_rp_1.dat DATASET/apps_merged/id_0083.dat
+
+
+CG :
+
+generated 500 feasible columns - time 61.72 s, actually added 497/500 , min_cost = 583 , avg_cost = 962.112
+
+generated 500 feasible columns - time 3.30 s, actually added 76/500 , min_cost = 70 , avg_cost = 210.838
+
+generated 500 feasible columns - time 33.89 s, actually added 258/500 , min_cost = 351 , avg_cost = 730.188
+
+generated 500 feasible columns - time 23.49 s, actually added 286/500 , min_cost = 544 , avg_cost = 922.61
+
+generated 500 feasible columns - time 110.36 s, actually added 363/500 , min_cost = 387 , avg_cost = 688.336
+
+generated 500 feasible columns - time 21.75 s, actually added 250/500 , min_cost = 459 , avg_cost = 892.612
+
+generated 500 feasible columns - time 5.93 s, actually added 252/500 , min_cost = 170 , avg_cost = 383.38
+
+generated 500 feasible columns - time 9.11 s, actually added 250/500 , min_cost = 140 , avg_cost = 407.952
+
+generated 500 feasible columns - time 9.43 s, actually added 254/500 , min_cost = 189 , avg_cost = 422.962
+
+generated 500 feasible columns - time 12.07 s, actually added 250/500 , min_cost = 218 , avg_cost = 428.078
+
+generated 500 feasible columns - time 37.71 s, actually added 365/500 , min_cost = 378 , avg_cost = 798.94
+
+generated 500 feasible columns - time 6.56 s, actually added 261/500 , min_cost = 289 , avg_cost = 478.724
+
+generated 500 feasible columns - time 5.07 s, actually added 245/500 , min_cost = 89 , avg_cost = 271.918
+
+generated 500 feasible columns - time 16.52 s, actually added 337/500 , min_cost = 449 , avg_cost = 732.434
+
+generated 500 feasible columns - time 64.95 s, actually added 494/500 , min_cost = 549 , avg_cost = 897.774
+# iterations : 47
+master obj val : 6175.088997006473
+LR dual bound : 6171.057109472832
+CG time : 666.439s
+
+application 0
+	pattern  529 : 0.119 [39, 39, 14, 19, 39, 3, 9, 7, 6, 7, 39, 5, 3]
+	pattern  536 : 0.052 [39, 39, 7, 7, 39, 3, 17, 7, 7, 7, 39, 20, 4]
+	pattern  537 : 0.018 [39, 39, 14, 14, 39, 3, 17, 14, 6, 7, 39, 5, 25]
+	pattern  539 : 0.348 [39, 39, 14, 7, 39, 4, 20, 14, 5, 14, 39, 6, 25]
+	pattern  540 : 0.170 [39, 39, 14, 14, 39, 25, 6, 14, 5, 14, 39, 7, 25]
+	pattern  542 : 0.198 [39, 39, 14, 11, 39, 3, 17, 15, 17, 14, 39, 3, 25]
+	pattern  543 : 0.052 [39, 39, 14, 14, 39, 3, 17, 15, 6, 7, 39, 5, 25]
+	pattern  544 : 0.043 [39, 39, 19, 19, 39, 25, 6, 19, 9, 19, 39, 9, 17]
+application 1
+	pattern    1 : 1.000 [39, 39, 15]
+application 2
+	pattern  291 : 0.007 [39, 39, 39, 25, 39, 0, 25, 39, 39, 16, 24, 39]
+	pattern  303 : 0.264 [39, 39, 39, 25, 39, 0, 23, 39, 39, 16, 23, 39]
+	pattern  304 : 0.187 [39, 39, 39, 21, 39, 0, 19, 39, 39, 1, 13, 39]
+	pattern  305 : 0.543 [39, 39, 39, 25, 39, 0, 11, 39, 39, 16, 23, 39]
+application 3
+	pattern  323 : 0.292 [1, 19, 19, 33, 19, 19, 9, 21, 39, 11, 39, 39, 39]
+	pattern  325 : 0.057 [1, 19, 7, 0, 7, 7, 20, 12, 39, 11, 39, 39, 39]
+	pattern  328 : 0.088 [1, 19, 7, 4, 7, 7, 20, 21, 39, 6, 39, 39, 39]
+	pattern  329 : 0.190 [1, 19, 7, 4, 7, 7, 20, 12, 39, 11, 39, 39, 39]
+	pattern  332 : 0.081 [1, 19, 7, 0, 19, 19, 19, 21, 39, 6, 39, 39, 39]
+	pattern  333 : 0.291 [1, 19, 7, 0, 7, 7, 20, 21, 39, 11, 39, 39, 39]
+application 4
+	pattern  397 : 0.006 [39, 39, 39, 11, 11, 11, 39, 39, 17, 39, 23]
+	pattern  398 : 0.123 [39, 39, 39, 23, 11, 11, 39, 39, 11, 39, 23]
+	pattern  402 : 0.049 [39, 39, 39, 13, 17, 11, 39, 39, 18, 39, 11]
+	pattern  403 : 0.029 [39, 39, 39, 9, 11, 11, 39, 39, 17, 39, 23]
+	pattern  404 : 0.267 [39, 39, 39, 9, 21, 13, 39, 39, 2, 39, 24]
+	pattern  405 : 0.191 [39, 39, 39, 4, 21, 11, 39, 39, 2, 39, 11]
+	pattern  407 : 0.116 [39, 39, 39, 9, 12, 11, 39, 39, 2, 39, 23]
+	pattern  409 : 0.087 [39, 39, 39, 9, 21, 20, 39, 39, 2, 39, 24]
+	pattern  410 : 0.132 [39, 39, 39, 9, 21, 24, 39, 39, 2, 39, 24]
+application 5
+	pattern  287 : 0.196 [19, 39, 19, 21, 39, 18, 39, 13, 21, 5, 39, 39, 39]
+	pattern  288 : 0.137 [14, 39, 19, 21, 39, 17, 39, 13, 34, 17, 39, 39, 39]
+	pattern  291 : 0.112 [19, 39, 19, 1, 39, 5, 39, 4, 9, 17, 39, 39, 39]
+	pattern  293 : 0.194 [14, 39, 19, 1, 39, 18, 39, 5, 34, 17, 39, 39, 39]
+	pattern  295 : 0.161 [19, 39, 19, 21, 39, 18, 39, 6, 3, 17, 39, 39, 39]
+	pattern  296 : 0.034 [15, 39, 19, 1, 39, 5, 39, 6, 3, 17, 39, 39, 39]
+	pattern  297 : 0.167 [19, 39, 19, 1, 39, 17, 39, 13, 34, 17, 39, 39, 39]
+application 6
+	pattern    1 : 0.769 [15, 15, 15, 39, 39]
+	pattern  283 : 0.074 [19, 19, 19, 39, 39]
+	pattern  285 : 0.157 [7, 7, 7, 39, 39]
+application 7
+	pattern  281 : 0.465 [39, 39, 14, 39, 11, 39]
+	pattern  283 : 0.079 [39, 39, 7, 39, 5, 39]
+	pattern  284 : 0.456 [39, 39, 1, 39, 13, 39]
+application 8
+	pattern  291 : 0.092 [39, 39, 19, 11, 39, 7]
+	pattern  293 : 0.137 [39, 39, 19, 23, 39, 7]
+	pattern  296 : 0.770 [39, 39, 7, 11, 39, 23]
+application 9
+	pattern  274 : 0.838 [39, 1, 39, 21, 39, 39, 24, 39]
+	pattern  283 : 0.162 [39, 12, 39, 21, 39, 39, 24, 39]
+application 10
+	pattern  404 : 0.329 [39, 39, 39, 39, 6, 16, 17, 8, 39, 39, 14, 8]
+	pattern  406 : 0.168 [39, 39, 39, 39, 6, 1, 13, 34, 39, 39, 14, 1]
+	pattern  409 : 0.216 [39, 39, 39, 39, 6, 16, 20, 34, 39, 39, 14, 12]
+	pattern  411 : 0.286 [39, 39, 39, 39, 23, 16, 5, 8, 39, 39, 14, 8]
+application 11
+	pattern  300 : 0.326 [39, 1, 39, 16, 39, 14, 18, 3]
+	pattern  304 : 0.255 [39, 1, 39, 16, 39, 14, 28, 3]
+	pattern  307 : 0.290 [39, 7, 39, 8, 39, 7, 4, 20]
+	pattern  308 : 0.128 [39, 1, 39, 1, 39, 19, 4, 19]
+application 12
+	pattern  268 : 0.971 [24, 39, 39, 39]
+	pattern  269 : 0.029 [11, 39, 39, 39]
+application 13
+	pattern  375 : 0.256 [39, 12, 19, 25, 33, 7, 1, 25, 8]
+	pattern  380 : 0.104 [39, 12, 6, 25, 3, 7, 16, 25, 8]
+	pattern  381 : 0.087 [39, 12, 19, 3, 33, 7, 1, 3, 8]
+	pattern  382 : 0.159 [39, 12, 19, 25, 3, 7, 1, 25, 8]
+	pattern  384 : 0.394 [39, 12, 19, 9, 33, 7, 1, 3, 8]
+application 14
+	pattern  532 : 0.066 [39, 8, 21, 39, 14, 39, 39, 39, 2, 18, 2, 39, 17, 11]
+	pattern  533 : 0.070 [39, 8, 16, 39, 14, 39, 39, 39, 18, 17, 2, 39, 17, 19]
+	pattern  535 : 0.167 [39, 8, 16, 39, 14, 39, 39, 39, 18, 4, 2, 39, 24, 7]
+	pattern  537 : 0.092 [39, 34, 16, 39, 14, 39, 39, 39, 18, 4, 17, 39, 17, 20]
+	pattern  538 : 0.417 [39, 8, 16, 39, 14, 39, 39, 39, 18, 2, 2, 39, 17, 23]
+	pattern  541 : 0.189 [39, 34, 16, 39, 14, 39, 39, 39, 2, 18, 17, 39, 17, 23]
+
+discrete RMP : z* = 8608.0
+application patterns : [532, 83, 291, 9, 388, 295, 280, 272, 261, 275, 411, 106, 269, 379, 0]
+discrete RMP fail
+
+total discrete + repair time : 221.87 s
+
+dual 6171.057109472832 primal None
